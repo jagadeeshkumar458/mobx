@@ -19,8 +19,11 @@ it is added in batches of about 15–25 phones, newest first.
    outdoor peak`, `manufacturer local peak`); benchmarks need a `version`.
 6. Prices are the India launch price of the base variant (`variant` says which).
 7. Where a phone has several IP ratings, record the highest one in the rank list
-   (IP69K → `IP69`).
-8. Run the tests before pushing; `validatePhoneRecords` must return no issues.
+   (IP69K → `IP69`). Foldables' IP48 / IPX8 sit between IP65 and IP54 in the
+   rank list (better water, weaker dust); the order there is approximate.
+8. If a source contradicts itself on a value, leave that value out and note it
+   under "Known gaps".
+9. Run the tests before pushing; `validatePhoneRecords` must return no issues.
 
 ## Batches
 
@@ -28,7 +31,7 @@ it is added in batches of about 15–25 phones, newest first.
 |---|---|---|---|
 | 0 | Pixel 11, iPhone 18 Pro, Galaxy S26 | 3 | ✅ Done 2026-11-02 |
 | 1 | Newest top model per remaining brand | 12 | ✅ Done 2026-11-02 |
-| 2 | Samsung Galaxy S and Z series, 2022–2026 | ~20 | Pending |
+| 2 | Samsung Galaxy S and Z series, 2022–2026 | 29 | Partial 2026-11-02 (S21 FE missing) |
 | 3 | Apple iPhone 14 – 18 series | ~20 | Pending |
 | 4 | Google Pixel 6a – 11 series | ~15 | Pending |
 | 5 | OnePlus numbered, R, Nord series | ~25 | Pending |
@@ -51,6 +54,11 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 2: Galaxy S21 FE (India, Jan 2022) not yet added. Galaxy Z Fold 7 chip
+  left out because the source contradicted itself. Z Fold 8 Ultra has only its
+  price; Z Fold 4 / Flip 4 and S23-series chips are missing. Fill these from
+  samsung.com/in spec pages.
 
 - Most launch reports omit weight, Wi-Fi version, eSIM and update policy.
   A pass over manufacturer spec pages would fill many of these.

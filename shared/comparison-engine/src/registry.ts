@@ -81,7 +81,7 @@ export const specs: SpecDefinition[] = [
   s('on_device_ai', 'ai', 2, { type: 'boolean', direction: 'higher', weight: 0.6 }),
 
   s('weight_g', 'design', 1, { type: 'number', unit: 'g', direction: 'lower', minMeaningfulDelta: 10, weight: 0.5, tier: 'quick' }),
-  s('ip_rating', 'design', 2, { type: 'enum', direction: 'rank', rankOrder: ['IP69', 'IP68', 'IP67', 'IP65', 'IP54', 'IP53', 'None'], weight: 0.7 }),
+  s('ip_rating', 'design', 2, { type: 'enum', direction: 'rank', rankOrder: ['IP69', 'IP68', 'IP67', 'IP66', 'IP65', 'IP48', 'IPX8', 'IP54', 'IP53', 'None'], weight: 0.7 }),
   s('frame_material', 'design', 3, { type: 'text', direction: 'none' }),
 
   s('stereo_speakers', 'audio', 1, { type: 'boolean', direction: 'higher', weight: 0.6 }),
@@ -95,4 +95,4 @@ export const specs: SpecDefinition[] = [
   s('expert_rating', 'reviews', 1, { type: 'number', direction: 'none' }), // ratings from different outlets aren't comparable
 ];
 
-export const defaultRegistry: Registry = { version: '2026.11.2', categories, specs };
+export const defaultRegistry: Registry = { version: '2026.11.3', categories, specs };

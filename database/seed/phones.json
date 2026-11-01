@@ -1984,6 +1984,2581 @@
           "region": "IN"
         }
       }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 7",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2500",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Armor Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-7-fe",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 7 FE",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Armor Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-flip-7-and-galaxy-z-flip-7-fe-launched-in-india-price-pre-order-offers-and-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-4",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 4",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 154999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8+ Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-4",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 4",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8+ Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED Infinity Flex",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/372046/samsung-galaxy-z-flip-4-galaxy-z-fold-4-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-5",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 5",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 154999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 7.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IPX8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-5",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 5",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 99999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 3700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IPX8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/story/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-launched-india-price-top-specs-features-and-everything-else-391391-2023-07-26",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-6",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 6",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 164999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 3 for Galaxy",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 7.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-6",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 6",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 3 for Galaxy",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-fold-6-flip-6-launched-in-india-check-price-specs-offers-124071100220_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 7",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 174999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 215,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/samsung-galaxy-z-fold-7-launched-in-india-price-specs-offers-everything-you-need-to-know",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-8",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 8",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 179999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 7.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4800,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 17",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-flip-8",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 8",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 124999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2600",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 17",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-z-fold-8-and-galaxy-z-flip-8-launched-in-india-price-specs-and-more-details.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-z-fold-8-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 8 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 199999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/samsung-galaxy-z-fold-8-z-fold-8-ultra-z-flip-8-prices-in-india-officially-revealed",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s22",
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 72999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 3700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 12 (One UI 4.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s22-plus",
+      "brand": "Samsung",
+      "model": "Galaxy S22+",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 84999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 12 (One UI 4.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s22-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Edge Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 108,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s22-series-price-in-india-starts-from-rs-72999-check-full-prices-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s23",
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 74999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 3900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s23-plus",
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 94999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s23-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 124999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/samsung-galaxy-s23-ultra-s23-plus-and-s23-launched-in-india-see-pricing-and-specs-368642-2023-02-02",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s23-fe",
+      "brand": "Samsung",
+      "model": "Galaxy S23 FE",
+      "variant": "Base variant (not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 209,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s24",
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Samsung Exynos 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 79999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24_galaxy_s24_plus_galaxy_s24_ultra_india_price_offers-news-61267.php",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s24-plus",
+      "brand": "Samsung",
+      "model": "Galaxy S24+",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Samsung Exynos 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 99999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24_galaxy_s24_plus_galaxy_s24_ultra_india_price_offers-news-61267.php",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s24-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 8 Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Titanium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/samsung-galaxy-s24-series-launched-in-india-check-full-specs-key-features",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 129999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24_galaxy_s24_plus_galaxy_s24_ultra_india_price_offers-news-61267.php",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s24-fe",
+      "brand": "Samsung",
+      "model": "Galaxy S24 FE",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2400e",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (One UI 6.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://businesstoday.in/technology/news/story/samsung-galaxy-s24-fe-with-exynos-2400-chipset-launched-in-india-check-price-specifications-and-more-447849-2024-09-27",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s25-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 129999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic LTPO AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s25-plus",
+      "brand": "Samsung",
+      "model": "Galaxy S25+",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 99999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic LTPO AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s25",
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 80999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-launches-galaxy-s25-series-in-india/988358/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s25-fe",
+      "brand": "Samsung",
+      "model": "Galaxy S25 FE",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (One UI 8)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Armor Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s25-fe-launched-in-india/999870/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s26-plus",
+      "brand": "Samsung",
+      "model": "Galaxy S26+",
+      "variant": "12GB/256GB (Exynos)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 119999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2600",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s26-ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S26 Ultra",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 139999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 60,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/samsung-galaxy-s26-series-launched-in-india/1004695/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
     }
   ]
 }
