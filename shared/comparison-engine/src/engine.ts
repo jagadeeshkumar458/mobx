@@ -1,4 +1,4 @@
-import { createHash } from 'node:crypto';
+import { sha256Hex } from './sha256.ts';
 import type {
   Cell, CategoryResult, ComparisonSnapshot, PhoneRecord, Registry, Row, SpecDefinition, SpecValue,
 } from './types.ts';
@@ -19,7 +19,7 @@ export function canonicalJson(v: unknown): string {
 }
 
 export function hashSnapshot(s: Omit<ComparisonSnapshot, 'contentHash' | 'createdAt'>): string {
-  return createHash('sha256').update(canonicalJson(s)).digest('hex');
+  return sha256Hex(canonicalJson(s));
 }
 
 /** The one and only formatter. Dashboard and video both show `cell.display`. */

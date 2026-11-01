@@ -2,10 +2,13 @@
 
 Multilingual smartphone comparison platform with a comparison-video studio.
 
+**Live engine demo:** https://jagadeeshkumar458.github.io/mobx/ (fictional test phones)
+
 ## Status
 
 - **Done:** `shared/comparison-engine`, the single source of truth. The comparison page and the video generator both read the same immutable, hashed comparison snapshot, so specs can never differ between the website and a video. 19 tests.
 - **Done:** `database/prisma/comparison.prisma`, tables for spec definitions, snapshots, video projects and render jobs.
+- **Done:** `site/`, a demo page that runs the real engine in the browser and deploys to GitHub Pages on every push.
 - **Next:** Express API routes, React comparison page, Remotion video studio, admin import with sourced real phone data.
 
 See [docs/comparison-engine.md](docs/comparison-engine.md) for the design and the rules the code enforces.

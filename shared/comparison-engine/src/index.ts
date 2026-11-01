@@ -3,6 +3,7 @@ export { buildSnapshot, verifySnapshot, formatValue, canonicalJson, ENGINE_VERSI
 export { recommend, profileVerdicts, DEFAULT_WEIGHTS, PROFILE_WEIGHTS } from './recommend.ts';
 export { defaultRegistry } from './registry.ts';
 export { toDashboard } from './adapters/dashboard.ts';
+export { specLabel } from './adapters/narration.ts';
 export { toStoryboard, validateStoryboard, assertRenderable } from './adapters/video.ts';
 export type { Storyboard, Scene, Fact, ValidationIssue } from './adapters/video.ts';
 export { createComparisonService } from './service.ts';
