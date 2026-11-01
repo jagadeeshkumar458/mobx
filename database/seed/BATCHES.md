@@ -33,7 +33,7 @@ it is added in batches of about 15–25 phones, newest first.
 | 1 | Newest top model per remaining brand | 12 | ✅ Done 2026-11-02 |
 | 2 | Samsung Galaxy S and Z series, 2022–2026 | 29 | Partial 2026-11-02 (S21 FE missing) |
 | 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
-| 4 | Google Pixel 6a – 11 series | ~15 | Pending |
+| 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 5 | OnePlus numbered, R, Nord series | ~25 | Pending |
 | 6 | Xiaomi numbered series + Redmi Note series | ~25 | Pending |
 | 7 | POCO F, X, M series | ~25 | Pending |
@@ -65,6 +65,9 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
   publish battery mAh; the 16-series and SE figures are marked not verified.
   "8x" zoom quoted for the 17 Pro / Pro Max and 18 Pro Max is Apple's
   optical-quality zoom, not true optical, so it was left out.
+- Batch 4: Pixel 11 Pro / 11 Pro XL / 11 Pro Fold, Pixel 7a and Pixel 6a have
+  only their India price. Fill from store.google.com/<region>/product/<model>_specs.
+  Pixel 10 Pro / Pro XL / Pro Fold storage for the base price wasn't stated.
 
 - Most launch reports omit weight, Wi-Fi version, eSIM and update policy.
   A pass over manufacturer spec pages would fill many of these.

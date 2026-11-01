@@ -6018,6 +6018,1969 @@
           "region": "IN"
         }
       }
+    },
+    {
+      "id": "google-pixel-11-pro",
+      "brand": "Google",
+      "model": "Pixel 11 Pro",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 119999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/india-pricing-for-google-pixel-11-11-pro-11-pro-xl-11-pro-fold-official",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-11-pro-xl",
+      "brand": "Google",
+      "model": "Pixel 11 Pro XL",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 134999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/india-pricing-for-google-pixel-11-11-pro-11-pro-xl-11-pro-fold-official",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-11-pro-fold",
+      "brand": "Google",
+      "model": "Pixel 11 Pro Fold",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 186999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/india-pricing-for-google-pixel-11-11-pro-11-pro-xl-11-pro-fold-official",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-10",
+      "brand": "Google",
+      "model": "Pixel 10",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 79999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Actua OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4970,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 29,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-10-pro",
+      "brand": "Google",
+      "model": "Pixel 10 Pro",
+      "variant": "16GB (storage not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super Actua OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-10-pro-xl",
+      "brand": "Google",
+      "model": "Pixel 10 Pro XL",
+      "variant": "16GB (storage not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 124999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super Actua OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-10-pro-fold",
+      "brand": "Google",
+      "model": "Pixel 10 Pro Fold",
+      "variant": "16GB (storage not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 172999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 8.0,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4650,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-10a",
+      "brand": "Google",
+      "model": "Pixel 10a",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 49999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 10,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 183,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/475794/google-pixel-10a-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-9",
+      "brand": "Google",
+      "model": "Pixel 9",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 79999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Actua OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 27,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 18,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 198,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-9-pro",
+      "brand": "Google",
+      "model": "Pixel 9 Pro",
+      "variant": "16GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super Actua LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 23,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 199,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-9-pro-xl",
+      "brand": "Google",
+      "model": "Pixel 9 Pro XL",
+      "variant": "16GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 124999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super Actua LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 23,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 221,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.smartprix.com/bytes/google-pixel-9-pixel-9-pro-check-specs-and-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-9-pro-fold",
+      "brand": "Google",
+      "model": "Pixel 9 Pro Fold",
+      "variant": "Base variant (not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 172999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super Actua LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 8.0,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4650,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/business/google-unveils-first-ever-foldable-phone-pixel-9-pro-fold-at-172999",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-9a",
+      "brand": "Google",
+      "model": "Pixel 9a",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 49999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 23,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 7.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.themobileindian.com/news/google-pixel-9a-launched-in-india-know-all-details",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-8",
+      "brand": "Google",
+      "model": "Pixel 8",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 75999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4575,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-8-pro",
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "variant": "12GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 106999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5050,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://91mobiles.com/hub/google-pixel-8-pro-launched-india-price-specifications-release-date",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-8a",
+      "brand": "Google",
+      "model": "Pixel 8a",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 52999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4492,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP67",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/google-pixel-8a-launched-india-price-specifications-sale-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-7",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4355,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 195.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-7-pro",
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 84999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Google Tensor G2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 4.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 13",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 212,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/376071/google-pixel-7-pixel-7-pro-price-india-specifications.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-7a",
+      "brand": "Google",
+      "model": "Pixel 7a",
+      "variant": "Base variant (not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 43999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://techcrunch.com/2023/05/10/google-prices-pixel-7a-in-india-at-%E2%82%B943999-same-as-the-pixel-6a-launch-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "google-pixel-6a",
+      "brand": "Google",
+      "model": "Pixel 6a",
+      "variant": "Base variant (not stated)",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 43999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://techcrunch.com/2023/05/10/google-prices-pixel-7a-in-india-at-%E2%82%B943999-same-as-the-pixel-6a-launch-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
     }
   ]
 }
