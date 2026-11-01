@@ -25,6 +25,36 @@ it is added in batches of about 15–25 phones, newest first.
    under "Known gaps".
 9. Run the tests before pushing; `validatePhoneRecords` must return no issues.
 
+## Backfill: complete every record (do this before new batches)
+
+Every phone should carry every common field a spec page states: launch date,
+dimensions, thickness, weight, colours, chipset, CPU, GPU, RAM, storage and
+options, display type/size/resolution/PPI/refresh/brightness/protection, all
+rear cameras (main MP + aperture + sensor size + OIS, ultra-wide, telephoto,
+optical zoom, best video), front camera MP and video, battery, wired and
+wireless charging, OS at launch, update policy, IP rating, frame and back
+material, 5G, Wi-Fi, Bluetooth, NFC, USB, eSIM, fingerprint type, stereo
+speakers, headphone jack, AI assistant, AI features, Circle to Search.
+
+How:
+1. Prefer the manufacturer spec page (store.google.com …/product/<model>_specs,
+   apple.com/in/<model>/specs, samsung.com/in). Otherwise GSMArena's full spec
+   page, recorded with `sourceType: "spec_database"` and the page's region
+   (`GLOBAL`, `CN`…). AI assistant / Circle to Search usually need the maker's
+   page or announcement.
+2. Write an extract JSON and run `python3 scripts/merge_specs.py <extract>`.
+   It only adds missing fields, never overwrites, upgrades unverified values a
+   trusted source confirms, and logs disagreements to `CONFLICTS.md`.
+3. RAM and storage come from the Indian base variant (`variant`), not from
+   global pages; regional battery or charging differences show up as conflicts.
+4. Sensor sizes go in `main_sensor_size_inch`; `main_sensor` is for named
+   sensor models only.
+
+Status 2026-11-02: complete (29–32 of 33 common fields) for the 16 showcase
+phones: Pixel 11, iPhone 18 Pro / Pro Max, Galaxy S26 and the 12 batch-1
+flagships. Thin records still to backfill (69):
+samsung-galaxy-z-flip-7, samsung-galaxy-z-flip-7-fe, samsung-galaxy-z-fold-4, samsung-galaxy-z-flip-4, samsung-galaxy-z-fold-5, samsung-galaxy-z-flip-5, samsung-galaxy-z-fold-6, samsung-galaxy-z-flip-6, samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8, samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s22, samsung-galaxy-s22-plus, samsung-galaxy-s22-ultra, samsung-galaxy-s23, samsung-galaxy-s23-plus, samsung-galaxy-s23-ultra, samsung-galaxy-s23-fe, samsung-galaxy-s24, samsung-galaxy-s24-plus, samsung-galaxy-s24-ultra, samsung-galaxy-s24-fe, samsung-galaxy-s25-ultra, samsung-galaxy-s25-plus, samsung-galaxy-s25, samsung-galaxy-s25-fe, samsung-galaxy-s26-plus, samsung-galaxy-s26-ultra, apple-iphone-14, apple-iphone-14-plus, apple-iphone-14-pro, apple-iphone-14-pro-max, apple-iphone-15, apple-iphone-15-plus, apple-iphone-15-pro, apple-iphone-15-pro-max, apple-iphone-16, apple-iphone-16-plus, apple-iphone-16-pro, apple-iphone-16-pro-max, apple-iphone-16e, apple-iphone-17, apple-iphone-air, apple-iphone-17-pro, apple-iphone-17-pro-max, apple-iphone-17e, apple-iphone-duo, apple-iphone-se-2022, google-pixel-11-pro, google-pixel-11-pro-xl, google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro, google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a, google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl, google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro, google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a, google-pixel-6a.
+
 ## Batches
 
 | # | Scope | Phones | Status |

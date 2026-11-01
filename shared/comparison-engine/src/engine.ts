@@ -6,7 +6,8 @@ import type {
 export const ENGINE_VERSION = '1.0.0';
 
 /** Only these source types can decide a winner. Others are shown, labelled, never ranked. */
-const TRUSTED = new Set(['manufacturer', 'independently_measured', 'expert_review', 'official_issue']);
+/** spec_database = compiled manufacturer specs (e.g. GSMArena); trusted, but always shown with its source. */
+const TRUSTED = new Set(['manufacturer', 'spec_database', 'independently_measured', 'expert_review', 'official_issue']);
 
 export function canonicalJson(v: unknown): string {
   if (Array.isArray(v)) return `[${v.map(canonicalJson).join(',')}]`;

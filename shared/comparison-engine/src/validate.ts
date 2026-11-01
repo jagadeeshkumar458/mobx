@@ -3,7 +3,7 @@ import type { PhoneRecord, Registry, SpecValue } from './types.ts';
 export interface RecordIssue { phoneId: string; specKey?: string; problem: string }
 
 const SOURCE_TYPES = new Set([
-  'manufacturer', 'independently_measured', 'expert_review', 'user_reported', 'official_issue', 'estimated', 'not_verified',
+  'manufacturer', 'independently_measured', 'spec_database', 'expert_review', 'user_reported', 'official_issue', 'estimated', 'not_verified',
 ]);
 
 function typeMatches(type: string, v: SpecValue['value']): boolean {

@@ -17,6 +17,7 @@ const PHONES = [...REAL, ...FICTIONAL];
 type Lang = 'en' | 'te';
 
 const CATEGORY_LABELS: Record<string, string> = {
+  overview: 'Overview',
   performance: 'Processor & performance', camera: 'Camera', display: 'Display', battery: 'Battery & charging',
   software: 'Software & updates', price: 'Price & value', ai: 'AI features', design: 'Build & design',
   audio: 'Audio', connectivity: 'Connectivity', biometrics: 'Biometrics & sensors', reliability: 'Reliability',
@@ -27,6 +28,10 @@ const EXTRA_LABELS: Record<string, string> = {
   main_sensor_size_inch: 'Sensor size', display_tech: 'Display type', screen_size_in: 'Screen size',
   os_at_launch: 'OS at launch', ai_assistant: 'AI assistant', frame_material: 'Frame', headphone_jack: '3.5 mm jack',
   esim: 'eSIM', known_issues: 'Known issues', cross_device_sharing: 'Cross-device sharing', expert_rating: 'Expert rating',
+  launch_date: 'Launch date', dimensions_mm: 'Dimensions', colours: 'Colours', cpu: 'CPU', gpu: 'GPU', storage_options: 'Storage options',
+  main_aperture: 'Main camera aperture', ultrawide_mp: 'Ultra-wide camera', telephoto_mp: 'Telephoto camera', front_camera_mp: 'Front camera',
+  resolution: 'Resolution', screen_protection: 'Screen protection', back_material: 'Back', bluetooth_version: 'Bluetooth', usb: 'USB',
+  face_unlock: 'Face unlock', ai_features: 'AI features', circle_to_search: 'Circle to Search',
 };
 const NOTE_TEXT: Record<string, string> = {
   incomparable_conditions: 'Measured under different test conditions, so not ranked',

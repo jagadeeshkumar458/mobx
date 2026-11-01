@@ -39,6 +39,7 @@ const SPEC_LABELS: Record<'en' | 'te', Record<string, string>> = {
     geekbench_single: 'Geekbench single-core', geekbench_multi: 'Geekbench multi-core', ram_type: 'RAM type', storage_type: 'Storage type',
     ois: 'Optical stabilisation', video_max: 'Best video mode', on_device_ai: 'On-device AI', stereo_speakers: 'Stereo speakers',
     wifi_version: 'Wi-Fi', fingerprint_type: 'Fingerprint sensor', display_replacement_inr: 'Screen replacement cost',
+    ram_gb: 'RAM', storage_gb: 'Storage', ppi: 'Pixel density', thickness_mm: 'Thickness', front_video_max: 'Selfie video', five_g: '5G', nfc: 'NFC',
   },
   te: {
     antutu: 'AnTuTu స్కోర్', refresh_rate_hz: 'రిఫ్రెష్ రేట్', battery_mah: 'బ్యాటరీ సామర్థ్యం',
@@ -49,6 +50,7 @@ const SPEC_LABELS: Record<'en' | 'te', Record<string, string>> = {
     geekbench_single: 'Geekbench సింగిల్-కోర్', geekbench_multi: 'Geekbench మల్టీ-కోర్', ram_type: 'RAM రకం', storage_type: 'స్టోరేజ్ రకం',
     ois: 'ఆప్టికల్ స్టెబిలైజేషన్', video_max: 'అత్యుత్తమ వీడియో మోడ్', on_device_ai: 'ఆన్-డివైస్ AI', stereo_speakers: 'స్టీరియో స్పీకర్లు',
     wifi_version: 'Wi-Fi', fingerprint_type: 'ఫింగర్‌ప్రింట్ సెన్సర్', display_replacement_inr: 'స్క్రీన్ మార్పు ఖర్చు',
+    ram_gb: 'RAM', storage_gb: 'స్టోరేజ్', ppi: 'పిక్సెల్ సాంద్రత', thickness_mm: 'మందం', front_video_max: 'సెల్ఫీ వీడియో', five_g: '5G', nfc: 'NFC',
   },
 };
 

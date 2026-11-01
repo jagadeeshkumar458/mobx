@@ -41,11 +41,16 @@ test('values no source stated stay "Not available"', () => {
   assert.equal(cell('performance', 'antutu', 'google-pixel-11').display, 'Not available');
 });
 
-test('Samsung figures from unconfirmed reports are labelled and never win', () => {
-  const upd = cell('software', 'os_updates_years', 'samsung-galaxy-s26');
-  assert.equal(upd.status, 'not_verified');
-  assert.match(upd.display, /not verified/);
+test('unconfirmed figures are labelled and never win', () => {
+  // The ₹99,999 price-hike headline could not be confirmed, so it stays unverified.
+  const price = cell('price', 'current_price_inr', 'samsung-galaxy-s26');
+  assert.equal(price.status, 'not_verified');
+  assert.match(price.display, /not verified/);
   assert.deepEqual(row('price', 'current_price_inr').winnerIds, []);
+  // Every seed value marked unverified must also be shown as such.
+  for (const r of records) for (const [k, v] of Object.entries(r.specs)) {
+    if (v.verification === 'unverified') assert.equal(v.sourceType, 'not_verified', `${r.id}.${k}`);
+  }
 });
 
 test('brightness measured differently (peak vs outdoor peak) is not ranked', () => {
@@ -54,7 +59,7 @@ test('brightness measured differently (peak vs outdoor peak) is not ranked', () 
 
 test('verified differences are ranked', () => {
   assert.deepEqual(row('camera', 'optical_zoom_x').winnerIds, ['google-pixel-11']);
-  assert.deepEqual(row('camera', 'video_max').winnerIds, ['apple-iphone-18-pro']);
+  assert.deepEqual(row('camera', 'video_max').winnerIds, ['samsung-galaxy-s26']); // 8K beats 4K120 in the rank list
   assert.deepEqual(row('design', 'weight_g').winnerIds, ['samsung-galaxy-s26']);
   assert.deepEqual(row('battery', 'battery_mah').winnerIds, ['google-pixel-11']);
   assert.equal(row('display', 'refresh_rate_hz').note, 'tie');

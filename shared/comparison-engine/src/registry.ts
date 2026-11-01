@@ -13,6 +13,7 @@ const c = (
 });
 
 export const categories: CategoryDefinition[] = [
+  c('overview', 0, 'P0', 'none', 'featureGrid', false),
   c('performance', 1, 'P0', 'performance', 'processorBattle'),
   c('camera', 2, 'P0', 'camera', 'cameraBattle'),
   c('display', 3, 'P0', 'display', 'displayBattle'),
@@ -81,7 +82,7 @@ export const specs: SpecDefinition[] = [
   s('on_device_ai', 'ai', 2, { type: 'boolean', direction: 'higher', weight: 0.6 }),
 
   s('weight_g', 'design', 1, { type: 'number', unit: 'g', direction: 'lower', minMeaningfulDelta: 10, weight: 0.5, tier: 'quick' }),
-  s('ip_rating', 'design', 2, { type: 'enum', direction: 'rank', rankOrder: ['IP69', 'IP68', 'IP67', 'IP66', 'IP65', 'IP48', 'IPX8', 'IP54', 'IP53', 'None'], weight: 0.7 }),
+  s('ip_rating', 'design', 2, { type: 'enum', direction: 'rank', rankOrder: ['IP69', 'IP68', 'IP67', 'IP66', 'IP65', 'IP64', 'IP48', 'IPX8', 'IP54', 'IP53', 'None'], weight: 0.7 }),
   s('frame_material', 'design', 3, { type: 'text', direction: 'none' }),
 
   s('stereo_speakers', 'audio', 1, { type: 'boolean', direction: 'higher', weight: 0.6 }),
@@ -93,6 +94,33 @@ export const specs: SpecDefinition[] = [
   s('display_replacement_inr', 'service', 1, { type: 'number', unit: 'INR', direction: 'lower', minMeaningfulDelta: 1000, weight: 0.6 }),
   s('cross_device_sharing', 'ecosystem', 1, { type: 'text', direction: 'none' }),
   s('expert_rating', 'reviews', 1, { type: 'number', direction: 'none' }), // ratings from different outlets aren't comparable
+
+  // Common specs every phone page lists (added 2026-11-02).
+  s('launch_date', 'overview', 1, { type: 'text', direction: 'none', tier: 'quick' }),
+  s('dimensions_mm', 'overview', 2, { type: 'text', direction: 'none' }),
+  s('colours', 'overview', 3, { type: 'list', direction: 'none' }),
+  s('cpu', 'performance', 8, { type: 'text', direction: 'none', tier: 'techie' }),
+  s('gpu', 'performance', 9, { type: 'text', direction: 'none', tier: 'techie' }),
+  s('ram_gb', 'performance', 10, { type: 'number', unit: 'GB', direction: 'higher', minMeaningfulDelta: 2, weight: 0.4, tier: 'quick' }),
+  s('storage_gb', 'performance', 11, { type: 'number', unit: 'GB', direction: 'higher', minMeaningfulDelta: 64, weight: 0.3, tier: 'quick' }),
+  s('storage_options', 'performance', 12, { type: 'text', direction: 'none' }),
+  s('main_aperture', 'camera', 7, { type: 'text', direction: 'none', tier: 'techie' }),
+  s('ultrawide_mp', 'camera', 8, { type: 'number', unit: 'MP', direction: 'none' }),
+  s('telephoto_mp', 'camera', 9, { type: 'number', unit: 'MP', direction: 'none' }),
+  s('front_camera_mp', 'camera', 10, { type: 'number', unit: 'MP', direction: 'none', tier: 'quick' }),
+  s('front_video_max', 'camera', 11, { type: 'enum', direction: 'rank', rankOrder: ['4K60', '4K30', '1080p60', '1080p30'], weight: 0.3 }),
+  s('resolution', 'display', 6, { type: 'text', direction: 'none' }),
+  s('ppi', 'display', 7, { type: 'number', unit: 'ppi', direction: 'higher', minMeaningfulDelta: 50, weight: 0.3, tier: 'techie' }),
+  s('screen_protection', 'display', 8, { type: 'text', direction: 'none' }),
+  s('thickness_mm', 'design', 4, { type: 'number', unit: 'mm', direction: 'lower', minMeaningfulDelta: 0.5, weight: 0.3 }),
+  s('back_material', 'design', 5, { type: 'text', direction: 'none' }),
+  s('five_g', 'connectivity', 3, { type: 'boolean', direction: 'higher', weight: 0.3 }),
+  s('bluetooth_version', 'connectivity', 4, { type: 'text', direction: 'none' }),
+  s('nfc', 'connectivity', 5, { type: 'boolean', direction: 'higher', weight: 0.3 }),
+  s('usb', 'connectivity', 6, { type: 'text', direction: 'none' }),
+  s('face_unlock', 'biometrics', 2, { type: 'text', direction: 'none' }),
+  s('ai_features', 'ai', 3, { type: 'list', direction: 'none' }),
+  s('circle_to_search', 'ai', 4, { type: 'boolean', direction: 'none' }),
 ];
 
-export const defaultRegistry: Registry = { version: '2026.11.3', categories, specs };
+export const defaultRegistry: Registry = { version: '2026.11.4', categories, specs };

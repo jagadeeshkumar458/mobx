@@ -5,6 +5,7 @@
 export type SourceType =
   | 'manufacturer'
   | 'independently_measured'
+  | 'spec_database'
   | 'expert_review'
   | 'user_reported'
   | 'official_issue'
