@@ -32,7 +32,7 @@ it is added in batches of about 15–25 phones, newest first.
 | 0 | Pixel 11, iPhone 18 Pro, Galaxy S26 | 3 | ✅ Done 2026-11-02 |
 | 1 | Newest top model per remaining brand | 12 | ✅ Done 2026-11-02 |
 | 2 | Samsung Galaxy S and Z series, 2022–2026 | 29 | Partial 2026-11-02 (S21 FE missing) |
-| 3 | Apple iPhone 14 – 18 series | ~20 | Pending |
+| 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 4 | Google Pixel 6a – 11 series | ~15 | Pending |
 | 5 | OnePlus numbered, R, Nord series | ~25 | Pending |
 | 6 | Xiaomi numbered series + Redmi Note series | ~25 | Pending |
@@ -59,6 +59,12 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
   left out because the source contradicted itself. Z Fold 8 Ultra has only its
   price; Z Fold 4 / Flip 4 and S23-series chips are missing. Fill these from
   samsung.com/in spec pages.
+- Batch 3: iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max, 17 / Air / 17 Pro, 17e and
+  iPhone Duo records are thin (launch reports gave few specs). Fill from
+  apple.com/in/<model>/specs or support.apple.com tech-spec pages. Apple doesn't
+  publish battery mAh; the 16-series and SE figures are marked not verified.
+  "8x" zoom quoted for the 17 Pro / Pro Max and 18 Pro Max is Apple's
+  optical-quality zoom, not true optical, so it was left out.
 
 - Most launch reports omit weight, Wi-Fi version, eSIM and update policy.
   A pass over manufacturer spec pages would fill many of these.

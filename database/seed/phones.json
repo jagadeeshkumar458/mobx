@@ -4559,6 +4559,1465 @@
           "region": "IN"
         }
       }
+    },
+    {
+      "id": "apple-iphone-14",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 79900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A15 Bionic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-14-plus",
+      "brand": "Apple",
+      "model": "iPhone 14 Plus",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A15 Bionic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-14-pro",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 129900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A16 Bionic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-14-pro-max",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 139900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A16 Bionic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-14-iphone-plus-launched-in-india/560647/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-15",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 79900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-15-plus",
+      "brand": "Apple",
+      "model": "iPhone 15 Plus",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-15-pro",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 134900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A17 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Titanium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-15-pro-max",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 159900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A17 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Titanium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.indiatvnews.com/technology/news/apple-iphone-15-series-key-specs-price-and-availability-in-india-revealed-apple-event-2023-2023-09-13-892417",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-16",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 79900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer HDR peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 3561,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Apple does not publish battery capacity; figure reported without a cited source"
+          }
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-16-plus",
+      "brand": "Apple",
+      "model": "iPhone 16 Plus",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer HDR peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4674,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Apple does not publish battery capacity; figure reported without a cited source"
+          }
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-16-pro",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 119900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A18 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer outdoor peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 3582,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Apple does not publish battery capacity; figure reported without a cited source"
+          }
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K120",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-16-pro-max",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 144900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A18 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer outdoor peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4685,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Apple does not publish battery capacity; figure reported without a cited source"
+          }
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K120",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-16e",
+      "brand": "Apple",
+      "model": "iPhone 16e",
+      "variant": "128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A18",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iphone-16e-launched-in-india-check-price/990141/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-17",
+      "brand": "Apple",
+      "model": "iPhone 17",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 82900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A19",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-air",
+      "brand": "Apple",
+      "model": "iPhone Air",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 119900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A19 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Titanium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-17-pro",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 134900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A19 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-17-pro-max",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 149900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A19 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=999597",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-17e",
+      "brand": "Apple",
+      "model": "iPhone 17e",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 64900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A19",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 26",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/?p=1004807",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-18-pro-max",
+      "brand": "Apple",
+      "model": "iPhone 18 Pro Max",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 179900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/iphone-18-pro-pro-max-duo-price-in-india-check-all-storage-variants-554449-2026-09-10",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A20 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer outdoor peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K120",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 249,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 27",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-duo",
+      "brand": "Apple",
+      "model": "iPhone Duo",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 299900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/iphone-18-pro-pro-max-duo-price-in-india-check-all-storage-variants-554449-2026-09-10",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 7.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/iphone-18-pro-pro-max-duo-price-in-india-check-all-storage-variants-554449-2026-09-10",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-se-2022",
+      "brand": "Apple",
+      "model": "iPhone SE (2022)",
+      "variant": "64GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 43900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Apple A15 Bionic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 4.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 2821,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Apple does not publish battery capacity; figure reported without a cited source"
+          }
+        },
+        "wired_charging_w": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 15.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 148,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP67",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
     }
   ]
 }
