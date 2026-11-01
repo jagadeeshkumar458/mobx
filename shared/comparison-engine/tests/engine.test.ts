@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
+  PACE,
   buildSnapshot, verifySnapshot, defaultRegistry, toDashboard, toStoryboard,
   validateStoryboard, assertRenderable, recommend,
 } from '../src/index.ts';
@@ -143,8 +144,11 @@ test('supports 1–5 phones, rejects 6 and duplicates', () => {
   assert.equal(five.phones.length, 5);
   assert.throws(() => snap(alpha, beta, gamma, delta, epsilon, { ...alpha, id: 'six' }), /between 1 and 5/);
   assert.throws(() => snap(alpha, alpha), /Duplicate/);
-  const sb = toStoryboard(five, { durationSec: 60 });
-  for (const sc of sb.scenes) assert.ok(sc.facts.length <= 10, `scene ${sc.id} overcrowded: ${sc.facts.length} facts`);
+  const sb = toStoryboard(five);
+  for (const sc of sb.scenes) for (const shot of sc.shots) {
+    assert.ok(shot.durationSec >= 3, `${sc.id} ${shot.kind} too short`);
+    assert.ok(shot.kind !== 'table' || shot.specKeys.length <= 5, `${sc.id} table overcrowded`);
+  }
   assert.deepEqual(validateStoryboard(sb, five), []);
 });
 
@@ -175,4 +179,37 @@ test('verdict frame highlight must match the recommendation', () => {
   assert.deepEqual(validateStoryboard(sb, s), []);
   const swapped = { ...sb, scenes: sb.scenes.map((x) => x === v ? { ...x, highlightPhoneId: 'fx-alpha' } : x) };
   assert.ok(validateStoryboard(swapped, s).some((i) => /Verdict phone differs/.test(i.problem)));
+});
+
+test('auto length gives every comparable spec its own readable card', () => {
+  const s = snap(alpha, beta);
+  const sb = toStoryboard(s);
+  const shown = new Set(sb.scenes.flatMap((sc) => sc.shots.flatMap((x) => x.specKeys)));
+  for (const c of s.categories.filter((c) => c.video.enabledByDefault && c.key !== 'recommendation')) {
+    for (const r of c.rows) {
+      if (r.cells.filter((x) => x.status === 'available').length >= 2) assert.ok(shown.has(r.specKey), `${r.specKey} missing from video`);
+    }
+  }
+  const spots = sb.scenes.flatMap((sc) => sc.shots.filter((x) => x.kind === 'spotlight'));
+  assert.ok(spots.length >= 8, `expected many head-to-head cards, got ${spots.length}`);
+  for (const x of spots) assert.equal(x.durationSec, PACE.spotlight);
+});
+
+test('a fixed length is respected by dropping lower-priority cards, never by shortening them', () => {
+  const s = snap(alpha, beta, gamma);
+  const auto = toStoryboard(s);
+  const short = toStoryboard(s, { durationSec: 45 });
+  const total = (sb: typeof auto) => sb.scenes.reduce((a, x) => a + x.durationSec, 0);
+  assert.ok(total(short) <= 45 + 0.01, `45s target produced ${total(short)}s`);
+  assert.ok(total(auto) > total(short));
+  for (const sc of short.scenes) for (const x of sc.shots) assert.ok(x.durationSec >= 3);
+  assert.deepEqual(validateStoryboard(short, s), []);
+});
+
+test('shortening a card below reading time is rejected', () => {
+  const s = snap(alpha, beta);
+  const sb = toStoryboard(s);
+  const sc = sb.scenes.find((x) => x.shots.some((y) => y.kind === 'spotlight'))!;
+  const rushed = { ...sb, scenes: sb.scenes.map((x) => x !== sc ? x : { ...x, shots: x.shots.map((y) => ({ ...y, durationSec: 1 })), durationSec: x.shots.length }) };
+  assert.ok(validateStoryboard(rushed, s).some((i) => /at least 3s to read/.test(i.problem)));
 });

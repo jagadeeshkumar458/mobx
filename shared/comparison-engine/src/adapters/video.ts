@@ -12,12 +12,24 @@ export interface Fact {
   isBest: boolean;
 }
 
+/**
+ * One on-screen card. The storyboard plans every shot and its reading time, so
+ * the preview player and the MP4 renderer show exactly the same cards for the
+ * same length of time.
+ */
+export interface Shot {
+  kind: 'intro' | 'reveal' | 'title' | 'chips' | 'table' | 'spotlight' | 'verdict' | 'outro';
+  specKeys: string[];
+  durationSec: number;
+}
+
 export interface Scene {
   id: string;
   type: string; // maps to a Remotion scene component per style
   categoryKey?: string;
   durationSec: number;
   facts: Fact[];
+  shots: Shot[];
   narration: string;
   narrationEditedByUser?: boolean;
   /** Verdict scene only: the recommended phone, checked against recommend(). */
@@ -33,23 +45,51 @@ export interface Storyboard {
 
 export interface StoryboardOptions {
   language?: Lang;
+  /** Target length. Omit for "auto": every comparable spec at reading pace. */
   durationSec?: number;
   /** Ordered category keys; defaults to categories with video.enabledByDefault. */
   categories?: string[];
   weights?: Weights;
 }
 
+/** Reading times in seconds. A viewer needs ~3–4 s to read one comparison card. */
+export const PACE = { intro: 4, reveal: 4, title: 3, chips: 4.5, spotlight: 3.5, table: 5, verdict: 5, outro: 4 } as const;
+export const MIN_SHOT_SEC = 3;
+export const TABLE_ROWS = 5;
+const SPOTLIGHT_MAX_CHARS = 16;
+
 const name = (s: ComparisonSnapshot, id: string) => {
   const p = s.phones.find((x) => x.id === id)!;
   return `${p.brand} ${p.model}`;
 };
 
-/** Rows worth a video beat: meaningful winners first, then honest "no data" notes. */
-function pickRows(rows: Row[], limit: number): Row[] {
-  const winners = rows.filter((r) => r.winnerIds.length > 0);
-  const quickInfo = rows.filter((r) => r.winnerIds.length === 0 && r.tier === 'quick' && r.cells.some((c) => c.status === 'available'));
-  return [...winners, ...quickInfo].slice(0, limit);
+const availableCells = (r: Row) => r.cells.filter((c) => c.status === 'available');
+
+/** Rows worth showing: data for at least two phones (or one, for a single-phone video). Winners first. */
+function rankRows(rows: Row[], phoneCount: number): Row[] {
+  const need = Math.min(2, phoneCount);
+  const usable = rows.filter((r) => availableCells(r).length >= need);
+  const score = (r: Row) => (r.winnerIds.length ? 0 : r.tier === 'quick' ? 1 : r.tier === 'detailed' ? 2 : 3);
+  return usable.map((r, i) => ({ r, i })).sort((a, b) => score(a.r) - score(b.r) || a.i - b.i).map((x) => x.r);
 }
+
+/** A head-to-head card: short values that actually differ between phones. */
+function spotlightable(r: Row): boolean {
+  const cells = availableCells(r);
+  if (r.specKey === 'chipset' || cells.some((c) => Array.isArray(c.value) || c.display.length > SPOTLIGHT_MAX_CHARS)) return false;
+  return new Set(cells.map((c) => c.display)).size > 1 || cells.length === 1;
+}
+
+function planShots(rows: Row[]): Shot[] {
+  const shots: Shot[] = [{ kind: 'title', specKeys: [], durationSec: PACE.title }];
+  if (rows.some((r) => r.specKey === 'chipset')) shots.push({ kind: 'chips', specKeys: ['chipset'], durationSec: PACE.chips });
+  const tableRows = rows.filter((r) => r.specKey !== 'chipset').map((r) => r.specKey);
+  for (let i = 0; i < tableRows.length; i += TABLE_ROWS) shots.push({ kind: 'table', specKeys: tableRows.slice(i, i + TABLE_ROWS), durationSec: PACE.table });
+  for (const r of rows.filter(spotlightable)) shots.push({ kind: 'spotlight', specKeys: [r.specKey], durationSec: PACE.spotlight });
+  return shots;
+}
+
+const sum = (shots: Shot[]) => Math.round(shots.reduce((a, x) => a + x.durationSec, 0) * 10) / 10;
 
 function narrateRow(s: ComparisonSnapshot, lang: Lang, row: Row): string {
   const spec = specLabel(lang, row.specKey);
@@ -70,47 +110,45 @@ function narrateRow(s: ComparisonSnapshot, lang: Lang, row: Row): string {
 export function toStoryboard(s: ComparisonSnapshot, opts: StoryboardOptions = {}): Storyboard {
   const lang = opts.language ?? 'en';
   const weights = opts.weights ?? DEFAULT_WEIGHTS;
-  const duration = opts.durationSec ?? 60;
   const catKeys = opts.categories ?? s.categories.filter((c) => c.video.enabledByDefault && c.key !== 'recommendation').map((c) => c.key);
-  const scenes: Omit<Scene, 'durationSec'>[] = [];
+  const scenes: Scene[] = [];
+  const fixedScene = (id: string, type: string, kind: Shot['kind'], narration: string, extra: Partial<Scene> = {}): Scene =>
+    ({ id, type, facts: [], shots: [{ kind, specKeys: [], durationSec: PACE[kind as keyof typeof PACE] }], durationSec: PACE[kind as keyof typeof PACE], narration, ...extra });
 
-  scenes.push({ id: 'intro', type: 'intro', facts: [], narration: t(lang, 'intro', { phones: s.phones.map((p) => name(s, p.id)).join(' vs ') }) });
-  scenes.push({ id: 'reveal', type: 'phoneReveal', facts: [], narration: '' });
+  scenes.push(fixedScene('intro', 'intro', 'intro', t(lang, 'intro', { phones: s.phones.map((p) => name(s, p.id)).join(' vs ') })));
+  scenes.push(fixedScene('reveal', 'phoneReveal', 'reveal', ''));
+  let verdict: Scene | null = null;
+  if (s.phones.length > 1) {
+    const rec = recommend(s, weights);
+    verdict = fixedScene('verdict', 'verdict', 'verdict',
+      rec.bestPhoneId ? t(lang, 'verdict', { phone: name(s, rec.bestPhoneId) }) : t(lang, 'verdictClose'), { highlightPhoneId: rec.bestPhoneId });
+  }
+  const outro = fixedScene('outro', 'outro', 'outro', t(lang, 'outro'));
+
+  // Time left for category scenes when a target length is set.
+  let budget = opts.durationSec === undefined ? Infinity
+    : opts.durationSec - sum([...scenes, verdict, outro].filter(Boolean).flatMap((x) => x!.shots));
 
   for (const key of catKeys) {
     const cat = s.categories.find((c) => c.key === key);
     if (!cat) throw new Error(`Unknown category in storyboard: ${key}`);
-    // Fewer rows per scene as phone count grows, to avoid overcrowding.
-    const rowLimit = Math.max(1, Math.floor((cat.video.maxFactsPerScene * 2) / s.phones.length));
-    const rows = pickRows(cat.rows, rowLimit);
+    let rows = rankRows(cat.rows, s.phones.length);
     if (!rows.length) continue;
+    let shots = planShots(rows);
+    // Trim lowest-priority rows until the scene fits the remaining budget.
+    while (sum(shots) > budget && rows.length > 1) { rows = rows.slice(0, -1); shots = planShots(rows); }
+    if (sum(shots) > budget) break;
+    budget -= sum(shots);
     scenes.push({
       id: `cat-${key}`, type: cat.video.sceneType, categoryKey: key,
-      facts: rows.flatMap((r) => r.cells.filter((c) => c.status === 'available')
-        .map((c) => ({ categoryKey: key, specKey: r.specKey, phoneId: c.phoneId, display: c.display, isBest: c.isBest }))),
+      facts: rows.flatMap((r) => availableCells(r).map((c) => ({ categoryKey: key, specKey: r.specKey, phoneId: c.phoneId, display: c.display, isBest: c.isBest }))),
+      shots, durationSec: sum(shots),
       narration: rows.map((r) => narrateRow(s, lang, r)).join(' '),
     });
   }
-
-  if (s.phones.length > 1) {
-    const rec = recommend(s, weights);
-    scenes.push({
-      id: 'verdict', type: 'verdict', facts: [], highlightPhoneId: rec.bestPhoneId,
-      narration: rec.bestPhoneId ? t(lang, 'verdict', { phone: name(s, rec.bestPhoneId) }) : t(lang, 'verdictClose'),
-    });
-  }
-  scenes.push({ id: 'outro', type: 'outro', facts: [], narration: t(lang, 'outro') });
-
-  // Split duration: fixed short intro/reveal/outro, the rest across content scenes.
-  const fixed = { intro: 3, reveal: 3, outro: 3 } as Record<string, number>;
-  const fixedTotal = scenes.reduce((a, sc) => a + (fixed[sc.id] ?? 0), 0);
-  const flexCount = scenes.filter((sc) => !(sc.id in fixed)).length || 1;
-  const each = Math.max(3, Math.round(((duration - fixedTotal) / flexCount) * 10) / 10);
-
-  return {
-    snapshotHash: s.contentHash, language: lang, weights,
-    scenes: scenes.map((sc) => ({ ...sc, durationSec: fixed[sc.id] ?? each })),
-  };
+  if (verdict) scenes.push(verdict);
+  scenes.push(outro);
+  return { snapshotHash: s.contentHash, language: lang, weights, scenes };
 }
 
 const NUM = /\d[\d,]*(?:\.\d+)?/g;
@@ -132,6 +170,16 @@ export function validateStoryboard(sb: Storyboard, s: ComparisonSnapshot): Valid
     issues.push({ sceneId: verdict.id, problem: 'Verdict phone differs from the recommendation for these priorities' });
   }
 
+  for (const sc of sb.scenes) {
+    const total = Math.round(sc.shots.reduce((a, x) => a + x.durationSec, 0) * 10) / 10;
+    if (Math.abs(total - sc.durationSec) > 0.05) issues.push({ sceneId: sc.id, problem: `Shot times (${total}s) don't add up to the scene length (${sc.durationSec}s)` });
+    for (const shot of sc.shots) {
+      if (shot.durationSec < MIN_SHOT_SEC) issues.push({ sceneId: sc.id, problem: `A ${shot.kind} card is on screen for ${shot.durationSec}s; viewers need at least ${MIN_SHOT_SEC}s to read it` });
+      if (shot.kind === 'table' && shot.specKeys.length > TABLE_ROWS) issues.push({ sceneId: sc.id, problem: `Table card has ${shot.specKeys.length} rows; the limit is ${TABLE_ROWS}` });
+      for (const k of shot.specKeys) if (!sc.facts.some((f) => f.specKey === k)) issues.push({ sceneId: sc.id, problem: `Card shows ${k}, which has no verified facts in this scene` });
+    }
+  }
+
   const phoneNums = s.phones.flatMap((p) => nums(`${p.brand} ${p.model} ${p.variant ?? ''}`));
   for (const sc of sb.scenes) {
     for (const f of sc.facts) {
@@ -141,7 +189,9 @@ export function validateStoryboard(sb: Storyboard, s: ComparisonSnapshot): Valid
       else if (cell.display !== f.display || cell.isBest !== f.isBest) issues.push({ sceneId: sc.id, problem: `Fact ${f.specKey}/${f.phoneId} differs from snapshot` });
     }
     // Every number spoken must come from this scene's facts (or a phone name).
-    const allowed = new Set([...sc.facts.flatMap((f) => nums(f.display)), ...phoneNums]);
+    // Numbers inside a spec's own name ("5G", "Wi-Fi 7" labels) are not claims.
+    const labelNums = sc.facts.flatMap((f) => nums(specLabel(sb.language, f.specKey)));
+    const allowed = new Set([...sc.facts.flatMap((f) => nums(f.display)), ...phoneNums, ...labelNums]);
     for (const n of nums(sc.narration)) {
       if (!allowed.has(n)) issues.push({ sceneId: sc.id, problem: `Narration states "${n}", which is not a verified value in this scene` });
     }

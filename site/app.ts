@@ -54,7 +54,7 @@ const state = {
   mode: 'detailed' as Tier,
   weights: { ...DEFAULT_WEIGHTS } as Weights,
   lang: 'en' as Lang,
-  duration: 60,
+  duration: undefined as number | undefined, // undefined = auto: every comparable spec at reading pace
   edits: {} as Record<string, string>,
 };
 
@@ -263,12 +263,12 @@ function renderStoryboard(): string {
       <p class="hint">Built from the same snapshot. Try editing a narration to add a number that isn't in the data.</p></div>
       <div class="controls">
         <label>Language <select data-ctl="lang"><option value="en" ${state.lang === 'en' ? 'selected' : ''}>English</option><option value="te" ${state.lang === 'te' ? 'selected' : ''}>తెలుగు</option></select></label>
-        <label>Length <select data-ctl="duration">${[30, 60, 90, 120].map((d) => `<option value="${d}" ${state.duration === d ? 'selected' : ''}>${d}s</option>`).join('')}</select></label>
+        <label>Length <select data-ctl="duration"><option value="auto" ${state.duration === undefined ? 'selected' : ''}>Auto (all specs)</option>${[60, 90, 120, 180, 300].map((d) => `<option value="${d}" ${state.duration === d ? 'selected' : ''}>${d < 120 ? d + 's' : d / 60 + ' min'}</option>`).join('')}</select></label>
         <button class="btn" data-ctl="reset">Reset edits</button>
       </div></div>
     <div id="status" class="status"></div>
     <h3 style="font-size:16px;margin-top:18px">Video preview</h3>
-    <p class="hint" style="margin:4px 0 0">Frames are drawn only from the storyboard facts above. Rendering to MP4 comes with the video engine; this preview plays the frames with their timing.</p>
+    <p class="hint" style="margin:4px 0 0">Every card stays on screen for at least 3 seconds (head-to-head cards 3.5s, tables 5s) and slides in slowly. Frames are drawn only from the storyboard facts. Rendering to MP4 comes with the video engine; this preview plays the cards with their real timing.</p>
     <div class="player" id="player">${renderPlayer()}</div>
     <h3 style="font-size:16px;margin-top:22px">Scenes and narration</h3>
     <div class="scenes">${scenes}</div>
@@ -377,15 +377,27 @@ function renderPlayer(): string {
       <button class="icon-btn" data-play="prev" aria-label="Previous frame">${icon('prev', 'sm')}</button>
       <button class="play-btn" data-play="toggle" aria-label="${player.playing ? 'Pause' : 'Play'}">${icon(player.playing ? 'pause' : 'play')}</button>
       <button class="icon-btn" data-play="next" aria-label="Next frame">${icon('next', 'sm')}</button>
-      <div class="progress" aria-hidden="true"><i style="width:${total ? (elapsed / total) * 100 : 0}%"></i></div>
-      <span class="time">${fmt(elapsed)} / ${fmt(total)} · frame ${player.index + 1}/${bs.length}</span>
+      <span class="time">${fmt(elapsed)} / ${fmt(total)} · card ${player.index + 1} of ${bs.length} · ${bs[player.index].durationSec}s on screen</span>
     </div>
+    <div class="shot-bar" aria-hidden="true">${bs.map((b, i) => `<i style="--w:${b.durationSec}" class="${i < player.index ? 'done' : i === player.index ? 'now' : ''}"></i>`).join('')}</div>
     <div class="filmstrip">${bs.map((b, i) => `<button class="thumb" data-beat="${i}" aria-current="${i === player.index}"><div class="screen">${renderFrame(b, ctx)}</div><small>${esc(b.title ?? b.layout)} · ${b.durationSec}s</small></button>`).join('')}</div>`;
 }
 
-function updatePlayer() {
+function updatePlayer(animate = true) {
   const el = document.getElementById('player');
-  if (el) el.innerHTML = renderPlayer();
+  if (!el) return;
+  const old = el.querySelector<HTMLElement>(':scope > .screen > .vf');
+  el.innerHTML = renderPlayer();
+  const screen = el.querySelector<HTMLElement>(':scope > .screen')!;
+  const fresh = screen.querySelector<HTMLElement>('.vf')!;
+  if (!animate) return;
+  fresh.classList.add('enter');
+  if (old) {
+    old.classList.remove('enter'); old.classList.add('leave');
+    screen.insertBefore(old, fresh);
+    setTimeout(() => old.remove(), 950);
+  }
+  el.querySelector<HTMLElement>('.thumb[aria-current="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
 }
 
 function schedule() {
@@ -588,7 +600,7 @@ document.addEventListener('keydown', (e) => {
 document.addEventListener('change', (e) => {
   const t = e.target as HTMLInputElement;
   if (t.dataset.ctl === 'lang') { state.lang = t.value as Lang; rebuild(); render(); }
-  if (t.dataset.ctl === 'duration') { state.duration = Number(t.value); rebuild(); render(); }
+  if (t.dataset.ctl === 'duration') { state.duration = t.value === 'auto' ? undefined : Number(t.value); rebuild(); render(); }
   if (t.dataset.ui === 'diff') { ui.diffOnly = t.checked; render(); }
   if (t.dataset.weight) {
     // Weights affect the verdict scene too, so rebuild the storyboard from the same snapshot.

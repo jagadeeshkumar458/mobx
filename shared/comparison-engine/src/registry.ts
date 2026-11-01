@@ -22,9 +22,9 @@ export const categories: CategoryDefinition[] = [
   c('price', 6, 'P0', 'price', 'priceBattle'),
   c('ai', 7, 'P0', 'ai', 'featureGrid'),
   c('design', 8, 'P1', 'design', 'designReveal'),
-  c('audio', 9, 'P1', 'none', 'featureGrid', false),
-  c('connectivity', 10, 'P1', 'none', 'featureGrid', false),
-  c('biometrics', 11, 'P1', 'none', 'featureGrid', false),
+  c('audio', 9, 'P1', 'none', 'featureGrid'),
+  c('connectivity', 10, 'P1', 'none', 'featureGrid'),
+  c('biometrics', 11, 'P1', 'none', 'featureGrid'),
   c('reliability', 12, 'P1', 'none', 'issueList', false),
   c('service', 13, 'P1', 'none', 'priceBattle', false),
   c('ecosystem', 14, 'P1', 'none', 'featureGrid', false),
@@ -123,4 +123,4 @@ export const specs: SpecDefinition[] = [
   s('circle_to_search', 'ai', 4, { type: 'boolean', direction: 'none' }),
 ];
 
-export const defaultRegistry: Registry = { version: '2026.11.4', categories, specs };
+export const defaultRegistry: Registry = { version: '2026.11.5', categories, specs };

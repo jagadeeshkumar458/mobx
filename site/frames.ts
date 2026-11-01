@@ -2,12 +2,13 @@
 // Frames are drawn ONLY from storyboard scenes (validated facts + phone names),
 // so the video can never show a value the comparison page doesn't.
 import type { Scene, ComparisonSnapshot } from '../shared/comparison-engine/src/index.ts';
+import { icon, CATEGORY_ICON } from './icons.ts';
 
 type Phone = ComparisonSnapshot['phones'][number];
 type Cell = { display: string; isBest: boolean };
 
 export type Layout =
-  | 'intro' | 'reveal' | 'versusTable' | 'bigStat' | 'chipCards' | 'statRows' | 'verdict' | 'outro';
+  | 'intro' | 'reveal' | 'titleCard' | 'versusTable' | 'bigStat' | 'chipCards' | 'statRows' | 'verdict' | 'outro';
 
 export interface Beat {
   sceneId: string;
@@ -18,6 +19,9 @@ export interface Beat {
   specs: { key: string; label: string; cells: Record<string, Cell> }[];
   theme: 'mint' | 'yellow' | 'dark' | 'light' | 'lavender' | 'purple';
   highlightPhoneId?: string | null;
+  categoryKey?: string;
+  /** e.g. "3 / 12" within the category. */
+  counter?: string;
 }
 
 export interface FrameContext {
@@ -43,38 +47,37 @@ const CATEGORY_THEME: Record<string, Beat['theme']> = {
   software: 'purple', price: 'yellow', ai: 'purple', design: 'mint',
 };
 
-/** Splits a scene into beats. Values come straight from scene.facts. */
+const SPOT_THEMES: Beat['theme'][] = ['dark', 'mint', 'yellow', 'light', 'lavender'];
+
+/** One beat per planned shot; the storyboard sets every duration. */
 export function buildBeats(scene: Scene, ctx: FrameContext): Beat[] {
-  const specs: Beat['specs'] = [];
+  const specs = new Map<string, Beat['specs'][number]>();
   for (const f of scene.facts) {
-    let s = specs.find((x) => x.key === f.specKey);
-    if (!s) { s = { key: f.specKey, label: ctx.label(f.specKey), cells: {} }; specs.push(s); }
+    let s = specs.get(f.specKey);
+    if (!s) { s = { key: f.specKey, label: ctx.label(f.specKey), cells: {} }; specs.set(f.specKey, s); }
     s.cells[f.phoneId] = { display: f.display, isBest: f.isBest };
   }
-  const base = { sceneId: scene.id, specs: [] as Beat['specs'], theme: 'purple' as Beat['theme'] };
-  let beats: Omit<Beat, 'durationSec'>[] = [];
-
-  if (scene.type === 'intro') beats = [{ ...base, layout: 'intro' }];
-  else if (scene.type === 'phoneReveal') beats = [{ ...base, layout: 'reveal', theme: 'mint' }];
-  else if (scene.type === 'verdict') beats = [{ ...base, layout: 'verdict', highlightPhoneId: scene.highlightPhoneId }];
-  else if (scene.type === 'outro') beats = [{ ...base, layout: 'outro', theme: 'dark' }];
-  else if (specs.length) {
-    const title = ctx.categoryTitle(scene.categoryKey ?? '');
-    const theme = CATEGORY_THEME[scene.categoryKey ?? ''] ?? 'purple';
-    const chip = specs.find((s) => s.key === 'chipset');
-    const rest = specs.filter((s) => s !== chip);
-    if (chip) beats.push({ ...base, layout: 'chipCards', title, specs: [chip], theme: 'light' });
-    if (rest.length >= 2) {
-      beats.push({ ...base, layout: scene.categoryKey === 'camera' ? 'statRows' : 'versusTable', title, specs: rest, theme: scene.categoryKey === 'camera' ? 'dark' : 'purple' });
+  const cat = scene.categoryKey;
+  const title = cat ? ctx.categoryTitle(cat) : undefined;
+  const pick = (keys: string[]) => keys.map((k) => specs.get(k)).filter((x): x is Beat['specs'][number] => !!x);
+  const total = scene.shots.length;
+  let spot = SPOT_THEMES.indexOf(CATEGORY_THEME[cat ?? ''] ?? 'dark');
+  return scene.shots.map((shot, i) => {
+    const base = { sceneId: scene.id, durationSec: shot.durationSec, specs: pick(shot.specKeys), categoryKey: cat, title, counter: cat && total > 1 ? `${i + 1} / ${total}` : undefined };
+    switch (shot.kind) {
+      case 'intro': return { ...base, layout: 'intro', theme: 'purple' };
+      case 'reveal': return { ...base, layout: 'reveal', theme: 'mint' };
+      case 'verdict': return { ...base, layout: 'verdict', theme: 'purple', highlightPhoneId: scene.highlightPhoneId };
+      case 'outro': return { ...base, layout: 'outro', theme: 'dark' };
+      case 'title': return { ...base, layout: 'titleCard', theme: 'purple', specs: [...specs.values()] };
+      case 'chips': return { ...base, layout: 'chipCards', theme: 'light' };
+      case 'table': return { ...base, layout: cat === 'camera' ? 'statRows' : 'versusTable', theme: cat === 'camera' ? 'dark' : 'purple' };
+      default: {
+        const theme = SPOT_THEMES[(spot = (spot + 1) % SPOT_THEMES.length)];
+        return { ...base, layout: 'bigStat', theme, title: base.specs[0]?.label };
+      }
     }
-    // Spotlight up to two specs with a clear winner, as big numbers over each phone.
-    for (const s of rest.filter((x) => Object.values(x.cells).some((c) => c.isBest)).slice(0, 2)) {
-      beats.push({ ...base, layout: 'bigStat', title: s.label, specs: [s], theme });
-    }
-    if (!beats.length) beats.push({ ...base, layout: 'versusTable', title, specs: rest, theme: 'purple' });
-  }
-  const each = Math.round((scene.durationSec / Math.max(beats.length, 1)) * 10) / 10;
-  return beats.map((b) => ({ ...b, durationSec: each }));
+  });
 }
 
 function phoneArt(): string {
@@ -88,6 +91,13 @@ function splitValue(display: string): [string, string] {
 }
 
 export function renderFrame(b: Beat, ctx: FrameContext): string {
+  const body = renderFrameBody(b, ctx);
+  if (!b.counter || b.layout === 'titleCard') return body;
+  // Progress label inside the frame's root element.
+  return body.replace(/<\/div>\s*$/, `<div class="vf-counter">${esc(b.title && b.layout !== 'bigStat' ? b.title : ctx.categoryTitle(b.categoryKey ?? ''))} · ${b.counter}</div></div>`);
+}
+
+function renderFrameBody(b: Beat, ctx: FrameContext): string {
   const ps = ctx.phones;
   const n = ps.length;
   const cols = `style="--cols:${n}"`;
@@ -95,6 +105,13 @@ export function renderFrame(b: Beat, ctx: FrameContext): string {
     style === 'caps' ? `<div class="vf-caps">${esc(shortName(p, ps))}</div>` : `<div><span class="vf-pill">${esc(p.brand)} ${esc(p.model)}</span></div>`).join('')}</div>`;
 
   switch (b.layout) {
+    case 'titleCard':
+      return `<div class="vf vf-purple vf-center vf-title-card">
+        <div class="vf-title-ic">${icon(CATEGORY_ICON[b.categoryKey ?? ''] ?? 'info')}</div>
+        <div class="vf-title-big">${esc(b.title ?? '')}</div>
+        <div class="vf-sub">${b.specs.length} spec${b.specs.length === 1 ? '' : 's'} compared</div>
+        <div class="vf-cols vf-title-phones" ${cols}>${ps.map((p) => `<span class="vf-pill">${esc(p.model)}</span>`).join('')}</div></div>`;
+
     case 'intro':
       return `<div class="vf vf-purple"><div class="vf-vsrow"><div class="vf-vs">${ctx.text.vs}</div>
         <div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col">${phoneArt()}<div class="vf-caps sm">${esc(shortName(p, ps))}</div><div class="vf-sub">${esc(p.model)}</div></div>`).join('')}</div></div>
@@ -106,7 +123,7 @@ export function renderFrame(b: Beat, ctx: FrameContext): string {
     case 'versusTable': {
       const rows = b.specs.map((s, i) => `<div class="vf-tr ${i % 2 ? 'alt' : ''}" ${cols}><div class="vf-td-label">${esc(s.label)}</div>${ps.map((p) => {
         const c = s.cells[p.id];
-        return `<div class="vf-td ${c ? (c.isBest ? 'best' : '') : 'na'}">${c ? esc(c.display) : 'N/A'}</div>`;
+        return `<div class="vf-td ${c ? (c.isBest ? 'best' : '') : 'na'} ${c && c.display.length > 28 ? 'long' : ''}">${c ? esc(c.display) : 'N/A'}</div>`;
       }).join('')}</div>`).join('');
       return `<div class="vf vf-purple vf-table"><div class="vf-thead" ${cols}><div class="vf-vs">${ctx.text.vs}</div>${ps.map((p) => `<div class="vf-col">${phoneArt()}<div class="vf-caps sm">${esc(shortName(p, ps))}</div></div>`).join('')}</div>
         <div class="vf-tbody">${rows}</div>${b.title ? `<div class="vf-tag">${esc(b.title)}</div>` : ''}</div>`;

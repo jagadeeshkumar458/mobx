@@ -6,7 +6,7 @@ export { recommend, profileVerdicts, DEFAULT_WEIGHTS, PROFILE_WEIGHTS } from './
 export { defaultRegistry } from './registry.ts';
 export { toDashboard } from './adapters/dashboard.ts';
 export { specLabel } from './adapters/narration.ts';
-export { toStoryboard, validateStoryboard, assertRenderable } from './adapters/video.ts';
-export type { Storyboard, Scene, Fact, ValidationIssue } from './adapters/video.ts';
+export { toStoryboard, validateStoryboard, assertRenderable, PACE, MIN_SHOT_SEC, TABLE_ROWS } from './adapters/video.ts';
+export type { Storyboard, Scene, Fact, Shot, ValidationIssue } from './adapters/video.ts';
 export { createComparisonService } from './service.ts';
 export type { SnapshotStore } from './service.ts';
