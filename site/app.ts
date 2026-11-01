@@ -9,6 +9,7 @@ import {
 import seed from '../database/seed/phones.json' with { type: 'json' };
 // Fictional test phones — not real products.
 import { alpha, beta, gamma, delta, epsilon } from '../shared/comparison-engine/tests/fixtures.ts';
+import { buildBeats, renderFrame, type Beat, type FrameContext } from './frames.ts';
 
 const REAL = seed.records as unknown as PhoneRecord[];
 const FICTIONAL = [alpha, beta, gamma, delta, epsilon];
@@ -50,6 +51,12 @@ const state = {
   edits: {} as Record<string, string>,
 };
 
+const FRAME_TEXT: Record<Lang, FrameContext['text']> = {
+  en: { vs: 'VS', winner: 'Winner', tooClose: 'Too close to call', sources: 'Sources in the description', placeholder: 'Phone outlines are placeholders until licensed images are added' },
+  te: { vs: 'VS', winner: 'విజేత', tooClose: 'తేడా చాలా తక్కువ', sources: 'మూలాలు వివరణలో ఉన్నాయి', placeholder: 'ఫోన్ చిత్రాలు తాత్కాలికమైనవి' },
+};
+const player = { index: 0, playing: false, timer: 0 as unknown as ReturnType<typeof setTimeout> };
+
 let snapshot: ComparisonSnapshot;
 let storyboard: Storyboard;
 
@@ -58,6 +65,7 @@ const label = (key: string) => EXTRA_LABELS[key] ?? specLabel('en', key);
 const phoneName = (id: string) => { const p = snapshot.phones.find((x) => x.id === id)!; return `${p.brand} ${p.model}`; };
 
 function rebuild() {
+  stopPlayer();
   const phones = state.selected.map((id) => PHONES.find((p) => p.id === id)!);
   snapshot = buildSnapshot(phones, defaultRegistry);
   storyboard = toStoryboard(snapshot, { language: state.lang, durationSec: state.duration, weights: state.weights });
@@ -139,6 +147,10 @@ function renderStoryboard(): string {
         <button class="btn" data-ctl="reset">Reset edits</button>
       </div></div>
     <div id="status" class="status"></div>
+    <h3 style="font-size:16px;margin-top:18px">Video preview</h3>
+    <p class="hint" style="margin:4px 0 0">Frames are drawn only from the storyboard facts above. Rendering to MP4 comes with the video engine; this preview plays the frames with their timing.</p>
+    <div class="player" id="player">${renderPlayer()}</div>
+    <h3 style="font-size:16px;margin-top:22px">Scenes and narration</h3>
     <div class="scenes">${scenes}</div>
   </section>`;
 }
@@ -171,6 +183,58 @@ function renderSources(): string {
         <span class="small">${[...e.types].join(', ')} · ${e.specs.map(esc).join(', ')}</span></li>`).join('')}</ul>`).join('')}
   </section>`;
 }
+
+function frameCtx(): FrameContext {
+  return {
+    phones: snapshot.phones,
+    label: (k) => (state.lang === 'en' ? label(k) : specLabel(state.lang, k)),
+    categoryTitle: (k) => CATEGORY_LABELS[k] ?? k,
+    text: FRAME_TEXT[state.lang],
+    snapshotHash: snapshot.contentHash,
+  };
+}
+
+function beats(): Beat[] {
+  const ctx = frameCtx();
+  return editedStoryboard().scenes.flatMap((sc) => buildBeats(sc, ctx));
+}
+
+const fmt = (sec: number) => `${Math.floor(sec / 60)}:${String(Math.floor(sec % 60)).padStart(2, '0')}`;
+
+function renderPlayer(): string {
+  const bs = beats();
+  if (player.index >= bs.length) player.index = 0;
+  const ctx = frameCtx();
+  const total = bs.reduce((a, b) => a + b.durationSec, 0);
+  const elapsed = bs.slice(0, player.index).reduce((a, b) => a + b.durationSec, 0);
+  return `<div class="screen" role="img" aria-label="Frame ${player.index + 1} of ${bs.length}">${renderFrame(bs[player.index], ctx)}</div>
+    <div class="player-bar">
+      <button class="btn" data-play="prev" aria-label="Previous frame">◀</button>
+      <button class="btn" data-play="toggle">${player.playing ? 'Pause' : 'Play'}</button>
+      <button class="btn" data-play="next" aria-label="Next frame">▶</button>
+      <div class="progress" aria-hidden="true"><i style="width:${total ? (elapsed / total) * 100 : 0}%"></i></div>
+      <span class="time">${fmt(elapsed)} / ${fmt(total)} · frame ${player.index + 1}/${bs.length}</span>
+    </div>
+    <div class="filmstrip">${bs.map((b, i) => `<button class="thumb" data-beat="${i}" aria-current="${i === player.index}"><div class="screen">${renderFrame(b, ctx)}</div><small>${esc(b.title ?? b.layout)} · ${b.durationSec}s</small></button>`).join('')}</div>`;
+}
+
+function updatePlayer() {
+  const el = document.getElementById('player');
+  if (el) el.innerHTML = renderPlayer();
+}
+
+function schedule() {
+  clearTimeout(player.timer);
+  if (!player.playing) return;
+  const bs = beats();
+  player.timer = setTimeout(() => {
+    if (player.index >= bs.length - 1) { player.playing = false; player.index = 0; }
+    else player.index++;
+    updatePlayer(); schedule();
+  }, bs[player.index].durationSec * 1000);
+}
+
+function stopPlayer() { player.playing = false; player.index = 0; clearTimeout(player.timer); }
 
 function updateValidation() {
   const issues = validateStoryboard(editedStoryboard(), snapshot);
@@ -232,7 +296,17 @@ document.addEventListener('click', (e) => {
   }
   const mode = t.closest<HTMLElement>('[data-mode]')?.dataset.mode as Tier | undefined;
   if (mode) { state.mode = mode; render(); return; }
-  if (t.closest('[data-ctl="reset"]')) { state.edits = {}; render(); }
+  if (t.closest('[data-ctl="reset"]')) { state.edits = {}; render(); return; }
+  const play = t.closest<HTMLElement>('[data-play]')?.dataset.play;
+  if (play) {
+    const n = beats().length;
+    if (play === 'toggle') player.playing = !player.playing;
+    if (play === 'prev') player.index = (player.index - 1 + n) % n;
+    if (play === 'next') player.index = (player.index + 1) % n;
+    updatePlayer(); schedule(); return;
+  }
+  const beat = t.closest<HTMLElement>('[data-beat]')?.dataset.beat;
+  if (beat !== undefined) { player.index = Number(beat); updatePlayer(); schedule(); }
 });
 
 document.addEventListener('change', (e) => {
@@ -242,7 +316,7 @@ document.addEventListener('change', (e) => {
   if (t.dataset.weight) {
     // Weights affect the verdict scene too, so rebuild the storyboard from the same snapshot.
     storyboard = toStoryboard(snapshot, { language: state.lang, durationSec: state.duration, weights: state.weights });
-    state.edits = {}; render();
+    state.edits = {}; stopPlayer(); render();
   }
 });
 

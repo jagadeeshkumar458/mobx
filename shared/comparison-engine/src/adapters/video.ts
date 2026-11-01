@@ -20,6 +20,8 @@ export interface Scene {
   facts: Fact[];
   narration: string;
   narrationEditedByUser?: boolean;
+  /** Verdict scene only: the recommended phone, checked against recommend(). */
+  highlightPhoneId?: string | null;
 }
 
 export interface Storyboard {
@@ -93,7 +95,7 @@ export function toStoryboard(s: ComparisonSnapshot, opts: StoryboardOptions = {}
   if (s.phones.length > 1) {
     const rec = recommend(s, weights);
     scenes.push({
-      id: 'verdict', type: 'verdict', facts: [],
+      id: 'verdict', type: 'verdict', facts: [], highlightPhoneId: rec.bestPhoneId,
       narration: rec.bestPhoneId ? t(lang, 'verdict', { phone: name(s, rec.bestPhoneId) }) : t(lang, 'verdictClose'),
     });
   }
@@ -124,6 +126,11 @@ export function validateStoryboard(sb: Storyboard, s: ComparisonSnapshot): Valid
   const issues: ValidationIssue[] = [];
   if (!verifySnapshot(s)) issues.push({ sceneId: '*', problem: 'Snapshot content hash does not match its contents' });
   if (sb.snapshotHash !== s.contentHash) issues.push({ sceneId: '*', problem: 'Storyboard was built from a different snapshot' });
+
+  const verdict = sb.scenes.find((x) => x.type === 'verdict');
+  if (verdict && verdict.highlightPhoneId !== recommend(s, sb.weights).bestPhoneId) {
+    issues.push({ sceneId: verdict.id, problem: 'Verdict phone differs from the recommendation for these priorities' });
+  }
 
   const phoneNums = s.phones.flatMap((p) => nums(`${p.brand} ${p.model} ${p.variant ?? ''}`));
   for (const sc of sb.scenes) {

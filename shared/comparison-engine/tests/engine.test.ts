@@ -166,3 +166,13 @@ test('view modes filter rows of the same snapshot without changing values', () =
   const t = techie.categories.find((c) => c.key === 'display')!.rows.find((r) => r.specKey === 'refresh_rate_hz')!;
   assert.deepEqual(q, t);
 });
+
+test('verdict frame highlight must match the recommendation', () => {
+  const s = snap(alpha, beta);
+  const sb = toStoryboard(s, { weights: { price: 5, battery: 3 } });
+  const v = sb.scenes.find((x) => x.type === 'verdict')!;
+  assert.equal(v.highlightPhoneId, 'fx-beta');
+  assert.deepEqual(validateStoryboard(sb, s), []);
+  const swapped = { ...sb, scenes: sb.scenes.map((x) => x === v ? { ...x, highlightPhoneId: 'fx-alpha' } : x) };
+  assert.ok(validateStoryboard(swapped, s).some((i) => /Verdict phone differs/.test(i.problem)));
+});
