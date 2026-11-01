@@ -3,12 +3,16 @@
 // the shared engine, exactly as the real app will do on the server.
 import {
   buildSnapshot, defaultRegistry, toDashboard, toStoryboard, validateStoryboard,
-  DEFAULT_WEIGHTS, specLabel, type ComparisonSnapshot, type Storyboard, type Tier, type Weights,
+  DEFAULT_WEIGHTS, specLabel, type ComparisonSnapshot, type PhoneRecord, type Storyboard, type Tier, type Weights,
 } from '../shared/comparison-engine/src/index.ts';
+// Real phones with a source on every value (validated in tests/seed.test.ts).
+import seed from '../database/seed/phones.json' with { type: 'json' };
 // Fictional test phones — not real products.
 import { alpha, beta, gamma, delta, epsilon } from '../shared/comparison-engine/tests/fixtures.ts';
 
-const PHONES = [alpha, beta, gamma, delta, epsilon];
+const REAL = seed.records as unknown as PhoneRecord[];
+const FICTIONAL = [alpha, beta, gamma, delta, epsilon];
+const PHONES = [...REAL, ...FICTIONAL];
 type Lang = 'en' | 'te';
 
 const CATEGORY_LABELS: Record<string, string> = {
@@ -38,7 +42,7 @@ const PROFILE_LABELS: Record<string, string> = {
 };
 
 const state = {
-  selected: ['fx-alpha', 'fx-beta'] as string[],
+  selected: REAL.map((p) => p.id),
   mode: 'detailed' as Tier,
   weights: { ...DEFAULT_WEIGHTS } as Weights,
   lang: 'en' as Lang,
@@ -139,6 +143,35 @@ function renderStoryboard(): string {
   </section>`;
 }
 
+function chip(p: PhoneRecord): string {
+  const on = state.selected.includes(p.id);
+  const full = !on && state.selected.length === 5;
+  return `<button class="chip" data-phone="${p.id}" aria-pressed="${on}" ${full ? 'disabled title="Up to 5 phones"' : ''}>${esc(p.brand)} ${esc(p.model)}</button>`;
+}
+
+/** Every source URL the current snapshot relies on, grouped by phone. */
+function renderSources(): string {
+  const byPhone = snapshot.phones.map((p) => {
+    const map = new Map<string, { specs: string[]; types: Set<string> }>();
+    for (const c of snapshot.categories) for (const r of c.rows) {
+      const cell = r.cells.find((x) => x.phoneId === p.id);
+      if (!cell?.sourceUrl || cell.sourceUrl.includes('example.test')) continue;
+      const e = map.get(cell.sourceUrl) ?? { specs: [], types: new Set() };
+      e.specs.push(label(r.specKey) + (cell.status === 'not_verified' ? ' (not verified)' : ''));
+      e.types.add(cell.sourceType!.replace(/_/g, ' '));
+      map.set(cell.sourceUrl, e);
+    }
+    return { p, map };
+  }).filter((x) => x.map.size);
+  if (!byPhone.length) return '';
+  return `<section class="section card"><h2>Sources</h2>
+    <p class="hint">Checked ${esc(REAL[0].specs[Object.keys(REAL[0].specs)[0]].lastUpdated)}. Hover a table cell to see its source type.</p>
+    ${byPhone.map(({ p, map }) => `<h3 class="src-phone">${esc(p.brand)} ${esc(p.model)} <span class="small">${esc(p.variant ?? '')} · ${esc(p.region ?? '')}</span></h3>
+      <ul class="sources">${[...map].map(([url, e]) => `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(new URL(url).hostname.replace(/^www\./, ''))}</a>
+        <span class="small">${[...e.types].join(', ')} · ${e.specs.map(esc).join(', ')}</span></li>`).join('')}</ul>`).join('')}
+  </section>`;
+}
+
 function updateValidation() {
   const issues = validateStoryboard(editedStoryboard(), snapshot);
   const status = document.getElementById('status')!;
@@ -161,12 +194,15 @@ function render() {
   <header class="top"><div class="wrap">
     <div class="brand"><h1>Mobile<span>Verse</span></h1><span class="sub">Comparison engine demo</span></div>
     <p class="lede">One verified snapshot feeds both the comparison page and the video storyboard, so a spec can never say one thing on the site and another in a video.</p>
-    <div class="banner">These phones are fictional test fixtures, not real products. They exist to show how the engine handles missing, unverified and incomparable data.</div>
+    <div class="banner">Real phones show only values a source stated, each with its link below; anything else shows “Not available”. Prices are India launch prices. The “Fixture” phones are fictional and only demonstrate edge cases.</div>
   </div></header>
   <main class="wrap">
     <section class="section">
       <div class="section-head"><h2>Pick 1–5 phones</h2><span class="hint">Click to add or remove</span></div>
-      <div class="chips">${PHONES.map((p) => `<button class="chip" data-phone="${p.id}" aria-pressed="${state.selected.includes(p.id)}">${esc(p.brand)} ${esc(p.model)}</button>`).join('')}</div>
+      <p class="group-label">Real phones · sourced</p>
+      <div class="chips">${REAL.map(chip).join('')}</div>
+      <p class="group-label">Fictional test phones</p>
+      <div class="chips">${FICTIONAL.map(chip).join('')}</div>
       <div class="meta"><span>Snapshot <code>${snapshot.contentHash.slice(0, 12)}</code></span><span>Engine ${snapshot.engineVersion}</span><span>Rules ${snapshot.registryVersion}</span><span>${missing} missing · ${unverified} unverified values</span></div>
     </section>
     <div class="grid">
@@ -178,6 +214,7 @@ function render() {
       <aside>${renderRecommendation()}</aside>
     </div>
     ${renderStoryboard()}
+    ${renderSources()}
   </main>
   <footer><div class="wrap">Source: <a href="https://github.com/jagadeeshkumar458/mobx">github.com/jagadeeshkumar458/mobx</a> · Engine code in <code>shared/comparison-engine</code></div></footer>`;
   updateValidation();
@@ -189,6 +226,7 @@ document.addEventListener('click', (e) => {
   if (phone) {
     const on = state.selected.includes(phone);
     if (on && state.selected.length === 1) return;
+    if (!on && state.selected.length === 5) return;
     state.selected = on ? state.selected.filter((x) => x !== phone) : [...state.selected, phone];
     rebuild(); render(); return;
   }

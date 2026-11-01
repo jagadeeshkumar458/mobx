@@ -1,5 +1,7 @@
 export * from './types.ts';
 export { buildSnapshot, verifySnapshot, formatValue, canonicalJson, ENGINE_VERSION } from './engine.ts';
+export { validatePhoneRecords } from './validate.ts';
+export type { RecordIssue } from './validate.ts';
 export { recommend, profileVerdicts, DEFAULT_WEIGHTS, PROFILE_WEIGHTS } from './recommend.ts';
 export { defaultRegistry } from './registry.ts';
 export { toDashboard } from './adapters/dashboard.ts';

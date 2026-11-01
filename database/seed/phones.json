@@ -1,0 +1,488 @@
+{
+  "$comment": "Real phone records. Every value has a source URL, region and verification status. Values a source did not state are left out, so the app shows \"Not available\". Run the seed validator before importing.",
+  "records": [
+    {
+      "id": "google-pixel-11",
+      "brand": "Google",
+      "model": "Pixel 11",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Google Tensor G6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "battery_mah": {
+          "value": 4985,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "wired_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "os_at_launch": {
+          "value": "Android 17",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "launch_price_inr": {
+          "value": 89999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/india-pricing-for-google-pixel-11-11-pro-11-pro-xl-11-pro-fold-official",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "via": "Beebom report of official India pricing"
+          }
+        },
+        "weight_g": {
+          "value": 197,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
+          "lastUpdated": "2026-11-02",
+          "region": "ES"
+        }
+      }
+    },
+    {
+      "id": "apple-iphone-18-pro",
+      "brand": "Apple",
+      "model": "iPhone 18 Pro",
+      "variant": "256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Apple A20 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K120",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED (Super Retina XDR)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer outdoor peak"
+          }
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 27",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 164900,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/iphone-18-pro-pro-max-duo-price-in-india-check-all-storage-variants-554449-2026-09-10",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "via": "Business Today report of official India pricing"
+          }
+        },
+        "weight_g": {
+          "value": 211,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium unibody",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-s26",
+      "brand": "Samsung",
+      "model": "Galaxy S26",
+      "variant": "12GB/256GB (Exynos)",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Samsung Exynos 2600",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://fi.google.com/about/phones/samsung-galaxy-s26-specs",
+          "lastUpdated": "2026-11-02",
+          "region": "US",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "battery_mah": {
+          "value": 4300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://www.gizbot.com/mobile/news/samsung-galaxy-s26-galaxy-s26-plus-launched-in-india-with-exynos-2600-chip-7-os-updates-123691.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Press report; not confirmed on a Samsung page"
+          }
+        },
+        "launch_price_inr": {
+          "value": 87999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "via": "Digit report of official India pricing"
+          }
+        },
+        "current_price_inr": {
+          "value": 99999,
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s26-first-price-hike-india-september-20th/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "note": "Headline only; page could not be opened to confirm"
+          }
+        },
+        "weight_g": {
+          "value": 167,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://fi.google.com/about/phones/samsung-galaxy-s26-specs",
+          "lastUpdated": "2026-11-02",
+          "region": "US"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s26-and-galaxy-s26-plus-launched-in-india-check-price-and-specs.html",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://fi.google.com/about/phones/samsung-galaxy-s26-specs",
+          "lastUpdated": "2026-11-02",
+          "region": "US"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://fi.google.com/about/phones/samsung-galaxy-s26-specs",
+          "lastUpdated": "2026-11-02",
+          "region": "US"
+        }
+      }
+    }
+  ]
+}

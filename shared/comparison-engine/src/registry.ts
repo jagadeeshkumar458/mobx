@@ -56,7 +56,7 @@ export const specs: SpecDefinition[] = [
   s('main_sensor_size_inch', 'camera', 3, { type: 'text', direction: 'none', tier: 'techie' }),
   s('ois', 'camera', 4, { type: 'boolean', direction: 'higher', weight: 0.6 }),
   s('optical_zoom_x', 'camera', 5, { type: 'number', unit: 'x', direction: 'higher', minMeaningfulDelta: 1, weight: 0.6 }),
-  s('video_max', 'camera', 6, { type: 'enum', direction: 'rank', rankOrder: ['8K', '4K60', '4K30', '1080p60', '1080p30'], weight: 0.7 }),
+  s('video_max', 'camera', 6, { type: 'enum', direction: 'rank', rankOrder: ['8K', '4K120', '4K60', '4K30', '1080p60', '1080p30'], weight: 0.7 }),
 
   s('display_tech', 'display', 1, { type: 'text', direction: 'none', tier: 'quick' }),
   s('screen_size_in', 'display', 2, { type: 'number', unit: 'in', direction: 'none', tier: 'quick' }),
@@ -95,4 +95,4 @@ export const specs: SpecDefinition[] = [
   s('expert_rating', 'reviews', 1, { type: 'number', direction: 'none' }), // ratings from different outlets aren't comparable
 ];
 
-export const defaultRegistry: Registry = { version: '2026.11.1', categories, specs };
+export const defaultRegistry: Registry = { version: '2026.11.2', categories, specs };
