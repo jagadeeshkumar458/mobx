@@ -42,7 +42,7 @@ const PROFILE_LABELS: Record<string, string> = {
 };
 
 const state = {
-  selected: REAL.map((p) => p.id),
+  selected: ['google-pixel-11', 'apple-iphone-18-pro', 'samsung-galaxy-s26'],
   mode: 'detailed' as Tier,
   weights: { ...DEFAULT_WEIGHTS } as Weights,
   lang: 'en' as Lang,

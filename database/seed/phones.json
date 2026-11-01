@@ -483,6 +483,1507 @@
           "region": "US"
         }
       }
+    },
+    {
+      "id": "xiaomi-17-ultra",
+      "brand": "Xiaomi",
+      "model": "17 Ultra",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 139999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/xiaomi-17-series-launched-india-price-specifications-release-date/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "vivo-x300-pro",
+      "brand": "vivo",
+      "model": "X300 Pro",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "MediaTek Dimensity 9500",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.78,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3.7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6510,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (OriginOS 6)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "oppo-find-x9-pro",
+      "brand": "OPPO",
+      "model": "Find X9 Pro",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "MediaTek Dimensity 9500",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.78,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYT828",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 7500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 80,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oppo-find-x9-find-x9-pro-launched/1001720/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "oneplus-15",
+      "brand": "OnePlus",
+      "model": "15",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.78,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 165,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1800,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony IMX906",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 7300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (OxygenOS 16)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 211,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "colour": "Sand Storm"
+          }
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 72999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://thepatriot.in/tech/oneplus-15-sale-starts-in-india-check-price-offers-specs-78502/amp",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "nothing-phone-4a-pro",
+      "brand": "Nothing",
+      "model": "Phone (4a) Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 7 Gen 4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Flexible AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.83,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (Nothing OS 4.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP65",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Metal",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 39999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.91mobiles.com/hub/nothing-phone-4a-series-launched-india-price-specifications/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "motorola-edge-70-pro-plus",
+      "brand": "Motorola",
+      "model": "Edge 70 Pro+",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "MediaTek Dimensity 8500 Extreme",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 5200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYTIA 710",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 47999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/motorola-edge-70-pro-plus-launched-in-india-key-specifications-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "realme-gt-8-pro",
+      "brand": "realme",
+      "model": "GT 8 Pro",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Flexible AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.79,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "battery_mah": {
+          "value": 7000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (Realme UI 7.0)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 72999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/realme-gt-8-pro-launched-in-india/1001831/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "iqoo-15",
+      "brand": "iQOO",
+      "model": "15",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.85,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 6000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer local peak"
+          }
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony IMX921",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 7000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 40,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (OriginOS 6)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 72999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/iqoo-15-launched-in-india-price-specs/1001994/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-15-pro-plus",
+      "brand": "Redmi",
+      "model": "Note 15 Pro+",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 7s Gen 4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.83,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15 (HyperOS 2)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 37999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://gadgets.beebom.com/news/redmi-note-15-pro-plus-launched-in-india-key-specs-price-availability",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "poco-x8-pro-max",
+      "brand": "POCO",
+      "model": "X8 Pro Max",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "MediaTek Dimensity 9500s",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.83,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 9000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (HyperOS 3)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 220,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 42999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/poco-x8-pro-max-5g-poco-x8-pro-5g-with-50-megapixel-dual-camera-setup-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "infinix-note-60-pro",
+      "brand": "Infinix",
+      "model": "Note 60 Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "Snapdragon 7s Gen 4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.78,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 30,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (XOS 16)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 31999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/04/13/infinix-note-60-pro-price-specs-india-launch/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "tecno-pova-curve-2",
+      "brand": "Tecno",
+      "model": "Pova Curve 2 5G",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "chipset": {
+          "value": "MediaTek Dimensity 7100",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Curved AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.78,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 144,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 8000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (HiOS 16)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP65",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 27999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.gizmochina.com/2026/02/13/tecno-pova-curve-2-5g-launch-specifications-price/",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        }
+      }
     }
   ]
 }

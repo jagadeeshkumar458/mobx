@@ -6,7 +6,9 @@ import * as fx from './fixtures.ts';
 
 // JSON is untrusted input; the validator test below is what vouches for it.
 const records = seed.records as unknown as PhoneRecord[];
-const snap = () => buildSnapshot(records, defaultRegistry);
+const FIRST = ['google-pixel-11', 'apple-iphone-18-pro', 'samsung-galaxy-s26'];
+const pick = (ids: string[]) => ids.map((id) => records.find((r) => r.id === id)!);
+const snap = () => buildSnapshot(pick(FIRST), defaultRegistry);
 const row = (cat: string, spec: string) => snap().categories.find((c) => c.key === cat)!.rows.find((r) => r.specKey === spec)!;
 const cell = (cat: string, spec: string, id: string) => row(cat, spec).cells.find((c) => c.phoneId === id)!;
 
@@ -58,7 +60,24 @@ test('verified differences are ranked', () => {
   assert.equal(row('display', 'refresh_rate_hz').note, 'tie');
 });
 
-test('video storyboard from the real phones validates', () => {
-  const s = snap();
-  for (const language of ['en', 'te'] as const) assert.deepEqual(validateStoryboard(toStoryboard(s, { language }), s), []);
+test('every real phone works in comparisons of up to five, page and video agreeing', () => {
+  // Walk all records in groups of five so each phone is compared at least once.
+  for (let i = 0; i < records.length; i += 5) {
+    const s = buildSnapshot(records.slice(i, i + 5), defaultRegistry);
+    for (const language of ['en', 'te'] as const) assert.deepEqual(validateStoryboard(toStoryboard(s, { language }), s), []);
+  }
+});
+
+test('flagship batch: higher-is-better and lower-is-better rank correctly', () => {
+  const s = buildSnapshot(pick(['poco-x8-pro-max', 'oneplus-15', 'tecno-pova-curve-2']), defaultRegistry);
+  const r = (cat: string, spec: string) => s.categories.find((c) => c.key === cat)!.rows.find((x) => x.specKey === spec)!;
+  assert.deepEqual(r('battery', 'battery_mah').winnerIds, ['poco-x8-pro-max']);
+  assert.deepEqual(r('battery', 'wired_charging_w').winnerIds, ['oneplus-15']);
+  assert.deepEqual(r('price', 'launch_price_inr').winnerIds, ['tecno-pova-curve-2']);
+  assert.deepEqual(r('display', 'refresh_rate_hz').winnerIds, ['oneplus-15']);
+});
+
+test('phone ids are unique and every record has brand, model, variant and region', () => {
+  assert.equal(new Set(records.map((r) => r.id)).size, records.length);
+  for (const r of records) assert.ok(r.brand && r.model && r.variant && r.region, r.id);
 });
