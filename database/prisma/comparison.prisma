@@ -1,0 +1,93 @@
+// Comparison single-source-of-truth tables (merged into schema.prisma).
+// Rule: nothing downstream of a ComparisonSnapshot reads PhoneSpec directly.
+
+model SpecDefinition {
+  id               String   @id @default(cuid())
+  key              String   @unique
+  categoryKey      String
+  order            Int
+  type             String   // number | boolean | enum | text | list
+  unit             String?
+  tier             String   // quick | detailed | techie
+  direction        String   // higher | lower | rank | none
+  rankOrder        String[]
+  minMeaningfulDelta Float?
+  comparableBy     String[]
+  weight           Float    @default(0.5)
+  labelKey         String
+  explainKey       String?
+  category         ComparisonCategory @relation(fields: [categoryKey], references: [key])
+  @@index([categoryKey, order])
+}
+
+model ComparisonCategory {
+  key             String   @id
+  order           Int
+  priority        String   // P0 | P1 | P2
+  weightGroup     String
+  labelKey        String
+  descriptionKey  String
+  videoSceneType  String
+  videoMaxFacts   Int      @default(4)
+  videoEnabled    Boolean  @default(true)
+  specs           SpecDefinition[]
+}
+
+/// Immutable output of the comparison engine. Content-addressed: the same
+/// phones + same verified data + same rules always yield the same hash.
+model ComparisonSnapshot {
+  id              String   @id @default(cuid())
+  contentHash     String   @unique
+  engineVersion   String
+  registryVersion String
+  phoneIds        String[]
+  payload         Json     // full ComparisonSnapshot, never mutated
+  createdAt       DateTime @default(now())
+  comparisons     Comparison[]
+  videoProjects   VideoProject[]
+  @@index([phoneIds])
+}
+
+model Comparison {
+  id          String   @id @default(cuid())
+  userId      String?
+  title       String?
+  weights     Json     // user priorities; recommendations recomputed from snapshot
+  snapshotId  String
+  snapshot    ComparisonSnapshot @relation(fields: [snapshotId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  @@index([userId])
+}
+
+model VideoProject {
+  id            String   @id @default(cuid())
+  userId        String?
+  snapshotId    String
+  snapshotHash  String   // must equal snapshot.contentHash at render time
+  storyboard    Json     // Storyboard: facts are pointers into the snapshot
+  language      String
+  style         String
+  resolution    String
+  fps           Int
+  audioMode     String   // music | voice_music | silent
+  snapshot      ComparisonSnapshot @relation(fields: [snapshotId], references: [id])
+  renderJobs    RenderJob[]
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  @@index([snapshotId])
+}
+
+model RenderJob {
+  id            String   @id @default(cuid())
+  projectId     String
+  status        String   // queued | validating | rendering | encoding | done | failed
+  progress      Float    @default(0)
+  error         String?
+  validationIssues Json?
+  outputPath    String?
+  project       VideoProject @relation(fields: [projectId], references: [id])
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  @@index([projectId, status])
+}
