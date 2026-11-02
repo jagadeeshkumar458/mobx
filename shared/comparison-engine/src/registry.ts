@@ -89,7 +89,7 @@ export const specs: SpecDefinition[] = [
   s('headphone_jack', 'audio', 2, { type: 'boolean', direction: 'none' }),
   s('wifi_version', 'connectivity', 1, { type: 'enum', direction: 'rank', rankOrder: ['Wi-Fi 7', 'Wi-Fi 6E', 'Wi-Fi 6', 'Wi-Fi 5'], weight: 0.5 }),
   s('esim', 'connectivity', 2, { type: 'boolean', direction: 'none' }),
-  s('fingerprint_type', 'biometrics', 1, { type: 'enum', direction: 'rank', rankOrder: ['ultrasonic', 'optical', 'capacitive'], weight: 0.5 }),
+  s('fingerprint_type', 'biometrics', 1, { type: 'enum', direction: 'rank', rankOrder: ['ultrasonic', 'optical', 'capacitive', 'side-mounted'], weight: 0.5 }),
   s('known_issues', 'reliability', 1, { type: 'list', direction: 'none' }),
   s('display_replacement_inr', 'service', 1, { type: 'number', unit: 'INR', direction: 'lower', minMeaningfulDelta: 1000, weight: 0.6 }),
   s('cross_device_sharing', 'ecosystem', 1, { type: 'text', direction: 'none' }),
@@ -123,4 +123,4 @@ export const specs: SpecDefinition[] = [
   s('circle_to_search', 'ai', 4, { type: 'boolean', direction: 'none' }),
 ];
 
-export const defaultRegistry: Registry = { version: '2026.11.5', categories, specs };
+export const defaultRegistry: Registry = { version: '2026.11.6', categories, specs };

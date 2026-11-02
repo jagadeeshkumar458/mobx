@@ -5587,6 +5587,251 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-07-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 166.7 x 75.2 x 6.5; folded 85.5 x 75.2 x 13.7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 188,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2520",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 397,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Xclipse 950",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.57\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Blue Shadow",
+            "Jet Black",
+            "Coral Red",
+            "Mint"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_z_flip7-13712.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -5706,6 +5951,252 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-07-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 165.1 x 71.9 x 6.9; folded 85.1 x 71.9 x 14.9",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 187,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2640",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 426,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "cpu": {
+          "value": "10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Xclipse 940",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.57\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "White"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -5769,6 +6260,326 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-08-10",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 155.1 x 130.1 x 6.3; folded 155.1 x 67.1 x 14.2-15.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 263,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IPX8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_size_in": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1812 x 2176",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 373,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus+ (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1200,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 12L",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 730",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4400,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Graygreen",
+            "Phantom Black",
+            "Beige",
+            "Burgundy"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold4-11737.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -5840,6 +6651,299 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-08-10",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 165.2 x 71.9 x 6.9; folded 84.9 x 71.9 x 15.9-17.1",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 187,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IPX8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2640",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 426,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus+ (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1200,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 730",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.76\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3700,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Bora Purple",
+            "Graphite",
+            "Pink Gold",
+            "Blue",
+            "Yellow",
+            "White",
+            "Navy",
+            "Khaki",
+            "Red"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip4-11538.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -5951,6 +7055,268 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-07-26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 154.9 x 129.9 x 6.1; folded 154.9 x 67.1 x 13.4",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.1,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 253,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1812 x 2176",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 373,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 740",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Icy Blue",
+            "Phantom Black",
+            "Cream",
+            "Gray",
+            "Blue"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -6062,6 +7428,266 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-07-26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 165.1 x 71.9 x 6.9; folded 85.1 x 71.9 x 15.1",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 187,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2640",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 425,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 740",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.76\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Mint",
+            "Graphite",
+            "Cream",
+            "Lavender",
+            "Gray",
+            "Blue",
+            "Green",
+            "Yellow"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_flip5-12252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -6165,6 +7791,287 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-07-10",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 153.5 x 132.6 x 5.6; folded 153.5 x 68.1 x 12.1",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 5.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 239,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1856 x 2160",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 374,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 750",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.57\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Navy",
+            "Silver Shadow",
+            "Pink",
+            "Black",
+            "White"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -6260,6 +8167,281 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-07-10",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 165.1 x 71.9 x 6.9; folded 85.1 x 71.9 x 14.9",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 6.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 187,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2640",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 426,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Plastic (main display); Gorilla Glass Victus 2 (cover display)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 750",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.57\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 25,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Yellow",
+            "Silver Shadow",
+            "Mint",
+            "Blue",
+            "Black",
+            "White",
+            "Peach"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -6797,6 +8979,256 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-02-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "146 x 70.6 x 7.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 167,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 425,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 730",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "White",
+            "Pink Gold",
+            "Green",
+            "Graphite",
+            "Sky Blue",
+            "Violet",
+            "Cream",
+            "Bora Purple"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -6935,6 +9367,256 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-02-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "157.4 x 75.8 x 7.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 195,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 393,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 730",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "White",
+            "Pink Gold",
+            "Green",
+            "Graphite",
+            "Sky Blue",
+            "Violet",
+            "Cream",
+            "Bora Purple"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22+_5g-11252.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7046,6 +9728,281 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-02-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "163.3 x 77.9 x 8.9",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 228,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1440 x 3088",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 500,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus+",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 730",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.33\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 40,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "White",
+            "Burgundy",
+            "Green",
+            "Graphite",
+            "Red",
+            "Sky Blue"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7149,6 +10106,288 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-02-01",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "146.3 x 70.9 x 7.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 168,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 425,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 740",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "Cream",
+            "Green",
+            "Lavender",
+            "Graphite",
+            "Lime"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23-12082.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7252,6 +10491,288 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-02-01",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "157.8 x 76.2 x 7.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 196,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 393,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 740",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "Cream",
+            "Green",
+            "Lavender",
+            "Graphite",
+            "Lime"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s23+-12083.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7339,6 +10860,307 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-02-01",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "163.4 x 78.1 x 8.9",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 234,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1440 x 3088",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 500,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1750,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 740",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.3\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Phantom Black",
+            "Green",
+            "Cream",
+            "Lavender",
+            "Graphite",
+            "Sky Blue",
+            "Lime",
+            "Red",
+            "BMW M Edition"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_ultra-12024.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7436,6 +11258,264 @@
           "sourceUrl": "https://business-standard.com/technology/gadgets/samsung-galaxy-s23-fe-tab-s9-fe-series-buds-fe-launched-in-india-details-123100400783_1.html",
           "lastUpdated": "2026-11-02",
           "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-10-04",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "158 x 76.5 x 8.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.2,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass 5",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 403,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 5",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 1450,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "chipset": {
+          "value": "Samsung Exynos 2200",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Xclipse 920",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.57\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 8,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Mint",
+            "Cream",
+            "Graphite",
+            "Purple",
+            "Indigo",
+            "Tangerine"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s23_fe-12520.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
         }
       }
     },
@@ -7563,6 +11643,296 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-01-17",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "147 x 70.6 x 7.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 167,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1080 x 2340",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 416,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Xclipse 940",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2, DisplayPort 1.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Onyx Black",
+            "Marble Grey",
+            "Cobalt Violet",
+            "Amber Yellow",
+            "Jade Green",
+            "Sandstone Orange",
+            "Sapphire Blue"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24-12773.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "Live Translate",
+            "Chat Assist",
+            "Note Assist",
+            "Transcript Assist",
+            "Circle to Search with Google",
+            "Instant Slow-mo"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
         }
       }
     },
@@ -7690,6 +12060,296 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-01-17",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "158.5 x 75.9 x 7.7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 7.7,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 196,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Armor Aluminum 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1440 x 3120",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 513,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Xclipse 940",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6E",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2, DisplayPort 1.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Onyx Black",
+            "Marble Grey",
+            "Cobalt Violet",
+            "Amber Yellow",
+            "Jade Green",
+            "Sandstone Orange",
+            "Sapphire Blue"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s24%2B-12772.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "Live Translate",
+            "Chat Assist",
+            "Note Assist",
+            "Transcript Assist",
+            "Circle to Search with Google",
+            "Instant Slow-mo"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
         }
       }
     },
@@ -7817,6 +12477,296 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-01-17",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "dimensions_mm": {
+          "value": "162.3 x 79 x 8.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 232,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Corning Gorilla Armor",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "1440 x 3120",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 505,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Armor",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "peak_brightness_nits": {
+          "value": 2600,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "Android 14",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 750",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.3\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2, DisplayPort 1.2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "colours": {
+          "value": [
+            "Titanium Black",
+            "Titanium Gray",
+            "Titanium Violet",
+            "Titanium Yellow",
+            "Titanium Blue",
+            "Titanium Green",
+            "Titanium Orange"
+          ],
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_galaxy_s24_ultra-12771.php",
+          "lastUpdated": "2026-11-02",
+          "region": "GLOBAL"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "Live Translate",
+            "Chat Assist",
+            "Note Assist",
+            "Transcript Assist",
+            "Circle to Search with Google",
+            "Instant Slow-mo"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/galaxy-unpacked-2024-highlights-from-galaxy-unpacked-the-promise-of-a-new-beginning-with-galaxy-ai",
+          "lastUpdated": "2026-11-02",
+          "region": "IN"
         }
       }
     },

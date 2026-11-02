@@ -52,8 +52,20 @@ How:
 
 Status 2026-11-02: complete (29–32 of 33 common fields) for the 16 showcase
 phones: Pixel 11, iPhone 18 Pro / Pro Max, Galaxy S26 and the 12 batch-1
-flagships. Thin records still to backfill (69):
-samsung-galaxy-z-flip-7, samsung-galaxy-z-flip-7-fe, samsung-galaxy-z-fold-4, samsung-galaxy-z-flip-4, samsung-galaxy-z-fold-5, samsung-galaxy-z-flip-5, samsung-galaxy-z-fold-6, samsung-galaxy-z-flip-6, samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8, samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s22, samsung-galaxy-s22-plus, samsung-galaxy-s22-ultra, samsung-galaxy-s23, samsung-galaxy-s23-plus, samsung-galaxy-s23-ultra, samsung-galaxy-s23-fe, samsung-galaxy-s24, samsung-galaxy-s24-plus, samsung-galaxy-s24-ultra, samsung-galaxy-s24-fe, samsung-galaxy-s25-ultra, samsung-galaxy-s25-plus, samsung-galaxy-s25, samsung-galaxy-s25-fe, samsung-galaxy-s26-plus, samsung-galaxy-s26-ultra, apple-iphone-14, apple-iphone-14-plus, apple-iphone-14-pro, apple-iphone-14-pro-max, apple-iphone-15, apple-iphone-15-plus, apple-iphone-15-pro, apple-iphone-15-pro-max, apple-iphone-16, apple-iphone-16-plus, apple-iphone-16-pro, apple-iphone-16-pro-max, apple-iphone-16e, apple-iphone-17, apple-iphone-air, apple-iphone-17-pro, apple-iphone-17-pro-max, apple-iphone-17e, apple-iphone-duo, apple-iphone-se-2022, google-pixel-11-pro, google-pixel-11-pro-xl, google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro, google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a, google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl, google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro, google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a, google-pixel-6a.
+flagships. Backfilled 2026-11-02 from GSMArena (GLOBAL): Z Flip 4 / 5 / 6 / 7 /
+7 FE, Z Fold 4 / 5 / 6, S22 / S22+ / S22 Ultra, S23 / S23+ / S23 Ultra / S23 FE,
+S24 / S24+ / S24 Ultra (S24 series AI features from Samsung India newsroom).
+These still lack storage options (India variants), security-update years and,
+except the S24 series, AI assistant / Circle to Search. Z Fold 7 / Fold 8 /
+Flip 8 / Fold 8 Ultra are kept at the head of the list: web search returned no
+GSMArena spec page for them, so try samsung.com/in spec pages next.
+Side-mounted fingerprint readers are recorded as `side-mounted` (added to the
+rank list after `capacitive`, registry 2026.11.6); foldables' dimensions give
+unfolded and folded sizes, `thickness_mm` is the unfolded figure and
+`front_camera_mp` is the cover-screen camera.
+
+Thin records still to backfill (51):
+samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8, samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s24-fe, samsung-galaxy-s25-ultra, samsung-galaxy-s25-plus, samsung-galaxy-s25, samsung-galaxy-s25-fe, samsung-galaxy-s26-plus, samsung-galaxy-s26-ultra, apple-iphone-14, apple-iphone-14-plus, apple-iphone-14-pro, apple-iphone-14-pro-max, apple-iphone-15, apple-iphone-15-plus, apple-iphone-15-pro, apple-iphone-15-pro-max, apple-iphone-16, apple-iphone-16-plus, apple-iphone-16-pro, apple-iphone-16-pro-max, apple-iphone-16e, apple-iphone-17, apple-iphone-air, apple-iphone-17-pro, apple-iphone-17-pro-max, apple-iphone-17e, apple-iphone-duo, apple-iphone-se-2022, google-pixel-11-pro, google-pixel-11-pro-xl, google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro, google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a, google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl, google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro, google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a, google-pixel-6a.
 
 ## Batches
 
