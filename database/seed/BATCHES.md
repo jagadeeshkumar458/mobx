@@ -64,8 +64,27 @@ rank list after `capacitive`, registry 2026.11.6); foldables' dimensions give
 unfolded and folded sizes, `thickness_mm` is the unfolded figure and
 `front_camera_mp` is the cover-screen camera.
 
-Thin records still to backfill (51):
-samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8, samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s24-fe, samsung-galaxy-s25-ultra, samsung-galaxy-s25-plus, samsung-galaxy-s25, samsung-galaxy-s25-fe, samsung-galaxy-s26-plus, samsung-galaxy-s26-ultra, apple-iphone-14, apple-iphone-14-plus, apple-iphone-14-pro, apple-iphone-14-pro-max, apple-iphone-15, apple-iphone-15-plus, apple-iphone-15-pro, apple-iphone-15-pro-max, apple-iphone-16, apple-iphone-16-plus, apple-iphone-16-pro, apple-iphone-16-pro-max, apple-iphone-16e, apple-iphone-17, apple-iphone-air, apple-iphone-17-pro, apple-iphone-17-pro-max, apple-iphone-17e, apple-iphone-duo, apple-iphone-se-2022, google-pixel-11-pro, google-pixel-11-pro-xl, google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro, google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a, google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl, google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro, google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a, google-pixel-6a.
+Backfilled 2026-11-06: S24 FE, S25 / S25+ / S25 Ultra, S25 FE, S26 Ultra from
+GSMArena (GLOBAL); iPhone SE (2022), 14 / 14 Plus / 14 Pro / 14 Pro Max, 15 /
+15 Plus / 15 Pro / 15 Pro Max, 16 / 16 Plus / 16 Pro / 16 Pro Max, 16e, 17, Air,
+17 Pro / 17 Pro Max from Apple tech-spec pages (support.apple.com, apple.com).
+Apple pages give no battery mAh, wired watts or launch date, and iPhone
+storage options were only taken from en-in pages; 2x "telephoto" crops of the
+main sensor are not recorded as telephoto lenses. These Samsung records still
+lack five_g, AI assistant / Circle to Search and India storage options; the S25
+main-camera OIS wasn't stated in the extract. GSMArena blocks fetching the
+Z Fold 7 page (robots) and returned no S26+ spec page; try samsung.com/in.
+
+Thin records still to backfill (27):
+samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8,
+samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s26-plus, apple-iphone-17e,
+apple-iphone-duo, google-pixel-11-pro, google-pixel-11-pro-xl,
+google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro,
+google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a,
+google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl,
+google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro,
+google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a,
+google-pixel-6a.
 
 ## Batches
 
@@ -101,8 +120,8 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
   left out because the source contradicted itself. Z Fold 8 Ultra has only its
   price; Z Fold 4 / Flip 4 and S23-series chips are missing. Fill these from
   samsung.com/in spec pages.
-- Batch 3: iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max, 17 / Air / 17 Pro, 17e and
-  iPhone Duo records are thin (launch reports gave few specs). Fill from
+- Batch 3: iPhone 17e and iPhone Duo records are still thin (the rest were
+  backfilled 2026-11-06). Fill from
   apple.com/in/<model>/specs or support.apple.com tech-spec pages. Apple doesn't
   publish battery mAh; the 16-series and SE figures are marked not verified.
   "8x" zoom quoted for the 17 Pro / Pro Max and 18 Pro Max is Apple's
