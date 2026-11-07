@@ -98,10 +98,10 @@ samsung.com/in or devicespecifications-style pages only if a maker page fails.)
 |---|---|---|---|
 | 0 | Pixel 11, iPhone 18 Pro, Galaxy S26 | 3 | ✅ Done 2026-11-02 |
 | 1 | Newest top model per remaining brand | 12 | ✅ Done 2026-11-02 |
-| 2 | Samsung Galaxy S and Z series, 2022–2026 | 29 | Partial 2026-11-02 (S21 FE missing) |
+| 2 | Samsung Galaxy S and Z series, 2022–2026 | 30 | ✅ Done 2026-11-07 (S21 FE added) |
 | 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
-| 5 | OnePlus numbered, R, Nord series | ~25 | Pending |
+| 5 | OnePlus numbered, R, Nord series | 27 | Partial 2026-11-07 (N6 and N6x not yet added) |
 | 6 | Xiaomi numbered series + Redmi Note series | ~25 | Pending |
 | 7 | POCO F, X, M series | ~25 | Pending |
 | 8 | realme GT, numbered, Narzo series | ~30 | Pending |
@@ -121,6 +121,20 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 5 (2026-11-07): added 27 OnePlus phones (Nord CE 6 / CE 6 Lite / 6, 15R,
+  Nord 5 / CE 5, 13s, 13 / 13R, Nord 4 / CE 4 Lite / CE 4, 12 / 12R, Open,
+  Nord 3 / CE 3 / CE 3 Lite, 11 / 11R, 10T, Nord 2T, 10R, Nord CE 2 Lite,
+  10 Pro, Nord CE 2, 9RT) as complete records from Indian launch reports plus
+  GSMArena. Still to add: OnePlus N6 and N6x (India 2026; only headlines seen so
+  far). OnePlus 15s and Open 2 did not launch in India. Gaps: Nord CE 6 Lite
+  (GSMArena page wouldn't load; oneplus.in gives no dimensions, weight,
+  resolution or connectivity), 13 / 15R weight and 15R dimensions (GSMArena lists
+  two builds), Open IP rating (GSMArena says IPX4, not in the rank list) and
+  launch OS (sources disagree), 10 Pro IP rating and main-camera OIS, 9RT
+  speakers. Launch dates for these are the India launch dates where the report
+  gave one, otherwise GSMArena's announcement date. Galaxy S21 FE is the
+  Exynos 2100 India launch model (Jan 2022).
 
 - Batch 2: Galaxy S21 FE (India, Jan 2022) not yet added. Galaxy Z Fold 7 chip
   left out because the source contradicted itself. Z Fold 8 Ultra has only its
