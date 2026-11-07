@@ -75,16 +75,22 @@ lack five_g, AI assistant / Circle to Search and India storage options; the S25
 main-camera OIS wasn't stated in the extract. GSMArena blocks fetching the
 Z Fold 7 page (robots) and returned no S26+ spec page; try samsung.com/in.
 
-Thin records still to backfill (27):
-samsung-galaxy-z-fold-7, samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8,
-samsung-galaxy-z-fold-8-ultra, samsung-galaxy-s26-plus, apple-iphone-17e,
-apple-iphone-duo, google-pixel-11-pro, google-pixel-11-pro-xl,
-google-pixel-11-pro-fold, google-pixel-10, google-pixel-10-pro,
-google-pixel-10-pro-xl, google-pixel-10-pro-fold, google-pixel-10a,
-google-pixel-9, google-pixel-9-pro, google-pixel-9-pro-xl,
-google-pixel-9-pro-fold, google-pixel-9a, google-pixel-8, google-pixel-8-pro,
-google-pixel-8a, google-pixel-7, google-pixel-7-pro, google-pixel-7a,
-google-pixel-6a.
+Backfilled 2026-11-07 from GSMArena (GLOBAL): Z Fold 7, S26+, Pixel 10 / 10 Pro /
+10 Pro XL / 10 Pro Fold / 10a, Pixel 9 / 9 Pro / 9 Pro XL / 9 Pro Fold / 9a,
+Pixel 8 / 8 Pro / 8a, Pixel 7 / 7 Pro / 7a, Pixel 6a; Pixel 10-series AI
+features and update years from store.google.com; Pixel 11 Pro / 11 Pro XL from
+store.google.com/us (that page gives dimensions and weight only in inches and
+ounces, so those, the launch date, CPU/GPU and fingerprint type are still
+missing). Pixel 9 / 8 / 7 / 6a series still lack AI assistant fields; Pixel 7a
+and 6a still lack RAM / storage (India variant not stated); storage options
+for all of these were not taken from global pages.
+
+Thin records still to backfill (6):
+samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8,
+samsung-galaxy-z-fold-8-ultra, apple-iphone-17e, apple-iphone-duo,
+google-pixel-11-pro-fold.
+(No GSMArena spec page turned up for the Fold 8 / Flip 8 / Fold 8 Ultra; try
+samsung.com/in or devicespecifications-style pages only if a maker page fails.)
 
 ## Batches
 
