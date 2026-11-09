@@ -107,7 +107,7 @@ Thin records still to backfill: none.
 | 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
-| 6 | Xiaomi numbered series + Redmi Note series | ~25 | Pending |
+| 6 | Xiaomi numbered series + Redmi Note series | ~25 | Partial 2026-11-09 (12 added; 2022–2023 models still to add, see gaps) |
 | 7 | POCO F, X, M series | ~25 | Pending |
 | 8 | realme GT, numbered, Narzo series | ~30 | Pending |
 | 9 | vivo X, V, T series | ~30 | Pending |
@@ -126,6 +126,21 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 6 (2026-11-09, partial): added Xiaomi 17T, 17, 15 Ultra, 15, 14 Ultra,
+  14, 14 CIVI and Redmi Note 15 Pro, Note 15 5G, Note 14 Pro+, Note 14 Pro,
+  Note 14 5G from Indian launch reports, mi.com/in spec pages and GSMArena.
+  Still to add (check each launched in India): Xiaomi 13 Pro, 12 Pro, 11T Pro,
+  11i / 11i HyperCharge; Redmi Note 13 Pro+ / 13 Pro / 13 5G, Note 12 Pro+ /
+  12 Pro / 12 5G / 12 (4G), Note 11 series (11T 5G, 11, 11S, 11 Pro, 11 Pro+,
+  11 SE). Gaps: Xiaomi 17T India launch date is not verified (only a linked
+  headline) and its Wi-Fi is mi.com/in's Wi-Fi 6 (Fonearena says both 6 and 7);
+  Xiaomi 15 / 15 Ultra Wi-Fi left out (mi.com/in Wi-Fi 6, others Wi-Fi 7);
+  Xiaomi 17 battery is the global 6330 mAh; 14 CIVI sensor size / aperture from
+  GSMArena (Fonearena contradicts itself), no IP rating stated; Redmi Note 15
+  Pro OS is HyperOS 3 per mi.com/in (GSMArena says HyperOS 2); no update-years
+  for the Xiaomi 15/17 series or Note 15 series; Note 14 Pro+ GPU disagreement
+  logged in CONFLICTS.md.
 
 - Batch 5 (2026-11-07): added 27 OnePlus phones (Nord CE 6 / CE 6 Lite / 6, 15R,
   Nord 5 / CE 5, 13s, 13 / 13R, Nord 4 / CE 4 Lite / CE 4, 12 / 12R, Open,

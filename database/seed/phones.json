@@ -41451,6 +41451,4860 @@
           "region": "IN"
         }
       }
+    },
+    {
+      "id": "xiaomi-17t",
+      "brand": "Xiaomi",
+      "model": "17T",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 59999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-17t-5g-launched-in-india-price/1008248/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-17t-5g-launched-in-india-price/1008248/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-17t-5g-launched-in-india-price/1008248/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "dimensions_mm": {
+          "value": "157.6 x 75.2 x 8.17",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.17,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Violet",
+            "Blue",
+            "Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1268 x 2756",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 7i",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 8500-Ultra",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz & 4x2.2 GHz)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G720 MC8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 67,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (HyperOS 3)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "face_unlock": {
+          "value": "AI face unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_assistant": {
+          "value": "Gemini",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Writing",
+            "AI Speech Recognition",
+            "AI Interpreter",
+            "AI Search",
+            "AI Dynamic Wallpapers",
+            "AI Creativity Assistant"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-17t/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.59,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 800",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.55\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2026-06-04",
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://www.fonearena.com/blog/484273/xiaomi-17t-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "note": "India launch date taken from a linked headline; sales from 2026-06-10"
+          }
+        }
+      }
+    },
+    {
+      "id": "xiaomi-17",
+      "brand": "Xiaomi",
+      "model": "17",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 89999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "launch_date": {
+          "value": "2026-03-11",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "Ice Blue",
+            "Venture Green"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1220 x 2656",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Xiaomi Shield Glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 840",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (HyperOS 3)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 950",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.31\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.67",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 2.6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6330,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "151.1 x 71.8 x 8.06",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.06,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 191,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/?p=477330",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 460,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_17_5g-14134.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (2x4.6 GHz & 6x3.62 GHz)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_17_5g-14134.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_17_5g-14134.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Glass",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_17_5g-14134.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_17_5g-14134.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-15-pro",
+      "brand": "Redmi",
+      "model": "Note 15 Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 29999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-pro-5g-redmi-note-15-pro-5g-with-200-megapixel-cameras-launched-in-india-price-specifications-more",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-pro-5g-redmi-note-15-pro-5g-with-200-megapixel-cameras-launched-in-india-price-specifications-more",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-pro-5g-redmi-note-15-pro-5g-with-200-megapixel-cameras-launched-in-india-price-specifications-more",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "launch_date": {
+          "value": "2026-01-29",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-pro-5g-redmi-note-15-pro-5g-with-200-megapixel-cameras-launched-in-india-price-specifications-more",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128/256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-pro-5g-redmi-note-15-pro-5g-with-200-megapixel-cameras-launched-in-india-price-specifications-more",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "163.61 x 78.09 x 7.96",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.96,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 210,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Silver Ash",
+            "Mirage Blue",
+            "Carbon Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.83,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1280 x 2772",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 447,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 7400-Ultra",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G615",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.4\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "1080p60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6580,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "HyperOS 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "face_unlock": {
+          "value": "AI Face Unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_assistant": {
+          "value": "Gemini",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Erase Pro",
+            "AI Remove Reflection",
+            "AI Image Expansion",
+            "AI Sky",
+            "AI Bokeh",
+            "AI Cutouts",
+            "AI Image Enhancement",
+            "AI Beautify",
+            "AI Film"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-pro-5g/specs",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_15_pro-ampp-14327.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Plastic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_15_pro-ampp-14327.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_15_pro-ampp-14327.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_15_pro-ampp-14327.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_15_pro-ampp-14327.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-15-5g",
+      "brand": "Redmi",
+      "model": "Note 15 5G",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 22999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.etvbharat.com/en/technology/redmi-note-15-5g-and-pad-2-pro-5g-devices-launched-in-india-price-specifications-enn26010602552",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.etvbharat.com/en/technology/redmi-note-15-5g-and-pad-2-pro-5g-devices-launched-in-india-price-specifications-enn26010602552",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.etvbharat.com/en/technology/redmi-note-15-5g-and-pad-2-pro-5g-devices-launched-in-india-price-specifications-enn26010602552",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "launch_date": {
+          "value": "2026-01-06",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.etvbharat.com/en/technology/redmi-note-15-5g-and-pad-2-pro-5g-devices-launched-in-india-price-specifications-enn26010602552",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128/256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.etvbharat.com/en/technology/redmi-note-15-5g-and-pad-2-pro-5g-devices-launched-in-india-price-specifications-enn26010602552",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "HM9",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-5g-with-108-megapixel-rear-sensor-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-5g-with-108-megapixel-rear-sensor-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Metal",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-5g-with-108-megapixel-rear-sensor-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Remove Reflection",
+            "AI Erase"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/redmi-note-15-5g-with-108-megapixel-rear-sensor-launched-in-india-price-specifications",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "164 x 75.42 x 7.35",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.35,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 178,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "Glacier Blue",
+            "Mist Purple"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.77,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2392",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "chipset": {
+          "value": "Snapdragon 6 Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (up to 2.4 GHz)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 108,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5520,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "HyperOS 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP66",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "face_unlock": {
+          "value": "AI Face Unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/redmi-note-15-5g/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-15-ultra",
+      "brand": "Xiaomi",
+      "model": "15 Ultra",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 109999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 16,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 512,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15_ultra-13657.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Glass fibre or eco leather",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15_ultra-13657.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "Android 15 (HyperOS 2)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15_ultra-13657.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15_ultra-13657.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "storage_options": {
+          "value": "512GB/1TB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Silver Chrome"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 830",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.63",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 4.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2 Gen 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/448473/xiaomi-15-ultra-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "161.3 x 75.3 x 9.48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 9.48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 229,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.73,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1440 x 3200",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 522,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Xiaomi Shield Glass 2.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYT-900",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x4.32 GHz + 6x3.53 GHz)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "face_unlock": {
+          "value": "AI face unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15-ultra/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2025-03-11",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5410,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 80,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-15",
+      "brand": "Xiaomi",
+      "model": "15",
+      "variant": "12GB/512GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 64999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 512,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "gpu": {
+          "value": "Adreno 830",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminium (6M42)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Xiaomi Shield Glass",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.31\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "optical_zoom_x": {
+          "value": 2.6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_15-13472.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "storage_options": {
+          "value": "512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "152.3 x 71.2 x 8.08",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.08,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 191,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1200 x 2670",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 460,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer local peak"
+          }
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x4.32 GHz + 6x3.53 GHz)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.62",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 900",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "ultrasonic",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "face_unlock": {
+          "value": "AI face unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Xiaomi HyperOS 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_assistant": {
+          "value": "Gemini",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI writing",
+            "AI speech recognition",
+            "AI interpreter",
+            "AI creativity assistant",
+            "Circle to Search with Google",
+            "Google Gemini"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.mi.com/in/product/xiaomi-15/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2025-03-11",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "White",
+            "Green"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.36,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5240,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/xiaomi-15-ultra-launches-in-india-price/991248",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-14-pro-plus",
+      "brand": "Redmi",
+      "model": "Note 14 Pro+",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 30999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "cpu": {
+          "value": "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Adreno 810",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 446,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-12-09",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128/256/512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Spectre Blue",
+            "Titan Black",
+            "Phantom Purple"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 7s Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Curved OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.67,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1220 x 2712",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "pwm_hz": {
+          "value": 1920,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 800",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.55\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 2.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 6200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "162.53 x 74.67 x 8.75",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.75,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 210,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Gorilla Glass 7i (leather option)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Smart Clip",
+            "AI Clear Capture",
+            "AI Image Expansion",
+            "AI Erase Pro",
+            "AI Cutout",
+            "AI Subtitles",
+            "AI Live Interpreter",
+            "AI Translation"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-14-pro",
+      "brand": "Redmi",
+      "model": "Note 14 Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 24999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "cpu": {
+          "value": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 446,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.96\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Plastic or silicone polymer (eco leather)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.2,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_pro-ampp-13355.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-12-09",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128/256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Spectre Blue",
+            "Titan Black",
+            "Phantom Purple"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 7300-Ultra",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G615 MC2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Curved OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.67,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1220 x 2712",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "pwm_hz": {
+          "value": 1920,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYT-600",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP69",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "162.33 x 74.42 x 8.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 190,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Smart Clip",
+            "AI Clear Capture",
+            "AI Image Expansion",
+            "AI Erase Pro",
+            "AI Cutout"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441783/redmi-note-14-pro-price-india-specifications-note-14-pro-plus.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "redmi-note-14-5g",
+      "brand": "Redmi",
+      "model": "Note 14 5G",
+      "variant": "6GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 18999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "ppi": {
+          "value": 395,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Plastic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_redmi_note_14_5g_(india)-ampp-13559.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-12-09",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128/256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Titan Black",
+            "Mystique White",
+            "Phantom Purple"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 7025 Ultra",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "IMG BXM-8-256",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Super AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.67,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 2100,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYT-600",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.95\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5110,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP64",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "162.4 x 75.7 x 7.99",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.99,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 190,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Erase",
+            "AI Magic Sky",
+            "AI Album"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/441779/redmi-note-14-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-14-civi",
+      "brand": "Xiaomi",
+      "model": "14 CIVI",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 42999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 460,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.55\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Glass or silicone polymer (eco leather)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-06-12",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Cruise Blue",
+            "Matcha Green",
+            "Shadow Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8s Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 735",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED (micro-curved)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.55,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1236 x 2750",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "pwm_hz": {
+          "value": 2160,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 800",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4700,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 67,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "157.2 x 72.77 x 7.45",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 179.3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-14-ultra",
+      "brand": "Xiaomi",
+      "model": "14 Ultra",
+      "variant": "16GB/512GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 99999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 16,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 512,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "screen_size_in": {
+          "value": 6.73,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 522,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14_ultra-12827.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-03-07",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/xiaomi-14-xiaomi-14-ultra-with-snapdragon-8-gen-3-soc-launched-in-india-check-price-sale-offers-specs-420550-2024-03-07",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "White"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 750",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1440 x 3200",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "pwm_hz": {
+          "value": 1920,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Xiaomi Ceramic Glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony LYT-900",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.63-f/4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 80,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "161.4 x 75.3 x 9.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 9.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 224.4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium (6M42)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Vegan leather",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418736/xiaomi-14-ultra-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-14",
+      "brand": "Xiaomi",
+      "model": "14",
+      "variant": "12GB/512GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 69999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 512,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "launch_date": {
+          "value": "2024-03-07",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.businesstoday.in/technology/news/story/xiaomi-14-xiaomi-14-ultra-with-snapdragon-8-gen-3-soc-launched-in-india-check-price-sale-offers-specs-420550-2024-03-07",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 460,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass Victus",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/xiaomi_14-12626.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "storage_options": {
+          "value": "512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Jade Green",
+            "Matte Black",
+            "Classic White"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Gen 3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 750",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.36,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1200 x 2670",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "pwm_hz": {
+          "value": 1920,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Light Fusion 900",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.31\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4610,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 14 (HyperOS)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "152.8 x 71.5 x 8.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 193,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Frosted glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C 3.2 Gen 1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/418733/xiaomi-14-price-india-specifications.html",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
     }
   ]
 }
