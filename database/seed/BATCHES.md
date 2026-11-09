@@ -85,12 +85,17 @@ missing). Pixel 9 / 8 / 7 / 6a series still lack AI assistant fields; Pixel 7a
 and 6a still lack RAM / storage (India variant not stated); storage options
 for all of these were not taken from global pages.
 
-Thin records still to backfill (6):
-samsung-galaxy-z-fold-8, samsung-galaxy-z-flip-8,
-samsung-galaxy-z-fold-8-ultra, apple-iphone-17e, apple-iphone-duo,
-google-pixel-11-pro-fold.
-(No GSMArena spec page turned up for the Fold 8 / Flip 8 / Fold 8 Ultra; try
-samsung.com/in or devicespecifications-style pages only if a maker page fails.)
+Backfilled 2026-11-09: Z Fold 8 / Z Flip 8 / Z Fold 8 Ultra from the Samsung
+India newsroom launch post (no India spec page renders; it gives no CPU/GPU,
+materials, fingerprint, speakers, protection glass, update years or Circle to
+Search; Flip 8 front camera left out because the post says both 10 MP and
+50 MP); iPhone 17e from apple.com/au specs plus GSMArena (battery, launch date;
+the 2x crop isn't a telephoto); iPhone Duo from apple.com/in specs (no battery
+mAh, launch date or wired watts; the "optical-quality 2x" telephoto isn't
+recorded); Pixel 11 Pro Fold from store.google.com/gb (no launch date, CPU/GPU,
+fingerprint type or wired watts).
+
+Thin records still to backfill: none.
 
 ## Batches
 
@@ -101,7 +106,7 @@ samsung.com/in or devicespecifications-style pages only if a maker page fails.)
 | 2 | Samsung Galaxy S and Z series, 2022–2026 | 30 | ✅ Done 2026-11-07 (S21 FE added) |
 | 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
-| 5 | OnePlus numbered, R, Nord series | 27 | Partial 2026-11-07 (N6 and N6x not yet added) |
+| 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
 | 6 | Xiaomi numbered series + Redmi Note series | ~25 | Pending |
 | 7 | POCO F, X, M series | ~25 | Pending |
 | 8 | realme GT, numbered, Narzo series | ~30 | Pending |
@@ -126,8 +131,9 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
   Nord 5 / CE 5, 13s, 13 / 13R, Nord 4 / CE 4 Lite / CE 4, 12 / 12R, Open,
   Nord 3 / CE 3 / CE 3 Lite, 11 / 11R, 10T, Nord 2T, 10R, Nord CE 2 Lite,
   10 Pro, Nord CE 2, 9RT) as complete records from Indian launch reports plus
-  GSMArena. Still to add: OnePlus N6 and N6x (India 2026; only headlines seen so
-  far). OnePlus 15s and Open 2 did not launch in India. Gaps: Nord CE 6 Lite
+  GSMArena. OnePlus N6 and N6x added 2026-11-09 (N6 frame left out: oneplus.in says
+  metal frame, GSMArena plastic; N6 fingerprint type, Wi-Fi and Bluetooth version
+  not stated; N6x headphone jack only in a headline that wouldn't load). OnePlus 15s and Open 2 did not launch in India. Gaps: Nord CE 6 Lite
   (GSMArena page wouldn't load; oneplus.in gives no dimensions, weight,
   resolution or connectivity), 13 / 15R weight and 15R dimensions (GSMArena lists
   two builds), Open IP rating (GSMArena says IPX4, not in the rank list) and

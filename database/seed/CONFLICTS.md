@@ -56,3 +56,4 @@ The stored value is kept until someone checks which source is right.
 | oneplus-nord-ce-4 | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/420714/oneplus-nord-ce4-price-india-specifications.html) | Bluetooth 5.4 (https://m.gsmarena.com/oneplus_nord_ce4-ampp-12892.php) |
 | oneplus-nord-ce-5 | screen_size_in | 6.7 (https://telecomtalk.info/oneplus-nord-5-nord-ce-5-launched/996854/) | 6.77 (https://m.gsmarena.com/oneplus_nord_ce5_5g-13792.php) |
 | oneplus-nord-ce-6-lite | ai_features | ['AI Eraser', 'AI Reflection Remover'] (https://www.91mobiles.com/hub/oneplus-nord-ce-6-ce-6-lite-launched-price-specifications-sale/) | ['Gemini Live', 'AI Portrait Glow', 'AI Eraser', 'AI Perfect Shot', 'AI Unblur', 'AI Reflection Eraser', 'AI Reframe', 'AI Detail Boost'] (https://www.oneplus.in/nord-ce6-lite) |
+| apple-iphone-17e | weight_g | 170 (https://www.apple.com/au/iphone-17e/specs/) | 169 (https://m.gsmarena.com/apple_iphone_17e-14487.php) |

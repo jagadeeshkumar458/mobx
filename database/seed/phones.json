@@ -8928,6 +8928,147 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "launch_date": {
+          "value": "2026-07-22",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Graphite",
+            "Cream",
+            "Lavender",
+            "Pistachio"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1848 x 2448",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 403,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 161.4 x 123.9 x 4.5; folded 81.9 x 123.9 x 9.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 4.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 201,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB/1TB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
         }
       }
     },
@@ -9039,6 +9180,139 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "launch_date": {
+          "value": "2026-07-22",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Graphite",
+            "Cream",
+            "Pink",
+            "Mint"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2520",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 400,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 75.4 x 166.9 x 6.1; folded 75.4 x 85.7 x 13.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 6.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 180,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_assistant": {
+          "value": "Gemini",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
         }
       }
     },
@@ -9078,6 +9352,227 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "launch_date": {
+          "value": "2026-07-22",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Graphite",
+            "Cream",
+            "Violet Shadow",
+            "Green Shadow"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "Dynamic AMOLED 2X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 8.0,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "2504 x 2256",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 422,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 158.4 x 143.2 x 4.1; folded 158.4 x 72.8 x 8.9",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 4.1,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 215,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 10,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 3,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "8K",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Snapdragon 8 Elite Gen 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256/512GB/1TB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 20,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 17 (One UI 9)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP48",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://news.samsung.com/in/samsung-galaxy-z-fold8-ultra-fold8-and-flip8-foldables-perfected-for-every-way-of-living",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
         }
       }
     },
@@ -21070,6 +21565,272 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "dimensions_mm": {
+          "value": "146.7 x 71.5 x 7.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "thickness_mm": {
+          "value": 7.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "weight_g": {
+          "value": 170,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "colours": {
+          "value": [
+            "Black",
+            "White",
+            "Soft Pink"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "back_material": {
+          "value": "Glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "screen_protection": {
+          "value": "Ceramic Shield 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "resolution": {
+          "value": "1170 x 2532",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "ppi": {
+          "value": 460,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "peak_brightness_nits": {
+          "value": 1200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "cpu": {
+          "value": "6-core CPU (2 performance, 4 efficiency)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "gpu": {
+          "value": "4-core GPU",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "main_aperture": {
+          "value": "f/1.6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "usb": {
+          "value": "USB-C, USB 2 (up to 480 Mbps)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "face_unlock": {
+          "value": "Face ID",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "wireless_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "ai_assistant": {
+          "value": "Siri (Apple Intelligence)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "ai_features": {
+          "value": [
+            "Visual Intelligence",
+            "Image Playground"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/au/iphone-17e/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "AU"
+        },
+        "launch_date": {
+          "value": "2026-03-02",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_17e-14487.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4005,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_17e-14487.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_17e-14487.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_17e-14487.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
         }
       }
     },
@@ -21446,6 +22207,304 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "storage_options": {
+          "value": "256/512GB/1TB/2TB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Night Sky",
+            "Star White"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 164.6 x 117.8 x 5.2; folded 84.1 x 117.8 x 11.3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 5.2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 254,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Titanium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Ceramic Shield",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Ceramic Shield 2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "OLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1878 x 2670",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 430,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 3000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer outdoor peak"
+          }
+        },
+        "chipset": {
+          "value": "Apple A20 Pro",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "6-core CPU (2 super cores, 4 efficiency)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "7-core GPU",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "4K120",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB-C, USB 3 (up to 10 Gbps), DisplayPort",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_assistant": {
+          "value": "Siri (Apple Intelligence)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "Siri AI (beta)",
+            "Intelligent Photo Editing Tools",
+            "Image Playground"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "iOS 27",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
         }
       }
     },
@@ -22476,6 +23535,347 @@
           "conditions": {
             "variant": "India base variant (launch price)"
           }
+        },
+        "dimensions_mm": {
+          "value": "Unfolded 155.2 x 150.4 x 5; folded 155.2 x 76 x 10.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "thickness_mm": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "weight_g": {
+          "value": 239,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "colours": {
+          "value": [
+            "Olive",
+            "Obsidian"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "back_material": {
+          "value": "Matte composite",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "screen_protection": {
+          "value": "Ultra-thin glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "display_tech": {
+          "value": "OLED (Super Actua Flex)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "screen_size_in": {
+          "value": 8.0,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "resolution": {
+          "value": "2076 x 2152",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ppi": {
+          "value": 372,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "peak_brightness_nits": {
+          "value": 3600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "chipset": {
+          "value": "Google Tensor G6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "battery_mah": {
+          "value": 4806,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "wireless_charging_w": {
+          "value": 25,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ultrawide_mp": {
+          "value": 10.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "telephoto_mp": {
+          "value": 10.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "optical_zoom_x": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "front_camera_mp": {
+          "value": 10,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "os_at_launch": {
+          "value": "Android 17",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "os_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "security_updates_years": {
+          "value": 7,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ip_rating": {
+          "value": "IP68",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 6.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "usb": {
+          "value": "USB-C 3.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "esim": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ai_assistant": {
+          "value": "Gemini",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "circle_to_search": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "ai_features": {
+          "value": [
+            "Gemini Nano",
+            "Gemini Live",
+            "Live Translate",
+            "Call Assist",
+            "Camera Coach",
+            "Magic Eraser"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
+        },
+        "face_unlock": {
+          "value": "Face unlock",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://store.google.com/gb/product/pixel_11_pro_fold_specs?hl=en-GB",
+          "lastUpdated": "2026-11-09",
+          "region": "GB"
         }
       }
     },
@@ -39444,6 +40844,610 @@
           "verification": "verified",
           "sourceUrl": "https://www.91mobiles.com/hub/samsung-galaxy-s21-fe-price-in-india-specifications-launch-sale-date/",
           "lastUpdated": "2026-11-07",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "oneplus-n6",
+      "brand": "OnePlus",
+      "model": "N6",
+      "variant": "4GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 22999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "dimensions_mm": {
+          "value": "166.5 x 78.2 x 8.9",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "thickness_mm": {
+          "value": 8.9,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "weight_g": {
+          "value": 224,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Plastic",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "display_tech": {
+          "value": "IPS LCD",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "resolution": {
+          "value": "720 x 1570",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 254,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "gpu": {
+          "value": "Mali-G57 MC2",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0, OTG",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/_n6-14760.php",
+          "lastUpdated": "2026-11-09",
+          "region": "GLOBAL"
+        },
+        "ip_rating": {
+          "value": "IP65",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.oneplus.in/n6",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Portrait Glow",
+            "AI Eraser",
+            "AI Perfect Shot",
+            "AI Unblur",
+            "AI Reflection Eraser",
+            "AI Recompose",
+            "AI Detail Boost"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.oneplus.in/n6",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2026-06-30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Fresh Mint",
+            "Midnight Green"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 6360 Apex",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "1080p60",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 8000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 45,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (OxygenOS 16)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6-5g-launched-in-india-price/1009237/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        }
+      }
+    },
+    {
+      "id": "oneplus-n6x",
+      "brand": "OnePlus",
+      "model": "N6x",
+      "variant": "4GB/64GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 18999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6x-launched-in-india-price-and-specifications/1010260/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6x-launched-in-india-price-and-specifications/1010260/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_gb": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6x-launched-in-india-price-and-specifications/1010260/",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "variant": "India base variant (launch price)"
+          }
+        },
+        "storage_options": {
+          "value": "64/128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Burgundy Red",
+            "Ice Blue"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 6360 Apex",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G57 MC2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LCD",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "720 x 1570",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1200,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 13,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 7000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 15,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 16 (OxygenOS 16)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ip_rating": {
+          "value": "IP64",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "166.38 x 78.13 x 8.65",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.65,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 214,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "usb": {
+          "value": "USB Type-C",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "ai_features": {
+          "value": [
+            "AI Portrait Glow"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.freepressjournal.in/tech/oneplus-n6x-with-120hz-display-7000mah-battery-launched-in-india-priced-starting-at-18999",
+          "lastUpdated": "2026-11-09",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2026-07-31",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://telecomtalk.info/oneplus-n6x-launched-in-india-price-and-specifications/1010260/",
+          "lastUpdated": "2026-11-09",
           "region": "IN"
         }
       }
