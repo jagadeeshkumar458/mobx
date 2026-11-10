@@ -65,3 +65,9 @@ The stored value is kept until someone checks which source is right.
 | xiaomi-14-civi | frame_material | Aluminium (https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php) | Metal (https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp) |
 | xiaomi-14-civi | usb | USB Type-C 2.0, OTG (https://m.gsmarena.com/xiaomi_14_civi-ampp-13056.php) | USB Type-C 3.2 Gen 1 (https://www.fonearena.com/blog/426151/xiaomi-14-civi-price-india-specifications.html/amp) |
 | xiaomi-15-ultra | os_at_launch | Android 15 (HyperOS 2) (https://m.gsmarena.com/xiaomi_15_ultra-13657.php) | Xiaomi HyperOS 2 (https://www.mi.com/in/product/xiaomi-15-ultra/specs/) |
+| redmi-note-11-se | main_aperture | f/1.79 (https://www.fonearena.com/blog/373007/redmi-note-11-se-price-india-specifications.html) | f/1.9 (https://m.gsmarena.com/xiaomi_redmi_note_11_se_(india)-11819.php) |
+| redmi-note-12-4g | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/389683/redmi-note-12-price-india-specifications.html) | Bluetooth 5.0 (https://m.gsmarena.com/xiaomi_redmi_note_12_4g-12188.php) |
+| redmi-note-12-pro-plus | battery_mah | 4980 (https://www.fonearena.com/blog/382202/redmi-note-12-pro-price-india-specifications-note-12-pro-plus.html) | 5000 (https://m.gsmarena.com/xiaomi_redmi_note_12_pro+-ampp-11954.php) |
+| redmi-note-13-5g | weight_g | 173.5 (https://www.fonearena.com/blog/413335/redmi-note-13-5g-price-india-specifications.html) | 174.5 (https://m.gsmarena.com/xiaomi_redmi_note_13-12776.php) |
+| redmi-note-13-pro-plus | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/413333/redmi-note-13-pro-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/xiaomi_redmi_note_13_pro+-12572.php) |
+| redmi-note-13-pro | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/413333/redmi-note-13-pro-price-india-specifications.html) | Bluetooth 5.2 (https://m.gsmarena.com/_redmi_note_13_pro-12581.php) |

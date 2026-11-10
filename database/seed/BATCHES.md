@@ -107,7 +107,7 @@ Thin records still to backfill: none.
 | 3 | Apple iPhone SE (2022), 14 – 18 series, 16e, 17e, Air, Duo | 21 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
-| 6 | Xiaomi numbered series + Redmi Note series | ~25 | Partial 2026-11-09 (12 added; 2022–2023 models still to add, see gaps) |
+| 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | ~25 | Pending |
 | 8 | realme GT, numbered, Narzo series | ~30 | Pending |
 | 9 | vivo X, V, T series | ~30 | Pending |
@@ -127,13 +127,29 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
 
-- Batch 6 (2026-11-09, partial): added Xiaomi 17T, 17, 15 Ultra, 15, 14 Ultra,
+- Batch 6 finished 2026-11-10: added Redmi Note 13 Pro+ / 13 Pro / 13 5G, Note 12
+  (4G), Xiaomi 13 Pro, Redmi Note 12 Pro+ / 12 Pro / 12 5G, Note 11 SE, Xiaomi 12
+  Pro, Redmi Note 11 Pro+ / 11 Pro / 11S / 11, Xiaomi 11T Pro, 11i HyperCharge,
+  11i and Redmi Note 11T 5G as complete records (India price, base variant and
+  launch date from Fonearena / TelecomTalk launch reports; the rest from those
+  reports plus GSMArena GLOBAL pages). Gaps: NFC left out where GSMArena says
+  "market/region dependent"; OS-update promises given as a count ("3 Android
+  updates") not recorded as years; Note 13 Pro+ weight (dimensions are
+  GSMArena's) and Xiaomi
+  13 Pro weight, thickness, storage type and eSIM left out (sources list two
+  builds); Xiaomi 13 Pro Wi-Fi is GSMArena's 6E (Indian reports say Wi-Fi 7);
+  Note 12 Pro+ main sensor left out (reports say HMX vs HPX); Xiaomi 11i /
+  HyperCharge screen size from GSMArena (TelecomTalk says 6.6"); Note 11 Pro
+  and Note 11 prices are the introductory launch prices. Only substantive
+  disagreements (battery, Wi-Fi, Bluetooth, aperture, weight) were logged in
+  CONFLICTS.md; rounding (dimensions to 0.1 mm), naming detail (AMOLED vs
+  Super AMOLED, USB detail, OS skin suffix) and GSMArena's global colours and
+  announcement dates were not.
+
+- Batch 6 (2026-11-09, first part): added Xiaomi 17T, 17, 15 Ultra, 15, 14 Ultra,
   14, 14 CIVI and Redmi Note 15 Pro, Note 15 5G, Note 14 Pro+, Note 14 Pro,
   Note 14 5G from Indian launch reports, mi.com/in spec pages and GSMArena.
-  Still to add (check each launched in India): Xiaomi 13 Pro, 12 Pro, 11T Pro,
-  11i / 11i HyperCharge; Redmi Note 13 Pro+ / 13 Pro / 13 5G, Note 12 Pro+ /
-  12 Pro / 12 5G / 12 (4G), Note 11 series (11T 5G, 11, 11S, 11 Pro, 11 Pro+,
-  11 SE). Gaps: Xiaomi 17T India launch date is not verified (only a linked
+  Gaps: Xiaomi 17T India launch date is not verified (only a linked
   headline) and its Wi-Fi is mi.com/in's Wi-Fi 6 (Fonearena says both 6 and 7);
   Xiaomi 15 / 15 Ultra Wi-Fi left out (mi.com/in Wi-Fi 6, others Wi-Fi 7);
   Xiaomi 17 battery is the global 6330 mAh; 14 CIVI sensor size / aperture from
