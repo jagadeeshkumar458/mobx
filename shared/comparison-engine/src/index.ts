@@ -10,3 +10,5 @@ export { toStoryboard, validateStoryboard, assertRenderable, PACE, MIN_SHOT_SEC,
 export type { Storyboard, Scene, Fact, Shot, ValidationIssue } from './adapters/video.ts';
 export { createComparisonService } from './service.ts';
 export type { SnapshotStore } from './service.ts';
+export { toPublishKit, toChapters, toScript, toSrt, videoName, timestamp, speakSec, wordCount, YT_LIMITS } from './adapters/youtube.ts';
+export type { PublishKit, Chapter } from './adapters/youtube.ts';

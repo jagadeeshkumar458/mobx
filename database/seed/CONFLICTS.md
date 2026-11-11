@@ -126,3 +126,9 @@ The stored value is kept until someone checks which source is right.
 | realme-narzo-90 | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | Bluetooth 5.3 (https://m.gsmarena.com/realme_narzo_90_5g-14345.php) |
 | realme-narzo-90x | main_sensor_size_inch | 1/1.95" (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | 1/2.96" (https://m.gsmarena.com/realme_narzo_90x_5g-14346.php) |
 | realme-narzo-90x | stereo_speakers | False (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | True (https://m.gsmarena.com/realme_narzo_90x_5g-14346.php) |
+| apple-iphone-16-plus | peak_brightness_nits | 1600 (https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india) | 2000 (https://www.gsmarena.com/apple_iphone_16_plus-13316.php) |
+| apple-iphone-16 | peak_brightness_nits | 1600 (https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india) | 2000 (https://m.gsmarena.com/apple_iphone_16-ampp-13317.php) |
+| apple-iphone-17-pro | weight_g | 204 (https://support.apple.com/en-au/125090) | 206 (https://www.gsmarena.com/apple_iphone_17_pro-14049.php) |
+| apple-iphone-se-2022 | battery_mah | 2821 (https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/) | 2018 (https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php) |
+| apple-iphone-se-2022 | weight_g | 148 (https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/) | 144 (https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php) |
+| google-pixel-10 | wired_charging_w | 29 (https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/) | 30 (https://m.gsmarena.com/google_pixel_10-ampp-13979.php) |

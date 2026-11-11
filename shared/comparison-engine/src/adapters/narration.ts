@@ -6,7 +6,7 @@ type Lang = 'en' | 'te' | 'hi' | 'ta' | 'kn' | 'ml';
 
 const T: Record<'en' | 'te', Record<string, string>> = {
   en: {
-    intro: '{phones}. Let’s see how they compare.',
+    intro: '{phones}. Which one is actually worth your money? Let’s go through the spec sheets, category by category.',
     leads: '{spec}: {phone} leads with {value}.',
     others: '{list}.',
     tie: '{spec} is too close to call.',
@@ -14,10 +14,10 @@ const T: Record<'en' | 'te', Record<string, string>> = {
     incomparable: '{spec} figures were measured differently, so we won’t rank them.',
     verdict: 'Overall, for your priorities, {phone} comes out ahead.',
     verdictClose: 'Overall it’s too close to call — pick based on what matters most to you.',
-    outro: 'All figures come from verified sources listed in the description.',
+    outro: 'All figures come from verified sources listed in the description. If this helped you decide, subscribe for more comparisons.',
   },
   te: {
-    intro: '{phones}. ఇవి ఎలా పోటీ పడతాయో చూద్దాం.',
+    intro: '{phones}. వీటిలో ఏది మీ డబ్బుకు తగినది? ఒక్కో విభాగాన్ని చూద్దాం.',
     leads: '{spec}లో {phone} {value}తో ముందుంది.',
     others: '{list}.',
     tie: '{spec}లో తేడా చాలా తక్కువ.',
@@ -25,7 +25,7 @@ const T: Record<'en' | 'te', Record<string, string>> = {
     incomparable: '{spec} వేర్వేరు పద్ధతుల్లో కొలిచారు, అందుకే ర్యాంక్ ఇవ్వడం లేదు.',
     verdict: 'మొత్తంగా, మీ ప్రాధాన్యతలకు {phone} ఉత్తమం.',
     verdictClose: 'మొత్తంగా తేడా చాలా తక్కువ — మీకు ఏది ముఖ్యమో దాని ఆధారంగా ఎంచుకోండి.',
-    outro: 'అన్ని గణాంకాలు వివరణలో ఇచ్చిన ధృవీకరించిన మూలాల నుండి తీసుకున్నవి.',
+    outro: 'అన్ని గణాంకాలు వివరణలో ఇచ్చిన ధృవీకరించిన మూలాల నుండి తీసుకున్నవి. ఇలాంటి మరిన్ని పోలికల కోసం సబ్‌స్క్రైబ్ చేయండి.',
   },
 };
 

@@ -3,7 +3,9 @@ import type {
   Cell, CategoryResult, ComparisonSnapshot, PhoneRecord, Registry, Row, SpecDefinition, SpecValue,
 } from './types.ts';
 
-export const ENGINE_VERSION = '1.0.0';
+export const ENGINE_VERSION = '1.1.0';
+/** Share of a category's ranked weight a phone needs data for before it gets a category score. */
+export const MIN_CATEGORY_COVERAGE = 0.5;
 
 /** Only these source types can decide a winner. Others are shown, labelled, never ranked. */
 /** spec_database = compiled manufacturer specs (e.g. GSMArena); trusted, but always shown with its source. */
@@ -97,7 +99,8 @@ function buildRow(def: SpecDefinition, phones: PhoneRecord[]): RowWithScores {
   const runnerUp = Math.max(...vals.filter((x) => x.r !== max).map((x) => x.r));
   const delta = def.direction === 'rank' || typeof eligible[0].value === 'boolean' ? Infinity : max - runnerUp;
   row.meaningful = delta >= (def.minMeaningfulDelta ?? 0);
-  if (!row.meaningful) { row.note = 'not_meaningful'; return row; }
+  // A difference too small to matter must not move the category score either.
+  if (!row.meaningful) { for (const x of vals) row.rowScores[x.id] = 1; row.note = 'not_meaningful'; return row; }
   row.winnerIds = top;
   for (const c of cells) c.isBest = top.includes(c.phoneId);
   return row;
@@ -115,13 +118,17 @@ export function buildSnapshot(phones: PhoneRecord[], registry: Registry, opts: B
     const defs = registry.specs.filter((d) => d.categoryKey === cat.key).sort((a, b) => a.order - b.order);
     const rows = defs.map((d) => buildRow(d, phones));
 
+    // A phone is scored only when it has data for at least half (by weight) of the
+    // specs ranked in this category. Otherwise one lucky row (say, wireless charging
+    // on a phone with no published battery size) would "win" the whole category.
+    const rankedWeight = rows.reduce((a, r, i) => a + (Object.keys(r.rowScores).length ? defs[i].weight : 0), 0);
     const scores: Record<string, number | null> = {};
     for (const p of phones) {
       let num = 0; let den = 0;
       rows.forEach((r, i) => {
         if (r.rowScores[p.id] !== undefined) { num += r.rowScores[p.id] * defs[i].weight; den += defs[i].weight; }
       });
-      scores[p.id] = den ? Math.round((num / den) * 100) : null;
+      scores[p.id] = den && den >= rankedWeight * MIN_CATEGORY_COVERAGE ? Math.round((num / den) * 100) : null;
     }
     const scored = Object.entries(scores).filter(([, v]) => v !== null) as [string, number][];
     let winnerIds: string[] = [];

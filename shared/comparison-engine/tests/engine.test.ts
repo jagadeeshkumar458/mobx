@@ -213,3 +213,25 @@ test('shortening a card below reading time is rejected', () => {
   const rushed = { ...sb, scenes: sb.scenes.map((x) => x !== sc ? x : { ...x, shots: x.shots.map((y) => ({ ...y, durationSec: 1 })), durationSec: x.shots.length }) };
   assert.ok(validateStoryboard(rushed, s).some((i) => /at least 3s to read/.test(i.problem)));
 });
+
+test('a phone with data for under half of a category is not scored in it', async () => {
+  const { defaultRegistry: reg } = await import('../src/registry.ts');
+  const { buildSnapshot: build } = await import('../src/engine.ts');
+  const sv = (value: number) => ({ value, sourceType: 'manufacturer' as const, verification: 'verified' as const, sourceUrl: 'https://example.test/x', lastUpdated: '2026-01-01' });
+  const a = { id: 'a', brand: 'A', model: 'One', specs: { battery_mah: sv(5000), wired_charging_w: sv(80), wireless_charging_w: sv(15) } };
+  const b = { id: 'b', brand: 'B', model: 'Two', specs: { battery_mah: sv(4300), wired_charging_w: sv(25), wireless_charging_w: sv(15) } };
+  const c = { id: 'c', brand: 'C', model: 'Three', specs: { wireless_charging_w: sv(25) } }; // no battery size published
+  const battery = build([a, b, c], reg).categories.find((x) => x.key === 'battery')!;
+  assert.equal(battery.scores.c, null);
+  assert.deepEqual(battery.winnerIds, ['a']);
+});
+
+test('a difference too small to matter does not move the category score', async () => {
+  const { defaultRegistry: reg } = await import('../src/registry.ts');
+  const { buildSnapshot: build } = await import('../src/engine.ts');
+  const sv = (value: number) => ({ value, sourceType: 'manufacturer' as const, verification: 'verified' as const, sourceUrl: 'https://example.test/x', lastUpdated: '2026-01-01' });
+  const a = { id: 'a', brand: 'A', model: 'One', specs: { wired_charging_w: sv(29) } };
+  const b = { id: 'b', brand: 'B', model: 'Two', specs: { wired_charging_w: sv(25) } };
+  const battery = build([a, b], reg).categories.find((x) => x.key === 'battery')!;
+  assert.equal(battery.scores.a, battery.scores.b);
+});

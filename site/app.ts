@@ -3,7 +3,7 @@
 // the shared engine, exactly as the real app will do on the server.
 import {
   buildSnapshot, defaultRegistry, toDashboard, toStoryboard, validateStoryboard,
-  DEFAULT_WEIGHTS, specLabel, type ComparisonSnapshot, type PhoneRecord, type Storyboard, type Tier, type Weights,
+  DEFAULT_WEIGHTS, specLabel, toPublishKit, toScript, toSrt, videoName, timestamp, speakSec, recommend, YT_LIMITS, type ComparisonSnapshot, type PhoneRecord, type Storyboard, type Tier, type Weights,
 } from '../shared/comparison-engine/src/index.ts';
 // Real phones with a source on every value (validated in tests/seed.test.ts).
 import seed from '../database/seed/phones.json' with { type: 'json' };
@@ -12,6 +12,7 @@ import { alpha, beta, gamma, delta, epsilon } from '../shared/comparison-engine/
 import { buildBeats, renderFrame, type Beat, type FrameContext } from './frames.ts';
 import { icon, CATEGORY_ICON } from './icons.ts';
 import { radarChart, scoreRing, RADAR_KEYS } from './charts.ts';
+import { drawThumbnail, exportVideo, canExport, download, FORMATS, type Format } from './studio.ts';
 
 const REAL = seed.records as unknown as PhoneRecord[];
 const FICTIONAL = [alpha, beta, gamma, delta, epsilon];
@@ -56,7 +57,24 @@ const state = {
   lang: 'en' as Lang,
   duration: undefined as number | undefined, // undefined = auto: every comparable spec at reading pace
   edits: {} as Record<string, string>,
+  pace: 'reading' as 'reading' | 'voiceover',
 };
+
+/** Creator inputs for the YouTube studio. Kept in memory only; never part of the snapshot. */
+const studio = {
+  images: {} as Record<string, string>,
+  headline: 'Which one wins?',
+  thumbStyle: 'dark' as 'dark' | 'bright',
+  format: 'landscape' as Format,
+  showPick: false,
+  audio: null as File | null,
+  exporting: null as { cancelled: boolean } | null,
+};
+const SHORT_LABELS: Record<string, string> = {
+  performance: 'Performance', camera: 'Camera', display: 'Display', battery: 'Battery', software: 'Software', price: 'Price',
+  ai: 'AI', design: 'Design', audio: 'Audio', connectivity: 'Connectivity', biometrics: 'Biometrics',
+};
+const storyOpts = () => ({ language: state.lang, durationSec: state.duration, weights: state.weights, pace: state.pace });
 
 const FRAME_TEXT: Record<Lang, FrameContext['text']> = {
   en: { vs: 'VS', winner: 'Winner', tooClose: 'Too close to call', sources: 'Sources in the description', placeholder: 'Phone outlines are placeholders until licensed images are added' },
@@ -100,7 +118,7 @@ function rebuild() {
   stopPlayer();
   const phones = state.selected.map((id) => PHONES.find((p) => p.id === id)!);
   snapshot = buildSnapshot(phones, defaultRegistry);
-  storyboard = toStoryboard(snapshot, { language: state.lang, durationSec: state.duration, weights: state.weights });
+  storyboard = toStoryboard(snapshot, storyOpts());
   state.edits = {};
 }
 
@@ -249,30 +267,144 @@ function renderToolbar(): string {
   </div>`;
 }
 
+function kit() {
+  return toPublishKit(snapshot, editedStoryboard(), {
+    categoryLabel: (k) => SHORT_LABELS[k] ?? CATEGORY_LABELS[k] ?? k,
+    specLabel: label,
+    pageUrl: location.protocol.startsWith('http') ? location.origin + location.pathname : undefined,
+  });
+}
+const fileSlug = () => snapshot.phones.map((p) => videoName(p).toLowerCase().replace(/[^a-z0-9]+/g, '-')).join('-vs-');
+const sceneLabel = (s: Storyboard['scenes'][number]) => (s.categoryKey ? CATEGORY_LABELS[s.categoryKey] ?? s.categoryKey : s.type === 'phoneReveal' ? 'Phone reveal' : s.type[0].toUpperCase() + s.type.slice(1));
+const copyBtn = (id: string, text = 'Copy') => `<button class="btn sm" data-copy="${id}">${text}</button>`;
+
+function renderKit(): string {
+  const k = kit();
+  const total = storyboard.scenes.reduce((a, s) => a + s.durationSec, 0);
+  const count = (n: number, max: number) => `<span class="count-pill ${n > max ? 'over' : ''}">${n}/${max}</span>`;
+  return `
+    <div class="kit-block"><div class="kit-head"><h4>Title ideas</h4><span class="small">Pick one; names first so search finds it</span></div>
+      <ul class="titles">${k.titles.map((t, i) => `<li><span id="kit-title-${i}">${esc(t)}</span>${count(t.length, YT_LIMITS.title)}${copyBtn(`kit-title-${i}`)}</li>`).join('')}</ul></div>
+    <div class="kit-block"><div class="kit-head"><h4>Description</h4>${count(k.description.length, YT_LIMITS.description)}${copyBtn('kit-desc')}</div>
+      <p class="small">Chapters match the video's timing (${fmt(total)}), and every source the video relies on is listed.</p>
+      <textarea id="kit-desc" class="kit-text" readonly rows="12">${esc(k.description)}</textarea></div>
+    <div class="kit-grid">
+      <div class="kit-block"><div class="kit-head"><h4>Tags</h4>${count(k.tags.join(',').length, YT_LIMITS.tags)}${copyBtn('kit-tags')}</div>
+        <textarea id="kit-tags" class="kit-text" readonly rows="4">${esc(k.tags.join(', '))}</textarea></div>
+      <div class="kit-block"><div class="kit-head"><h4>Pinned comment</h4>${copyBtn('kit-pin')}</div>
+        <textarea id="kit-pin" class="kit-text" readonly rows="4">${esc(k.pinnedComment)}</textarea></div>
+    </div>`;
+}
+
 function renderStoryboard(): string {
-  const scenes = storyboard.scenes.map((s) => `
+  const total = storyboard.scenes.reduce((a, s) => a + s.durationSec, 0);
+  const scenes = storyboard.scenes.map((s) => {
+    const text = state.edits[s.id] ?? s.narration;
+    const read = speakSec(text);
+    return `
     <div class="scene" data-scene="${s.id}">
-      <div class="scene-top"><b>${esc(s.type)}</b><span>${s.durationSec}s</span></div>
-      ${s.type === 'phoneReveal' ? '<p class="small" style="margin:0">Phone images animate in (no narration)</p>'
-        : `<textarea data-narration="${s.id}" aria-label="Narration for ${esc(s.type)}" lang="${state.lang}">${esc(state.edits[s.id] ?? s.narration)}</textarea>`}
+      <div class="scene-top"><b>${esc(sceneLabel(s))}</b><span>${s.durationSec}s</span></div>
+      ${s.type === 'phoneReveal' ? '<p class="small" style="margin:0">Phones animate in (no narration)</p>'
+        : `<textarea data-narration="${s.id}" aria-label="Narration for ${esc(sceneLabel(s))}" lang="${state.lang}">${esc(text)}</textarea>
+           <div class="read ${read > s.durationSec + 0.5 ? 'over' : ''}" data-read="${s.id}" data-dur="${s.durationSec}">~${read}s to say · ${s.durationSec}s on screen</div>`}
       ${s.facts.length ? `<div class="facts">${s.facts.map((f) => `<span class="fact ${f.isBest ? 'best' : ''}">${esc(snapshot.phones.find((p) => p.id === f.phoneId)!.model)} · ${esc(f.display)}</span>`).join('')}</div>` : ''}
       <div class="issue" data-issue="${s.id}"></div>
-    </div>`).join('');
+    </div>`; }).join('');
+  const uploads = snapshot.phones.map((p, i) => `<label class="img-slot" style="--c:var(--p${i})">
+      <span class="img-prev">${studio.images[p.id] ? `<img src="${esc(studio.images[p.id])}" alt="">` : icon('phone', 'lg')}</span>
+      <span><b>${esc(p.model)}</b><span class="small">${studio.images[p.id] ? 'Replace image' : 'Add image (PNG with transparent background works best)'}</span></span>
+      <input type="file" accept="image/*" data-image="${p.id}" hidden>
+      ${studio.images[p.id] ? `<button class="icon-btn xs" data-image-clear="${p.id}" aria-label="Remove image for ${esc(p.model)}">${icon('x', 'xs')}</button>` : ''}</label>`).join('');
+  const shortsTooLong = studio.format === 'shorts' && total > YT_LIMITS.shortsMaxSec;
   return `<section class="section card" id="video">
-    <div class="section-head"><div><div class="card-title">${icon('video')}<h2>Video storyboard</h2></div>
-      <p class="hint">Built from the same snapshot. Try editing a narration to add a number that isn't in the data.</p></div>
+    <div class="section-head"><div><div class="card-title">${icon('video')}<h2>YouTube studio</h2></div>
+      <p class="hint">Everything a comparison video needs, built from the same verified snapshot as the tables above: storyboard, script, captions, the video file, thumbnail, title, description and tags.</p></div>
       <div class="controls">
         <label>Language <select data-ctl="lang"><option value="en" ${state.lang === 'en' ? 'selected' : ''}>English</option><option value="te" ${state.lang === 'te' ? 'selected' : ''}>తెలుగు</option></select></label>
         <label>Length <select data-ctl="duration"><option value="auto" ${state.duration === undefined ? 'selected' : ''}>Auto (all specs)</option>${[60, 90, 120, 180, 300].map((d) => `<option value="${d}" ${state.duration === d ? 'selected' : ''}>${d < 120 ? d + 's' : d / 60 + ' min'}</option>`).join('')}</select></label>
+        <label>Pacing <select data-ctl="pace" ${state.duration !== undefined ? 'disabled title="Pacing applies to Auto length"' : ''}><option value="reading" ${state.pace === 'reading' ? 'selected' : ''}>Music only (reading pace)</option><option value="voiceover" ${state.pace === 'voiceover' ? 'selected' : ''}>Voiceover (cards wait for narration)</option></select></label>
         <button class="btn" data-ctl="reset">Reset edits</button>
       </div></div>
     <div id="status" class="status"></div>
-    <h3 style="font-size:16px;margin-top:18px">Video preview</h3>
-    <p class="hint" style="margin:4px 0 0">Every card stays on screen for at least 3 seconds (head-to-head cards 3.5s, tables 5s) and slides in slowly. Frames are drawn only from the storyboard facts. Rendering to MP4 comes with the video engine; this preview plays the cards with their real timing.</p>
-    <div class="player" id="player">${renderPlayer()}</div>
-    <h3 style="font-size:16px;margin-top:22px">Scenes and narration</h3>
-    <div class="scenes">${scenes}</div>
+
+    <ol class="steps">
+      <li class="step"><h3><span class="step-n">1</span>Preview</h3>
+        <p class="hint">${storyboard.scenes.length} scenes, ${fmt(total)}. Every card stays up at least 3 seconds. The exported video shows exactly these cards with this timing.</p>
+        <div class="player" id="player">${renderPlayer()}</div></li>
+
+      <li class="step"><h3><span class="step-n">2</span>Phone images <span class="small">optional</span></h3>
+        <p class="hint">Use product images you have the right to publish (press-kit renders or your own photos). They appear in the video and the thumbnail. Without them, outlines are drawn. Images stay in this browser tab.</p>
+        <div class="img-slots">${uploads}</div></li>
+
+      <li class="step"><h3><span class="step-n">3</span>Script</h3>
+        <p class="hint">Edit any line. A number that isn't in the verified data blocks the export. Lines marked in amber take longer to say than their cards are on screen: shorten them or switch Pacing to Voiceover.</p>
+        <div class="scenes">${scenes}</div>
+        <div class="row-actions"><button class="btn" data-dl="script">Download script (.txt)</button><button class="btn" data-dl="srt">Download captions (.srt)</button></div></li>
+
+      <li class="step"><h3><span class="step-n">4</span>Export video</h3>
+        <p class="hint">Records in this browser, in real time (${fmt(total)}), to a WebM file that YouTube accepts. Keep this tab in front while it records. Add a voiceover or music file and it is mixed in.</p>
+        <div class="controls export">
+          <label>Format <select data-ctl="format">${(Object.keys(FORMATS) as Format[]).map((f) => `<option value="${f}" ${studio.format === f ? 'selected' : ''}>${FORMATS[f].label}</option>`).join('')}</select></label>
+          <label class="file-pick">Audio <input type="file" accept="audio/*" data-ctl="audio"><span class="small">${studio.audio ? esc(studio.audio.name) : 'none'}</span></label>
+          <button class="btn primary" data-ctl="export" ${canExport() ? '' : 'disabled title="This browser cannot record video; use Chrome, Edge or Firefox"'}>${icon('video', 'sm')} Export video</button>
+        </div>
+        ${shortsTooLong ? `<p class="warn-line">Shorts can be at most 3 minutes; this cut is ${fmt(total)}. Choose a 60s, 90s, 2 min or 3 min length above.</p>` : ''}
+        <div id="export-status" class="export-status" hidden></div></li>
+
+      <li class="step"><h3><span class="step-n">5</span>Thumbnail</h3>
+        <p class="hint">1280×720 PNG. Short, high-contrast text reads best at small sizes.</p>
+        <div class="thumb-maker"><canvas id="thumb-canvas" width="1280" height="720" aria-label="Thumbnail preview"></canvas>
+          <div class="thumb-ctl">
+            <label>Headline <input type="text" data-ctl="headline" maxlength="28" value="${esc(studio.headline)}"></label>
+            <label>Style <select data-ctl="thumbstyle"><option value="dark" ${studio.thumbStyle === 'dark' ? 'selected' : ''}>Dark</option><option value="bright" ${studio.thumbStyle === 'bright' ? 'selected' : ''}>Bright</option></select></label>
+            <label class="check"><input type="checkbox" data-ctl="showpick" ${studio.showPick ? 'checked' : ''}> Mark the recommended phone (gives the result away)</label>
+            <button class="btn" data-dl="thumb">Download thumbnail (.png)</button>
+          </div></div></li>
+
+      <li class="step"><h3><span class="step-n">6</span>Title, description and tags</h3>
+        <div id="kit">${renderKit()}</div></li>
+    </ol>
   </section>`;
+}
+
+function refreshThumb() {
+  const canvas = document.getElementById('thumb-canvas') as HTMLCanvasElement | null;
+  if (!canvas) return;
+  const best = snapshot.phones.length > 1 ? recommend(snapshot, state.weights).bestPhoneId : null;
+  void drawThumbnail(canvas, {
+    names: snapshot.phones.map(videoName), headline: studio.headline, style: studio.thumbStyle,
+    images: snapshot.phones.map((p) => studio.images[p.id]),
+    winnerIndex: best && studio.showPick ? snapshot.phones.findIndex((p) => p.id === best) : -1,
+  });
+}
+
+async function runExport() {
+  if (studio.exporting) { studio.exporting.cancelled = true; return; }
+  if (validateStoryboard(editedStoryboard(), snapshot).length) { toast('Fix the script problems first', 'info'); return; }
+  const box = document.getElementById('export-status')!;
+  const btn = document.querySelector<HTMLElement>('[data-ctl="export"]')!;
+  const signal = { cancelled: false };
+  studio.exporting = signal; stopPlayer();
+  btn.textContent = 'Cancel export';
+  box.hidden = false;
+  try {
+    const blob = await exportVideo({
+      beats: beats(), ctx: frameCtx(), format: studio.format, audio: studio.audio, signal,
+      title: snapshot.phones.map(videoName).join(' vs '), footer: 'Full comparison on the channel',
+      onProgress: (done, total, stage) => { box.innerHTML = `<div class="bar"><i style="width:${Math.round((done / total) * 100)}%"></i></div><span>${esc(stage)} · ${fmt(done)} / ${fmt(total)}</span>`; },
+    });
+    if (blob) {
+      download(`${fileSlug()}${studio.format === 'shorts' ? '-shorts' : ''}.webm`, blob);
+      box.innerHTML = `<span>Done: ${(blob.size / 1048576).toFixed(1)} MB WebM saved to your downloads.</span>`;
+      toast('Video exported');
+    } else box.innerHTML = '<span>Export cancelled.</span>';
+  } catch (err) {
+    box.innerHTML = `<span class="bad">Export failed: ${esc((err as Error).message)}</span>`;
+  } finally {
+    studio.exporting = null;
+    const b2 = document.querySelector<HTMLElement>('[data-ctl="export"]');
+    if (b2) b2.innerHTML = `${icon('video', 'sm')} Export video`;
+  }
 }
 
 function phoneItem(p: PhoneRecord, showBrand = false): string {
@@ -356,6 +488,7 @@ function frameCtx(): FrameContext {
     categoryTitle: (k) => CATEGORY_LABELS[k] ?? k,
     text: FRAME_TEXT[state.lang],
     snapshotHash: snapshot.contentHash,
+    images: studio.images,
   };
 }
 
@@ -418,8 +551,8 @@ function updateValidation() {
   const status = document.getElementById('status')!;
   status.className = `status ${issues.length ? 'bad' : 'ok'}`;
   status.textContent = issues.length
-    ? `Render blocked: ${issues.length} problem${issues.length > 1 ? 's' : ''}. The video can only say what the verified data says.`
-    : `Ready to render — every value matches snapshot ${snapshot.contentHash.slice(0, 12)}.`;
+    ? `Export blocked: ${issues.length} problem${issues.length > 1 ? 's' : ''}. The video can only say what the verified data says.`
+    : `Ready to export — every value matches snapshot ${snapshot.contentHash.slice(0, 12)}.`;
   document.querySelectorAll<HTMLElement>('[data-scene]').forEach((el) => {
     const mine = issues.filter((i) => i.sceneId === el.dataset.scene);
     el.classList.toggle('invalid', mine.length > 0);
@@ -456,7 +589,7 @@ function render() {
   app.innerHTML = `
   <header class="appbar"><div class="wrap appbar-in">
     <a class="logo-mark" href="#top" aria-label="MobileVerse home"><span class="lm-ic">${icon('phone')}</span><span class="lm-text">Mobile<b>Verse</b></span></a>
-    <nav class="nav">${[['#compare', 'Compare', 'radar'], ['#rec', 'Priorities', 'sliders'], ['#video', 'Video', 'video'], ['#sources', 'Sources', 'link']]
+    <nav class="nav">${[['#compare', 'Compare', 'radar'], ['#rec', 'Priorities', 'sliders'], ['#video', 'YouTube studio', 'video'], ['#sources', 'Sources', 'link']]
       .map(([h, t, ic]) => `<a href="${h}">${icon(ic, 'sm')}<span>${t}</span></a>`).join('')}</nav>
     <button class="icon-btn theme-btn" data-ui="theme" aria-label="Switch to ${currentTheme() === 'dark' ? 'light' : 'dark'} theme">${icon(currentTheme() === 'dark' ? 'sun' : 'moon')}</button>
   </div></header>
@@ -492,6 +625,7 @@ function render() {
   </main>
   <footer><div class="wrap foot-in"><a href="https://github.com/jagadeeshkumar458/mobx">${icon('github', 'sm')} jagadeeshkumar458/mobx</a><span>Engine code in <code>shared/comparison-engine</code></span></div></footer>`;
   updateValidation();
+  refreshThumb();
 }
 
 function setPhones(next: string[], msg: string) {
@@ -576,6 +710,20 @@ document.addEventListener('click', (e) => {
   const mode = t.closest<HTMLElement>('[data-mode]')?.dataset.mode as Tier | undefined;
   if (mode) { state.mode = mode; render(); return; }
   if (t.closest('[data-ctl="reset"]')) { state.edits = {}; render(); return; }
+  if (t.closest('[data-ctl="export"]')) { void runExport(); return; }
+  const copy = t.closest<HTMLElement>('[data-copy]');
+  if (copy) {
+    const src = document.getElementById(copy.dataset.copy!) as HTMLElement | HTMLTextAreaElement | null;
+    const text = src ? ('value' in src ? src.value : src.textContent ?? '') : '';
+    void navigator.clipboard?.writeText(text).then(() => toast('Copied'), () => toast('Copy failed: select the text and copy it', 'info'));
+    return;
+  }
+  const dl = t.closest<HTMLElement>('[data-dl]')?.dataset.dl;
+  if (dl === 'script') { download(`${fileSlug()}-script.txt`, toScript(editedStoryboard(), sceneLabel)); return; }
+  if (dl === 'srt') { download(`${fileSlug()}-captions.srt`, toSrt(editedStoryboard())); return; }
+  if (dl === 'thumb') { (document.getElementById('thumb-canvas') as HTMLCanvasElement).toBlob((b) => b && download(`${fileSlug()}-thumbnail.png`, b), 'image/png'); return; }
+  const clear = t.closest<HTMLElement>('[data-image-clear]')?.dataset.imageClear;
+  if (clear) { e.preventDefault(); delete studio.images[clear]; stopPlayer(); render(); return; }
   const play = t.closest<HTMLElement>('[data-play]')?.dataset.play;
   if (play) {
     const n = beats().length;
@@ -600,11 +748,21 @@ document.addEventListener('keydown', (e) => {
 document.addEventListener('change', (e) => {
   const t = e.target as HTMLInputElement;
   if (t.dataset.ctl === 'lang') { state.lang = t.value as Lang; rebuild(); render(); }
+  if (t.dataset.ctl === 'pace') { state.pace = t.value as typeof state.pace; rebuild(); render(); }
+  if (t.dataset.ctl === 'format') { studio.format = t.value as Format; render(); }
+  if (t.dataset.ctl === 'showpick') { studio.showPick = t.checked; refreshThumb(); }
+  if (t.dataset.ctl === 'thumbstyle') { studio.thumbStyle = t.value as typeof studio.thumbStyle; refreshThumb(); }
+  if (t.dataset.ctl === 'audio') { studio.audio = t.files?.[0] ?? null; t.parentElement!.querySelector('.small')!.textContent = studio.audio?.name ?? 'none'; }
+  if (t.dataset.image && t.files?.[0]) {
+    const id = t.dataset.image; const r = new FileReader();
+    r.onload = () => { studio.images[id] = String(r.result); stopPlayer(); render(); toast('Image added'); };
+    r.readAsDataURL(t.files[0]);
+  }
   if (t.dataset.ctl === 'duration') { state.duration = t.value === 'auto' ? undefined : Number(t.value); rebuild(); render(); }
   if (t.dataset.ui === 'diff') { ui.diffOnly = t.checked; render(); }
   if (t.dataset.weight) {
     // Weights affect the verdict scene too, so rebuild the storyboard from the same snapshot.
-    storyboard = toStoryboard(snapshot, { language: state.lang, durationSec: state.duration, weights: state.weights });
+    storyboard = toStoryboard(snapshot, storyOpts());
     state.edits = {}; stopPlayer(); render();
   }
 });
@@ -623,7 +781,13 @@ document.addEventListener('input', (e) => {
     t.closest('.search-box')!.classList.toggle('open', !!ui.query.trim());
   }
   if (t.dataset.ui === 'specfilter') filterSpecs(t.value);
-  if (t.dataset.narration) { state.edits[t.dataset.narration] = t.value; updateValidation(); }
+  if (t.dataset.narration) {
+    state.edits[t.dataset.narration] = t.value; updateValidation();
+    const r = document.querySelector<HTMLElement>(`[data-read="${t.dataset.narration}"]`);
+    if (r) { const s = speakSec(t.value); r.textContent = `~${s}s to say · ${r.dataset.dur}s on screen`; r.classList.toggle('over', s > Number(r.dataset.dur) + 0.5); }
+    const k = document.getElementById('kit'); if (k) k.innerHTML = renderKit();
+  }
+  if (t.dataset.ctl === 'headline') { studio.headline = t.value; refreshThumb(); }
 });
 
 try { const saved = localStorage.getItem('mv-theme'); if (saved === 'light' || saved === 'dark') document.documentElement.dataset.theme = saved; } catch { /* storage unavailable */ }

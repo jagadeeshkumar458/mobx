@@ -324,7 +324,7 @@
           "region": "ES"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://store.google.com/es/product/pixel_11_specs",
@@ -691,7 +691,7 @@
           "region": "IN"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
@@ -1130,6 +1130,38 @@
           "verification": "verified",
           "sourceUrl": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026",
           "lastUpdated": "2026-11-01",
+          "region": "GLOBAL"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s26-ampp-14456.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s26-ampp-14456.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s26-ampp-14456.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/samsung_galaxy_s26-ampp-14456.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -16570,6 +16602,54 @@
           "sourceUrl": "https://support.apple.com/111850",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-09-07",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.7\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3279,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14-ampp-11861.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -16863,6 +16943,54 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-ug/111854",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-09-07",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.7\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4323,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -17180,6 +17308,54 @@
           "sourceUrl": "https://support.apple.com/en-ie/111849",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-09-07",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3200,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -17496,6 +17672,54 @@
           "sourceUrl": "https://support.apple.com/en-gb/111846",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-09-07",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4323,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_14_pro_max-ampp-11773.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -17780,6 +18004,62 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-ng/111831",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-09-12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 17",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3349,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15-ampp-12559.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -18074,6 +18354,62 @@
           "sourceUrl": "https://support.apple.com/en-in/111830",
           "lastUpdated": "2026-11-06",
           "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-09-12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 17",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4383,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_plus-ampp-12558.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -18389,6 +18725,54 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-mk/111829",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-09-12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3274,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro-ampp-12557.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -18706,6 +19090,54 @@
           "sourceUrl": "https://support.apple.com/en-gb/111828",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2023-09-12",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4441,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_15_pro_max-ampp-12548.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -18769,14 +19201,11 @@
         },
         "battery_mah": {
           "value": 3561,
-          "sourceType": "not_verified",
-          "verification": "unverified",
-          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
-          "lastUpdated": "2026-11-02",
-          "region": "IN",
-          "conditions": {
-            "note": "Apple does not publish battery capacity; figure reported without a cited source"
-          }
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16-ampp-13317.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         },
         "wireless_charging_w": {
           "value": 25,
@@ -19026,6 +19455,38 @@
           "sourceUrl": "https://support.apple.com/en-in/121029",
           "lastUpdated": "2026-11-06",
           "region": "IN"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16-ampp-13317.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16-ampp-13317.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16-ampp-13317.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16-ampp-13317.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -19089,14 +19550,11 @@
         },
         "battery_mah": {
           "value": 4674,
-          "sourceType": "not_verified",
-          "verification": "unverified",
-          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
-          "lastUpdated": "2026-11-02",
-          "region": "IN",
-          "conditions": {
-            "note": "Apple does not publish battery capacity; figure reported without a cited source"
-          }
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         },
         "wireless_charging_w": {
           "value": 25,
@@ -19338,6 +19796,38 @@
           "sourceUrl": "https://support.apple.com/en-ie/121030",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -19401,14 +19891,11 @@
         },
         "battery_mah": {
           "value": 3582,
-          "sourceType": "not_verified",
-          "verification": "unverified",
-          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
-          "lastUpdated": "2026-11-02",
-          "region": "IN",
-          "conditions": {
-            "note": "Apple does not publish battery capacity; figure reported without a cited source"
-          }
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         },
         "wireless_charging_w": {
           "value": 25,
@@ -19665,6 +20152,46 @@
           "sourceUrl": "https://support.apple.com/en-gb/121031",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro-ampp-13315.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -19728,14 +20255,11 @@
         },
         "battery_mah": {
           "value": 4685,
-          "sourceType": "not_verified",
-          "verification": "unverified",
-          "sourceUrl": "https://themobileindian.com/news/apple-iphone-16-iphone-16-plus-iphone-16-pro-iphone-16-pro-max-launched-in-india",
-          "lastUpdated": "2026-11-02",
-          "region": "IN",
-          "conditions": {
-            "note": "Apple does not publish battery capacity; figure reported without a cited source"
-          }
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         },
         "wireless_charging_w": {
           "value": 25,
@@ -19991,6 +20515,46 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-gb/121032",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2024-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16_pro_max-ampp-13123.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -20274,6 +20838,54 @@
           "sourceUrl": "https://support.apple.com/en-hk/122208",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-02-19",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 4005,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 7.5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/2.55\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_16e-ampp-13395.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -20483,7 +21095,7 @@
           "region": "GLOBAL"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-gb/125089",
@@ -20574,6 +21186,54 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-gb/125089",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3692,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -20776,7 +21436,7 @@
           "region": "GLOBAL"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://www.apple.com/si/iphone-air/specs/",
@@ -20858,6 +21518,54 @@
           "verification": "verified",
           "sourceUrl": "https://www.apple.com/si/iphone-air/specs/",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "battery_mah": {
+          "value": 3149,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -21084,7 +21792,7 @@
           "region": "GLOBAL"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-au/125090",
@@ -21173,6 +21881,46 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/en-au/125090",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -21399,7 +22147,7 @@
           "region": "GLOBAL"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/125091",
@@ -21488,6 +22236,46 @@
           "verification": "verified",
           "sourceUrl": "https://support.apple.com/125091",
           "lastUpdated": "2026-11-06",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 3,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2025-09-09",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "os_at_launch": {
+          "value": "iOS 26",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.28\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+          "lastUpdated": "2026-11-11",
           "region": "GLOBAL"
         }
       }
@@ -22114,7 +22902,7 @@
           "region": "IN"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://www.apple.com/in/iphone-18-pro/specs/",
@@ -22415,7 +23203,7 @@
           "region": "IN"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://www.apple.com/in/iphone-duo/specs/",
@@ -22756,6 +23544,78 @@
           "sourceUrl": "https://support.apple.com/en-ie/111866",
           "lastUpdated": "2026-11-06",
           "region": "GLOBAL"
+        },
+        "launch_date": {
+          "value": "2022-03-08",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "process_node_nm": {
+          "value": 5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "wireless_charging_w": {
+          "value": 7.5,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Ion-strengthened glass",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminum",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "back_material": {
+          "value": "Glass",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "capacitive",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php",
+          "lastUpdated": "2026-11-11",
+          "region": "GLOBAL"
         }
       }
     },
@@ -22965,7 +23825,7 @@
           "region": "US"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://store.google.com/us/product/pixel_11_pro_specs?hl=en-US",
@@ -23335,7 +24195,7 @@
           "region": "US"
         },
         "bluetooth_version": {
-          "value": "Bluetooth 6",
+          "value": "Bluetooth 6.0",
           "sourceType": "manufacturer",
           "verification": "verified",
           "sourceUrl": "https://store.google.com/us/product/pixel_11_pro_specs?hl=en-US",

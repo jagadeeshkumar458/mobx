@@ -2,6 +2,7 @@ import type { ComparisonSnapshot, Row, Weights } from '../types.ts';
 import { recommend, DEFAULT_WEIGHTS } from '../recommend.ts';
 import { verifySnapshot } from '../engine.ts';
 import { t, specLabel, type Lang } from './narration.ts';
+import { speakSec } from './youtube.ts';
 
 /** A fact is a pointer into the snapshot plus the exact text it showed. */
 export interface Fact {
@@ -50,6 +51,21 @@ export interface StoryboardOptions {
   /** Ordered category keys; defaults to categories with video.enabledByDefault. */
   categories?: string[];
   weights?: Weights;
+  /**
+   * 'reading' (default): cards stay up long enough to read, for music-only videos.
+   * 'voiceover': each scene is stretched until its narration can be spoken at a
+   * comfortable pace. Ignored when a target length is set.
+   */
+  pace?: 'reading' | 'voiceover';
+}
+
+/** Stretches a scene's cards so they last as long as its narration takes to say. */
+function fitToNarration(sc: Scene): Scene {
+  const need = speakSec(sc.narration);
+  if (need <= sc.durationSec) return sc;
+  const k = need / sc.durationSec;
+  const shots = sc.shots.map((x) => ({ ...x, durationSec: Math.round(x.durationSec * k * 10) / 10 }));
+  return { ...sc, shots, durationSec: Math.round(shots.reduce((a, x) => a + x.durationSec, 0) * 10) / 10 };
 }
 
 /** Reading times in seconds. A viewer needs ~3–4 s to read one comparison card. */
@@ -148,7 +164,8 @@ export function toStoryboard(s: ComparisonSnapshot, opts: StoryboardOptions = {}
   }
   if (verdict) scenes.push(verdict);
   scenes.push(outro);
-  return { snapshotHash: s.contentHash, language: lang, weights, scenes };
+  const fit = opts.pace === 'voiceover' && opts.durationSec === undefined;
+  return { snapshotHash: s.contentHash, language: lang, weights, scenes: fit ? scenes.map(fitToNarration) : scenes };
 }
 
 const NUM = /\d[\d,]*(?:\.\d+)?/g;

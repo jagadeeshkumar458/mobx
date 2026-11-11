@@ -30,6 +30,8 @@ export interface FrameContext {
   categoryTitle: (key: string) => string;
   text: { vs: string; winner: string; tooClose: string; sources: string; placeholder: string };
   snapshotHash: string;
+  /** phoneId → image data URL supplied by the creator; outlines are drawn when absent. */
+  images?: Record<string, string>;
 }
 
 const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
@@ -80,8 +82,9 @@ export function buildBeats(scene: Scene, ctx: FrameContext): Beat[] {
   });
 }
 
-function phoneArt(): string {
-  return `<div class="vf-phone" aria-hidden="true"><i></i></div>`;
+function phoneArt(p?: Phone, ctx?: FrameContext): string {
+  const src = p && ctx?.images?.[p.id];
+  return src ? `<div class="vf-phone has-img" aria-hidden="true"><img src="${esc(src)}" alt=""/></div>` : `<div class="vf-phone" aria-hidden="true"><i></i></div>`;
 }
 
 function splitValue(display: string): [string, string] {
@@ -114,18 +117,18 @@ function renderFrameBody(b: Beat, ctx: FrameContext): string {
 
     case 'intro':
       return `<div class="vf vf-purple"><div class="vf-vsrow"><div class="vf-vs">${ctx.text.vs}</div>
-        <div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col">${phoneArt()}<div class="vf-caps sm">${esc(shortName(p, ps))}</div><div class="vf-sub">${esc(p.model)}</div></div>`).join('')}</div></div>
-        <div class="vf-note">${ctx.text.placeholder}</div></div>`;
+        <div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col">${phoneArt(p, ctx)}<div class="vf-caps sm">${esc(shortName(p, ps))}</div><div class="vf-sub">${esc(p.model)}</div></div>`).join('')}</div></div>
+        ${ps.every((p) => ctx.images?.[p.id]) ? '' : `<div class="vf-note">${ctx.text.placeholder}</div>`}</div>`;
 
     case 'reveal':
-      return `<div class="vf vf-mint">${head('caps')}<div class="vf-cols vf-grow" ${cols}>${ps.map(() => `<div class="vf-col">${phoneArt()}</div>`).join('')}</div></div>`;
+      return `<div class="vf vf-mint">${head('caps')}<div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col">${phoneArt(p, ctx)}</div>`).join('')}</div></div>`;
 
     case 'versusTable': {
       const rows = b.specs.map((s, i) => `<div class="vf-tr ${i % 2 ? 'alt' : ''}" ${cols}><div class="vf-td-label">${esc(s.label)}</div>${ps.map((p) => {
         const c = s.cells[p.id];
         return `<div class="vf-td ${c ? (c.isBest ? 'best' : '') : 'na'} ${c && c.display.length > 28 ? 'long' : ''}">${c ? esc(c.display) : 'N/A'}</div>`;
       }).join('')}</div>`).join('');
-      return `<div class="vf vf-purple vf-table"><div class="vf-thead" ${cols}><div class="vf-vs">${ctx.text.vs}</div>${ps.map((p) => `<div class="vf-col">${phoneArt()}<div class="vf-caps sm">${esc(shortName(p, ps))}</div></div>`).join('')}</div>
+      return `<div class="vf vf-purple vf-table"><div class="vf-thead" ${cols}><div class="vf-vs">${ctx.text.vs}</div>${ps.map((p) => `<div class="vf-col">${phoneArt(p, ctx)}<div class="vf-caps sm">${esc(shortName(p, ps))}</div></div>`).join('')}</div>
         <div class="vf-tbody">${rows}</div>${b.title ? `<div class="vf-tag">${esc(b.title)}</div>` : ''}</div>`;
     }
 
@@ -137,14 +140,14 @@ function renderFrameBody(b: Beat, ctx: FrameContext): string {
           const c = s.cells[p.id];
           const [num, unit] = c ? splitValue(c.display) : ['N/A', ''];
           return `<div class="vf-col">${style === 'pill' ? `<span class="vf-pill">${esc(p.model)}</span>` : ''}
-            <div class="vf-stage">${phoneArt()}<div class="vf-big ${c ? (c.isBest ? 'best' : '') : 'na'}"><b>${esc(num)}</b>${unit ? `<span>${esc(unit)}</span>` : ''}</div></div></div>`;
+            <div class="vf-stage">${phoneArt(p, ctx)}<div class="vf-big ${c ? (c.isBest ? 'best' : '') : 'na'}"><b>${esc(num)}</b>${unit ? `<span>${esc(unit)}</span>` : ''}</div></div></div>`;
         }).join('')}</div><div class="vf-tag">${esc(s.label)}</div></div>`;
     }
 
     case 'chipCards': {
       const s = b.specs[0];
       return `<div class="vf vf-light vf-chips"><div class="vf-band" ${cols}>${ps.map((p) => `<div>${esc(p.brand)} ${esc(p.model)}</div>`).join('')}</div>
-        <div class="vf-cols vf-grow" ${cols}>${ps.map((p, i) => `<div class="vf-chipcard c${i % 5}"><div class="vf-chipname">${s.cells[p.id] ? esc(s.cells[p.id].display) : 'N/A'}</div>${phoneArt()}</div>`).join('')}</div></div>`;
+        <div class="vf-cols vf-grow" ${cols}>${ps.map((p, i) => `<div class="vf-chipcard c${i % 5}"><div class="vf-chipname">${s.cells[p.id] ? esc(s.cells[p.id].display) : 'N/A'}</div>${phoneArt(p, ctx)}</div>`).join('')}</div></div>`;
     }
 
     case 'statRows':
@@ -156,7 +159,7 @@ function renderFrameBody(b: Beat, ctx: FrameContext): string {
 
     case 'verdict': {
       const w = ps.find((p) => p.id === b.highlightPhoneId);
-      return `<div class="vf vf-purple"><div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col ${p.id === w?.id ? 'win' : 'dim'}">${phoneArt()}<div class="vf-caps sm">${esc(shortName(p, ps))}</div></div>`).join('')}</div>
+      return `<div class="vf vf-purple"><div class="vf-cols vf-grow" ${cols}>${ps.map((p) => `<div class="vf-col ${p.id === w?.id ? 'win' : 'dim'}">${phoneArt(p, ctx)}<div class="vf-caps sm">${esc(shortName(p, ps))}</div></div>`).join('')}</div>
         <div class="vf-verdict">${w ? `${ctx.text.winner}: <b>${esc(w.brand)} ${esc(w.model)}</b>` : ctx.text.tooClose}</div></div>`;
     }
 

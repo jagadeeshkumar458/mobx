@@ -95,6 +95,15 @@ mAh, launch date or wired watts; the "optical-quality 2x" telephoto isn't
 recorded); Pixel 11 Pro Fold from store.google.com/gb (no launch date, CPU/GPU,
 fingerprint type or wired watts).
 
+Backfilled 2026-11-11 from GSMArena (GLOBAL), for Android-vs-iPhone comparisons:
+iPhone 14 / 15 / 16 / 17 series, 16e, Air and SE (2022) (announcement date,
+chip process node, battery mAh, launch OS, sensor size, refresh rate, speakers,
+headphone jack), plus Galaxy S26 and Pixel 10 gaps. Still missing for iPhones:
+RAM, update years (Apple publishes neither), wired watts (GSMArena gives none),
+17 Pro / Pro Max battery (two market versions) and everything for 18 Pro /
+18 Pro Max / Duo (GSMArena page wouldn't load or is still marked rumoured).
+"Bluetooth 6" was normalised to "Bluetooth 6.0".
+
 Thin records still to backfill: none.
 
 ## Batches
