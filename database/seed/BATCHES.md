@@ -109,7 +109,7 @@ Thin records still to backfill: none.
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
-| 8 | realme GT, numbered, Narzo series | ~30 | Pending |
+| 8 | realme GT, numbered, Narzo series | ~50 | Partial 2026-11-11 (24 added: Nov 2024 – Aug 2026; missing GT 7 Dream Edition, 13 / 12 / 11 / 10 / 9 series, Narzo 70 / 60 / 50 series, GT 6 / 6T, GT Neo 3 / 3T, GT 2 / 2 Pro) |
 | 9 | vivo X, V, T series | ~30 | Pending |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
@@ -126,6 +126,21 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 8 (2026-11-11, first part): added realme 16x, Narzo 100x, 16T, Narzo
+  100 Lite, 16, Narzo Power, 16 Pro+, 16 Pro, Narzo 90, Narzo 90x, 15x, 15T,
+  15 Pro, 15, Narzo 80 Lite 5G, GT 7, GT 7T, Narzo 80 Pro, Narzo 80x, 14T,
+  14 Pro+, 14 Pro, 14x and GT 7 Pro as complete records (India price, base
+  variant and launch date from Fonearena / TelecomTalk / Digit / MySmartPrice /
+  India TV launch reports; the rest from those plus GSMArena). Still to add:
+  everything realme launched in India before Nov 2024 (see the batch row), and
+  the P-series and C-series, which are not in any batch yet. Gaps: Narzo 90 /
+  90x IP rating (report gives two); 16 Pro+ / 14 Pro / 14 Pro+ dimensions or
+  weight (two builds); 16 and Narzo 80x / 80 Lite launch OS (report
+  contradicts itself); 15x charging watts in the launch extract; Narzo 100x and
+  16 GSMArena pages were still marked preliminary; OS-update counts not
+  recorded as years. 32 substantive disagreements logged in CONFLICTS.md
+  (many Wi-Fi 6 vs Wi-Fi 5 and brightness figures: Indian reports vs GSMArena).
 
 - Batch 7 (2026-11-11): added POCO M8 Power, M8x 5G, X8 Pro, M8 5G, M7 Plus, F7,
   M7 5G, X7 Pro, X7, M7 Pro, M6 Plus, F6, X6 Pro, X6, M6 5G, M6 Pro 5G, F5,

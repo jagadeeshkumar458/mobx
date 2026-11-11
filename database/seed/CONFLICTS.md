@@ -94,3 +94,35 @@ The stored value is kept until someone checks which source is right.
 | poco-x7-pro | gpu | Mali-G720 MC6 (https://www.fonearena.com/blog/443914/poco-x7-pro-price-india-specifications.html) | Mali-G720 MC7 (https://m.gsmarena.com/xiaomi_poco_x7_pro-13582.php) |
 | poco-x8-pro | main_aperture | f/1.59 (https://www.fonearena.com/blog/477697/poco-x8-pro-price-india-specifications.html) | f/1.5 (https://m.gsmarena.com/_poco_x8_pro_5g-14506.php) |
 | poco-x8-pro | wifi_version | Wi-Fi 7 (https://www.fonearena.com/blog/477697/poco-x8-pro-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/_poco_x8_pro_5g-14506.php) |
+| realme-14-pro-plus | gpu | Adreno 720 (https://fonearena.com/blog/444298/realme-14-pro-plus-price-india-specifications.html) | Adreno 810 (https://m.gsmarena.com/realme_14_pro+-13585.php) |
+| realme-14-pro | screen_size_in | 6.7 (https://www.fonearena.com/blog/444296/realme-14-pro-5g-price-india-specifications.html) | 6.77 (https://m.gsmarena.com/realme_14_pro-13586.php) |
+| realme-14-pro | resolution | 1080 x 2412 (https://www.fonearena.com/blog/444296/realme-14-pro-5g-price-india-specifications.html) | 1080 x 2392 (https://m.gsmarena.com/realme_14_pro-13586.php) |
+| realme-14t | peak_brightness_nits | 2000 (https://www.fonearena.com/blog/452298/realme-14t-5g-price-india-specifications.html) | 2100 (https://m.gsmarena.com/realme_14t-13748.php) |
+| realme-14t | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/452298/realme-14t-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/realme_14t-13748.php) |
+| realme-15 | main_sensor_size_inch | 1/1.95" (https://www.fonearena.com/blog/460068/realme-15-pro-5g-price-india-specifications-realme-15-5g.html/amp) | 1/1.56" (https://m.gsmarena.com/realme_15_5g-14018.php) |
+| realme-15t | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/463128/realme-15t-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/realme_15t_5g-14105.php) |
+| realme-15t | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/463128/realme-15t-price-india-specifications.html) | Bluetooth 5.3 (https://m.gsmarena.com/realme_15t_5g-14105.php) |
+| realme-15x | main_sensor_size_inch | 1/1.95" (https://www.fonearena.com/blog/465828/realme-15x-5g-price-india-specifications.html) | 1/2.93" (https://m.gsmarena.com/realme_15x_5g_(india)-14173.php) |
+| realme-16-pro-plus | main_aperture | f/1.8 (https://www.fonearena.com/blog/472553/realme-16-pro-5g-price-india-specifications-realme-16-pro-plus-5g.html/amp) | f/1.9 (https://m.gsmarena.com/realme_16_pro+-ampp-14363.php) |
+| realme-16-pro | resolution | 1280 x 2800 (https://www.fonearena.com/blog/472553/realme-16-pro-5g-price-india-specifications-realme-16-pro-plus-5g.html/amp) | 1272 x 2772 (https://m.gsmarena.com/realme_16_pro_5g-14400.php) |
+| realme-16-pro | main_aperture | f/1.8 (https://www.fonearena.com/blog/472553/realme-16-pro-5g-price-india-specifications-realme-16-pro-plus-5g.html/amp) | f/1.9 (https://m.gsmarena.com/realme_16_pro_5g-14400.php) |
+| realme-16 | resolution | 1080 x 2372 (https://www.fonearena.com/blog/478999/realme-16-5g-price-india-specifications.html) | 1080 x 2392 (https://m.gsmarena.com/realme_16-14419.php) |
+| realme-16 | peak_brightness_nits | 4200 (https://www.fonearena.com/blog/478999/realme-16-5g-price-india-specifications.html) | 4500 (https://m.gsmarena.com/realme_16-14419.php) |
+| realme-16 | main_sensor_size_inch | 1/2.93" (https://www.fonearena.com/blog/478999/realme-16-5g-price-india-specifications.html) | 1/1.95" (https://m.gsmarena.com/realme_16-14419.php) |
+| realme-16 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/478999/realme-16-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/realme_16-14419.php) |
+| realme-16 | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/478999/realme-16-5g-price-india-specifications.html) | Bluetooth 5.3 (https://m.gsmarena.com/realme_16-14419.php) |
+| realme-16x | video_max | 1080p30 (https://www.fonearena.com/blog/489400/realme-16x-5g-price-india-specifications.html) | 1080p60 (https://m.gsmarena.com/realme_16x_5g-14871.php) |
+| realme-gt-7-pro | weight_g | 220.2 (https://www.fonearena.com/blog/440845/realme-gt-7-pro-price-india-specifications.html/amp) | 222.8 (https://m.gsmarena.com/realme_gt7_pro-13470.php) |
+| realme-gt-7-pro | peak_brightness_nits | 6000 (https://www.fonearena.com/blog/440845/realme-gt-7-pro-price-india-specifications.html/amp) | 6500 (https://m.gsmarena.com/realme_gt7_pro-13470.php) |
+| realme-gt-7 | video_max | 4K60 (https://www.fonearena.com/blog/454673/realme-gt-7-price-india-specifications.html) | 8K (https://m.gsmarena.com/realme_gt_7_5g-13863.php) |
+| realme-gt-7 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/454673/realme-gt-7-price-india-specifications.html) | Wi-Fi 7 (https://m.gsmarena.com/realme_gt_7_5g-13863.php) |
+| realme-gt-7t | thickness_mm | 8.88 (https://www.fonearena.com/blog/?p=454678) | 8.3 (https://m.gsmarena.com/realme_gt_7t_5g-13869.php) |
+| realme-gt-7t | weight_g | 205 (https://www.fonearena.com/blog/?p=454678) | 202 (https://m.gsmarena.com/realme_gt_7t_5g-13869.php) |
+| realme-gt-7t | resolution | 1264 x 2780 (https://www.fonearena.com/blog/?p=454678) | 1280 x 2800 (https://m.gsmarena.com/realme_gt_7t_5g-13869.php) |
+| realme-gt-7t | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/?p=454678) | Bluetooth 6.0 (https://m.gsmarena.com/realme_gt_7t_5g-13869.php) |
+| realme-narzo-80x | peak_brightness_nits | 680 (https://www.fonearena.com/blog/450728/realme-narzo-80x-5g-price-india-specifications.html) | 950 (https://m.gsmarena.com/realme_narzo_80x_5g-13771.php) |
+| realme-narzo-90 | peak_brightness_nits | 1400 (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | 4000 (https://m.gsmarena.com/realme_narzo_90_5g-14345.php) |
+| realme-narzo-90 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | Wi-Fi 5 (https://m.gsmarena.com/realme_narzo_90_5g-14345.php) |
+| realme-narzo-90 | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | Bluetooth 5.3 (https://m.gsmarena.com/realme_narzo_90_5g-14345.php) |
+| realme-narzo-90x | main_sensor_size_inch | 1/1.95" (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | 1/2.96" (https://m.gsmarena.com/realme_narzo_90x_5g-14346.php) |
+| realme-narzo-90x | stereo_speakers | False (https://www.fonearena.com/blog/471195/realme-narzo-90x-narzo-90-price-india-specifications.html/amp) | True (https://m.gsmarena.com/realme_narzo_90x_5g-14346.php) |
