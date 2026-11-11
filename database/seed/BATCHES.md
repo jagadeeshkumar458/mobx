@@ -108,7 +108,7 @@ Thin records still to backfill: none.
 | 4 | Google Pixel 6a – 11 series | 20 | ✅ Done 2026-11-02 (thin records, see gaps) |
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
-| 7 | POCO F, X, M series | ~25 | Pending |
+| 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
 | 8 | realme GT, numbered, Narzo series | ~30 | Pending |
 | 9 | vivo X, V, T series | ~30 | Pending |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
@@ -126,6 +126,27 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 7 (2026-11-11): added POCO M8 Power, M8x 5G, X8 Pro, M8 5G, M7 Plus, F7,
+  M7 5G, X7 Pro, X7, M7 Pro, M6 Plus, F6, X6 Pro, X6, M6 5G, M6 Pro 5G, F5,
+  X5 Pro, M5, F4, M4 5G, X4 Pro and M4 Pro as complete records: India price,
+  base variant, colours and launch date from Fonearena India launch posts (F4,
+  F5 and M8 Power launch dates from TelecomTalk, Business Today and The Tech
+  Outlook; M6 5G date marked not verified), the rest from those posts plus
+  GSMArena GLOBAL pages. IP52 added to the rank list after IP53 (registry
+  2026.11.11). POCO M5s left out (no India launch found); F8 Pro not yet
+  launched in India (event 26 Nov 2026), add it next time. Gaps: M8 Power and
+  M8x 5G have no GSMArena data (pages wouldn't load), so they lack video, Wi-Fi,
+  fingerprint type and (M8 Power) IP rating (the report says both IP64 and
+  IP65); Fonearena's "Wi-Fi 6 802.11 ac"-style lines were treated as
+  self-contradictory and left out; X6 Pro / X7 / X7 Pro weight, thickness or
+  back material left out where two builds differ; F6 screen size/type left out
+  of the launch extract (report says 6.67" and 6.7"); X7 Pro main sensor left
+  out (report misspells it); OS-update counts not recorded as years; NFC left
+  out where GSMArena says market-dependent. 23 substantive disagreements
+  (weight, Bluetooth, Wi-Fi, IP, resolution, GPU, aperture) logged in
+  CONFLICTS.md; rounding, "OLED vs AMOLED", USB detail and CPU-detail
+  differences were not.
 
 - Batch 6 finished 2026-11-10: added Redmi Note 13 Pro+ / 13 Pro / 13 5G, Note 12
   (4G), Xiaomi 13 Pro, Redmi Note 12 Pro+ / 12 Pro / 12 5G, Note 11 SE, Xiaomi 12

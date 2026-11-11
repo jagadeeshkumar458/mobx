@@ -71,3 +71,26 @@ The stored value is kept until someone checks which source is right.
 | redmi-note-13-5g | weight_g | 173.5 (https://www.fonearena.com/blog/413335/redmi-note-13-5g-price-india-specifications.html) | 174.5 (https://m.gsmarena.com/xiaomi_redmi_note_13-12776.php) |
 | redmi-note-13-pro-plus | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/413333/redmi-note-13-pro-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/xiaomi_redmi_note_13_pro+-12572.php) |
 | redmi-note-13-pro | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/413333/redmi-note-13-pro-price-india-specifications.html) | Bluetooth 5.2 (https://m.gsmarena.com/_redmi_note_13_pro-12581.php) |
+| poco-f4 | bluetooth_version | Bluetooth 5.1 (https://www.fonearena.com/blog/367271/poco-f4-5g-price-india-specifications.html) | Bluetooth 5.2 (https://m.gsmarena.com/xiaomi_poco_f4-11627.php) |
+| poco-f6 | usb | USB Type-C 3.2 Gen 1 (https://www.fonearena.com/blog/424498/poco-f6-5g-price-india-specifications.html) | USB Type-C 2.0, OTG (https://m.gsmarena.com/xiaomi_poco_f6-13000.php) |
+| poco-f7 | thickness_mm | 7.98 (https://www.fonearena.com/blog/457013/poco-f7-price-india-specifications.html) | 8.2 (https://m.gsmarena.com/xiaomi_poco_f7_5g-13951.php) |
+| poco-f7 | weight_g | 222 (https://www.fonearena.com/blog/457013/poco-f7-price-india-specifications.html) | 215.7 (https://m.gsmarena.com/xiaomi_poco_f7_5g-13951.php) |
+| poco-f7 | ip_rating | IP69 (https://www.fonearena.com/blog/457013/poco-f7-price-india-specifications.html) | IP68 (https://m.gsmarena.com/xiaomi_poco_f7_5g-13951.php) |
+| poco-f7 | resolution | 1280 x 2800 (https://www.fonearena.com/blog/457013/poco-f7-price-india-specifications.html) | 1280 x 2772 (https://m.gsmarena.com/xiaomi_poco_f7_5g-13951.php) |
+| poco-f7 | bluetooth_version | Bluetooth 5.4 (https://www.fonearena.com/blog/457013/poco-f7-price-india-specifications.html) | Bluetooth 6.0 (https://m.gsmarena.com/xiaomi_poco_f7_5g-13951.php) |
+| poco-m4-5g | resolution | 1080 x 2408 (https://www.fonearena.com/blog/362777/poco-m4-5g-price-india-specifications.html) | 1080 x 2400 (https://m.gsmarena.com/xiaomi_poco_m4_5g_(india)-11427.php) |
+| poco-m5 | resolution | 1080 x 2408 (https://www.fonearena.com/blog/373561/poco-m5-price-india-specifications.html) | 1080 x 2400 (https://m.gsmarena.com/xiaomi_poco_m5_(india)-11869.php) |
+| poco-m6-plus | bluetooth_version | Bluetooth 5.1 (https://www.fonearena.com/blog/431009/poco-m6-plus-5g-price-india-specifications.html) | Bluetooth 5.0 (https://m.gsmarena.com/xiaomi_poco_m6_plus-13119.php) |
+| poco-m6-pro-5g | bluetooth_version | Bluetooth 5.1 (https://www.fonearena.com/blog/401374/poco-m6-pro-5g-price-india-specifications.html) | Bluetooth 5.3 (https://m.gsmarena.com/_poco_m6_pro-12452.php) |
+| poco-m7-5g | resolution | 720 x 1600 (https://www.fonearena.com/blog/447713/poco-m7-5g-price-india-specifications.html) | 720 x 1640 (https://m.gsmarena.com/xiaomi_poco_m7_5g-13678.php) |
+| poco-m7-plus | os_at_launch | Android 15 (HyperOS) (https://www.fonearena.com/blog/461618/poco-m7-plus-price-india-specifications.html) | Android 15 (HyperOS 2) (https://m.gsmarena.com/xiaomi_poco_m7_plus_5g-14046.php) |
+| poco-m7-pro | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/442391/poco-m7-pro-price-india-specifications.html) | Bluetooth 5.0 (https://m.gsmarena.com/xiaomi_poco_m7_pro_5g-13570.php) |
+| poco-m8-5g | weight_g | 211 (https://www.fonearena.com/blog/473091/poco-m8-5g-price-india-specifications.html) | 178 (https://m.gsmarena.com/xiaomi_poco_m8_5g-14391.php) |
+| poco-m8-5g | front_video_max | 1080p30 (https://www.fonearena.com/blog/473091/poco-m8-5g-price-india-specifications.html) | 1080p60 (https://m.gsmarena.com/xiaomi_poco_m8_5g-14391.php) |
+| poco-m8-5g | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/473091/poco-m8-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/xiaomi_poco_m8_5g-14391.php) |
+| poco-x5-pro | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/384597/poco-x5-pro-5g-price-india-specifications.html) | Bluetooth 5.1 (https://m.gsmarena.com/xiaomi_poco_x5_pro-12094.php) |
+| poco-x6 | weight_g | 187 (https://www.fonearena.com/blog/414055/poco-x6-price-india-specifications.html) | 181 (https://m.gsmarena.com/xiaomi_poco_x6-12723.php) |
+| poco-x6 | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/414055/poco-x6-price-india-specifications.html) | Bluetooth 5.2 (https://m.gsmarena.com/xiaomi_poco_x6-12723.php) |
+| poco-x7-pro | gpu | Mali-G720 MC6 (https://www.fonearena.com/blog/443914/poco-x7-pro-price-india-specifications.html) | Mali-G720 MC7 (https://m.gsmarena.com/xiaomi_poco_x7_pro-13582.php) |
+| poco-x8-pro | main_aperture | f/1.59 (https://www.fonearena.com/blog/477697/poco-x8-pro-price-india-specifications.html) | f/1.5 (https://m.gsmarena.com/_poco_x8_pro_5g-14506.php) |
+| poco-x8-pro | wifi_version | Wi-Fi 7 (https://www.fonearena.com/blog/477697/poco-x8-pro-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/_poco_x8_pro_5g-14506.php) |
