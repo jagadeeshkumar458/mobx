@@ -118,7 +118,7 @@ Thin records still to backfill: none.
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
-| 8 | realme GT, numbered, Narzo series | ~50 | Partial 2026-11-11 (24 added: Nov 2024 – Aug 2026; missing GT 7 Dream Edition, 13 / 12 / 11 / 10 / 9 series, Narzo 70 / 60 / 50 series, GT 6 / 6T, GT Neo 3 / 3T, GT 2 / 2 Pro) |
+| 8 | realme GT, numbered, Narzo series | ~50 | Partial 2026-11-12 (47 added: Jun 2023 – Aug 2026; missing 10 / 10 Pro / 10 Pro+, 9 series, Narzo 50 series, GT Neo 3 / 3T, GT 2 / 2 Pro) |
 | 9 | vivo X, V, T series | ~30 | Pending |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
@@ -135,6 +135,29 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 8 (2026-11-12, second part): added realme GT 7 Dream Edition, Narzo 70
+  Turbo, 13+, 13, 13 Pro+, 13 Pro, GT 6, GT 6T, Narzo 70, Narzo 70x, 12x,
+  Narzo 70 Pro, 12+, 12, 12 Pro+, 12 Pro, Narzo 60x, 11, 11x, Narzo 60 Pro,
+  Narzo 60, 11 Pro+ and 11 Pro as complete records (India price, base variant,
+  colours and launch date from Fonearena India launch posts; the rest from those
+  plus GSMArena GLOBAL pages; Narzo 70 Pro launch date is GSMArena's announcement
+  date because the post gives no year). GT 7 Dream Edition specs other than
+  price / variant / colour are the GT 7 launch-post spec list, which TelecomTalk
+  says the Dream Edition shares, and the GT 7 GSMArena page (it lists the 16/512
+  Aston Martin variant). Gaps: dimensions / weight left out for 13 Pro+, 13 Pro,
+  11 Pro+, 11 Pro, Narzo 60 and Narzo 60 Pro (glass vs leather builds differ);
+  GT 6 / GT 6T charging and Wi-Fi left out of the launch extract (post says 120W
+  and 100W, "Wi-Fi 5 802.11 ax"; GSMArena's 120W / Wi-Fi 6 used); 12 Pro front
+  camera and optical zoom not recorded (post says 16 and 32 MP, 2x and 4x);
+  realme 12 / 13 launch OS from GSMArena (posts say "One UI 5.0" too); realme 13
+  best video is 1440p (not in the rank list); in-display fingerprint type from
+  GSMArena where posts don't say optical; GT 6T storage type is the 128GB
+  variant's UFS 3.1; 2023 models have no IP rating stated; OS-update counts not
+  recorded as years; NFC left out where GSMArena says market dependent.
+  10 substantive disagreements logged in CONFLICTS.md (brightness, Wi-Fi,
+  Bluetooth, weight, aperture, sensor size, GT 7 DE video); rounding, USB detail,
+  OLED vs AMOLED and 6.7" vs 6.67" were not.
 
 - Batch 8 (2026-11-11, first part): added realme 16x, Narzo 100x, 16T, Narzo
   100 Lite, 16, Narzo Power, 16 Pro+, 16 Pro, Narzo 90, Narzo 90x, 15x, 15T,

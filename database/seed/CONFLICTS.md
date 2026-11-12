@@ -132,3 +132,13 @@ The stored value is kept until someone checks which source is right.
 | apple-iphone-se-2022 | battery_mah | 2821 (https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/) | 2018 (https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php) |
 | apple-iphone-se-2022 | weight_g | 148 (https://www.91mobiles.com/hub/iphone-se-3-5g-price-in-india-43900-specifications-launch/) | 144 (https://m.gsmarena.com/apple_iphone_se_(2022)-ampp-11410.php) |
 | google-pixel-10 | wired_charging_w | 29 (https://telecomtalk.info/google-pixel-10-series-arrives-in-india/998816/) | 30 (https://m.gsmarena.com/google_pixel_10-ampp-13979.php) |
+| realme-12 | peak_brightness_nits | 680 (https://www.fonearena.com/blog/418578/realme-12-5g-price-india-specifications.html) | 950 (https://m.gsmarena.com/realme_12-ampp-12861.php) |
+| realme-12-plus | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/418528/realme-12-plus-5g-price-india-specifications.html) | Bluetooth 5.2 (https://m.gsmarena.com/realme_12+-12821.php) |
+| realme-13-plus | main_aperture | f/1.88 (https://www.fonearena.com/blog/432393/realme-13-plus-5g-price-india-specifications.html) | f/1.8 (https://m.gsmarena.com/realme_13+-13255.php) |
+| realme-13-pro | main_sensor_size_inch | 1/2" (https://www.fonearena.com/blog/430305/realme-13-pro-price-india-specifications-realme-13-pro-plus.html) | 1/1.95" (https://www.gsmarena.com/realme_13_pro-13240.php) |
+| realme-gt-7-dream-edition | video_max | 4K60 (https://www.fonearena.com/blog/454673/realme-gt-7-price-india-specifications.html) | 8K (https://m.gsmarena.com/realme_gt_7_5g-13863.php) |
+| realme-gt-7-dream-edition | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/454673/realme-gt-7-price-india-specifications.html) | Wi-Fi 7 (https://m.gsmarena.com/realme_gt_7_5g-13863.php) |
+| realme-narzo-70 | peak_brightness_nits | 2000 (https://www.fonearena.com/blog/422436/realme-narzo-70x-5g-narzo-70-5g-price-india-specifications.html) | 1200 (https://m.gsmarena.com/realme_narzo_70-12955.php) |
+| realme-narzo-70 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/422436/realme-narzo-70x-5g-narzo-70-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/realme_narzo_70-12955.php) |
+| realme-narzo-70-pro | weight_g | 190 (https://www.fonearena.com/blog/?p=419542) | 195 (https://m.gsmarena.com/realme_narzo_70_pro-12878.php) |
+| realme-narzo-70x | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/422436/realme-narzo-70x-5g-narzo-70-5g-price-india-specifications.html) | Bluetooth 5.3 (https://m.gsmarena.com/realme_narzo_70x-12954.php) |
