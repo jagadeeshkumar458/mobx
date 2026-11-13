@@ -118,7 +118,7 @@ Thin records still to backfill: none.
 | 5 | OnePlus numbered, R, Nord series | 29 | ✅ Done 2026-11-09 (N6, N6x added) |
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
-| 8 | realme GT, numbered, Narzo series | ~50 | Partial 2026-11-12 (47 added: Jun 2023 – Aug 2026; missing 10 / 10 Pro / 10 Pro+, 9 series, Narzo 50 series, GT Neo 3 / 3T, GT 2 / 2 Pro) |
+| 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
 | 9 | vivo X, V, T series | ~30 | Pending |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
@@ -135,6 +135,27 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 8 finished 2026-11-13: added realme 10, 10 Pro+, 10 Pro, GT Neo 3T,
+  Narzo 50i Prime, 9i 5G, Narzo 50 5G, Narzo 50 Pro 5G, GT Neo 3 (80W base),
+  Narzo 50A Prime, GT 2, GT 2 Pro, 9, 9 5G, 9 5G Speed Edition, Narzo 50,
+  9 Pro+, 9 Pro and 9i as complete records (India price, base variant and
+  colours from Fonearena India launch posts, GT 2 Pro from Digit; the rest from
+  those plus GSMArena GLOBAL pages; realme 9 5G uses GSMArena's India-model
+  page). Where the post gave no year, launch date is the date of a dated India
+  launch report (India TV, Business Standard, Business Today, TelecomTalk).
+  Gaps: no IP rating stated for any of them; GT 2 / GT 2 Pro weight left out
+  (two builds); 10 Pro+ chipset / CPU from the launch post only (GSMArena lists
+  two chip versions) and its unlabelled 800-nit figure left out; GT Neo 3 GPU
+  from GSMArena (Fonearena says Mali-G510, likely a typo); realme 9 thickness
+  left out of the launch extract (post says 7.99 and 7.9 mm); Narzo 50 / 9i
+  storage are UFS 2.1 (not in the rank list); Narzo 50i Prime has Wi-Fi 4 and
+  microUSB (not recorded), 720p selfie video not recorded; 10 launch post says
+  both AMOLED and Super AMOLED, 10 Pro both 6.7" and 6.72"; GSMArena "typical"
+  brightness and market-dependent NFC not recorded. 13 substantive
+  disagreements logged in CONFLICTS.md (Wi-Fi, Bluetooth, resolution, 9 Pro+
+  brightness, launch skin); LCD vs IPS LCD, aperture rounding, USB detail,
+  OS-skin omissions and 0.05 mm rounding were not.
 
 - Batch 8 (2026-11-12, second part): added realme GT 7 Dream Edition, Narzo 70
   Turbo, 13+, 13, 13 Pro+, 13 Pro, GT 6, GT 6T, Narzo 70, Narzo 70x, 12x,
