@@ -119,7 +119,7 @@ Thin records still to backfill: none.
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
 | 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
-| 9 | vivo X, V, T series | ~30 | Pending |
+| 9 | vivo X, V, T series | ~60 | Partial 2026-11-14 (22 added: Feb 2025 – Sep 2026; 2021–2024 models still to add) |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
 | 12 | Motorola Edge, G series | ~30 | Pending |
@@ -135,6 +135,31 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 9 (2026-11-14, first part): added vivo T5, T5 Lite (the India "T5 Lite
+  44W 5G"), X300 Ultra, X300 FE, T5 Pro, V70 FE, T5x, V70, V70 Elite, X300, V60e,
+  T4 Pro, T4R, V60, X200 FE, X Fold5, T4 Lite, T4 Ultra, T4, V50e, T4x and V50 as
+  complete records (India price, base variant, colours and launch date from
+  Fonearena India launch posts, T5x from Beebom; the rest from those plus GSMArena
+  GLOBAL pages). The X300 launched in India on 2 Dec 2025 (13 Oct 2025 is the
+  global announcement). Still to add: X200 Pro / X200, X Fold3 Pro, X100 Pro /
+  X100, X90 Pro / X90, X80 Pro / X80, V40 Pro / V40 / V40e, V30 Pro / V30, V29 Pro /
+  V29 / V29e, V27 Pro / V27, V25 Pro / V25, V23 Pro / V23 / V23e, T3 Ultra / Pro /
+  T3 / T3x / T3 Lite, T2 Pro / T2 / T2x, T1 Pro / T1 / T1x / T1 44W; X500 series
+  is due in India late Nov 2026. Gaps: T5, T5 Lite and T5 Pro have no GSMArena
+  data (pages blocked or missing), so they lack CPU, (T5) GPU and some
+  connectivity; X200 FE launch date is GSMArena's announcement date (post shows
+  none); Fonearena's "Wi-Fi 6 802.11 be/ac" lines were treated as contradictory
+  and left out; "4K" video without a frame rate not recorded; dimensions /
+  weight left out where colours are built differently (V50, V50e, V60, V70 Elite,
+  T4, T4 Ultra, X300 Ultra); X300 Ultra wired watts (post says 90W and 100W);
+  T4 Ultra screen size / brightness / resolution (post contradicts itself);
+  X Fold5 IP rating (IPX8/IPX9/IP5X not in the rank list); X200 FE / X300 /
+  X300 Ultra battery on GSMArena is market-dependent (India figure from the
+  launch post); OS-update counts not recorded as years. 14 substantive
+  disagreements logged in CONFLICTS.md (sensor size, GPU, glass, brightness,
+  zoom, selfie MP, Wi-Fi, Bluetooth, video, storage type); rounding, USB detail,
+  GSMArena's global colours and announcement dates were not.
 
 - Batch 8 finished 2026-11-13: added realme 10, 10 Pro+, 10 Pro, GT Neo 3T,
   Narzo 50i Prime, 9i 5G, Narzo 50 5G, Narzo 50 Pro 5G, GT Neo 3 (80W base),

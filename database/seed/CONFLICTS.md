@@ -155,3 +155,17 @@ The stored value is kept until someone checks which source is right.
 | realme-narzo-50-5g | bluetooth_version | Bluetooth 5.1 (https://www.fonearena.com/blog/364329/realme-narzo-50-5g-price-india-specifications.html) | Bluetooth 5.3 (https://m.gsmarena.com/realme_narzo_50_5g-11518.php) |
 | realme-narzo-50a-prime | os_at_launch | Android 11 (realme UI R Edition) (https://www.fonearena.com/blog/362177/realme-narzo-50a-prime-price-india-specifications.html) | Android 11 (realme UI 2.0) (https://m.gsmarena.com/realme_narzo_50a_prime-11435.php) |
 | realme-narzo-50i-prime | os_at_launch | Android 11 (realme UI R Edition) (https://www.fonearena.com/blog/374180/realme-narzo-50i-prime-price-india-specifications.html) | Android 11 (realme UI Go) (https://m.gsmarena.com/realme_narzo_50i_prime-11630.php) |
+| vivo-t4-pro | main_sensor_size_inch | 1/1.92" (https://www.fonearena.com/blog/462527/vivo-t4-pro-price-india-specifications.html) | 1/1.95" (https://www.gsmarena.com/vivo_t4_pro_5g-14095.php) |
+| vivo-t4 | gpu | Adreno 720 (https://www.fonearena.com/blog/451901/vivo-t4-5g-price-india-specifications.html) | Adreno 810 (https://m.gsmarena.com/vivo_t4_5g-13781.php) |
+| vivo-t4r | screen_protection | Schott Xensation α (https://www.fonearena.com/blog/460632/vivo-t4r-5g-price-india-specifications.html) | Diamond Shield Glass (https://www.gsmarena.com/vivo_t4r_5g-14035.php) |
+| vivo-t4x | thickness_mm | 8.19 (https://www.fonearena.com/blog/?p=448066) | 8.1 (https://m.gsmarena.com/vivo_t4x-13707.php) |
+| vivo-v50e | peak_brightness_nits | 4500 (https://www.fonearena.com/blog/450773/vivo-v50e-price-india-specifications.html) | 1800 (https://m.gsmarena.com/vivo_v50e_5g-13768.php) |
+| vivo-v60 | screen_protection | Diamond Shield Glass (https://www.fonearena.com/blog/461466/vivo-v60-price-india-specifications.html) | Schott Xensation Core (https://m.gsmarena.com/vivo_v60_5g-14021.php) |
+| vivo-v60e | main_sensor_size_inch | 1/1.4" (https://www.fonearena.com/blog/466042/vivo-v60e-price-india-specifications.html) | 1/1.56" (https://m.gsmarena.com/vivo_v60e_5g-14194.php) |
+| vivo-v70-elite | optical_zoom_x | 3 (https://www.fonearena.com/blog/475816/vivo-v70-price-india-specifications-vivo-v70.html) | 3.7 (https://m.gsmarena.com/vivo_v70_elite_5g-14446.php) |
+| vivo-v70-fe | main_sensor_size_inch | 1/1.4" (https://www.fonearena.com/blog/478985/vivo-v70-fe-price-india-specifications.html) | 1/1.56" (https://www.gsmarena.com/vivo_v70_fe_5g-14504.php) |
+| vivo-v70-fe | front_camera_mp | 50 (https://www.fonearena.com/blog/478985/vivo-v70-fe-price-india-specifications.html) | 32 (https://www.gsmarena.com/vivo_v70_fe_5g-14504.php) |
+| vivo-x-fold5 | storage_type | UFS 4.0 (https://www.fonearena.com/blog/458976/vivo-x-fold-5-price-india-specifications.html) | UFS 4.1 (https://m.gsmarena.com/vivo_x_fold5_5g-13858.php) |
+| vivo-x-fold5 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/458976/vivo-x-fold-5-price-india-specifications.html) | Wi-Fi 7 (https://m.gsmarena.com/vivo_x_fold5_5g-13858.php) |
+| vivo-x300-ultra | video_max | 4K120 (https://www.fonearena.com/blog/481855/vivo-x300-ultra-price-india-specifications.html) | 8K (https://m.gsmarena.com/vivo_x300_ultra-ampp-14388.php) |
+| vivo-x300 | bluetooth_version | Bluetooth 6.0 (https://www.fonearena.com/blog/470055/vivo-x300-pro-price-india-specifications-vivo-x300.html) | Bluetooth 5.4 (https://m.gsmarena.com/_x300_5g-14224.php) |
