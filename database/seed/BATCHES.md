@@ -119,7 +119,7 @@ Thin records still to backfill: none.
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
 | 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
-| 9 | vivo X, V, T series | ~60 | Partial 2026-11-14 (22 added: Feb 2025 – Sep 2026; 2021–2024 models still to add) |
+| 9 | vivo X, V, T series | 58 | Partial 2026-11-15 (36 added 2026-11-15: Nov 2021 – Dec 2024; V30e still to add) |
 | 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
 | 12 | Motorola Edge, G series | ~30 | Pending |
@@ -135,6 +135,31 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 9 (2026-11-15, second part): added vivo X200 Pro / X200, V40e, T3 Ultra,
+  T3 Pro, V40 Pro / V40, T3 Lite, X Fold3 Pro, T3x, T3, V30 Pro / V30, X100 Pro /
+  X100, V29 Pro / V29, T2 Pro, V29e, X90 Pro / X90, T2 / T2x, V27 Pro / V27,
+  V25 Pro / V25, T1x, X80 Pro / X80, T1 Pro, T1 44W, T1 5G, V23e, V23 Pro / V23 as
+  complete records (India price, base variant, colours and launch date from
+  Fonearena India launch posts; the rest from those plus GSMArena GLOBAL pages,
+  India-model pages for T2, T2x and T1x). Where a post shows no year, the date
+  comes from post context, a linked dated report or vivo's newsroom; V25 Pro's
+  date is marked not verified. Still to add: V30e (India May 2024). Gaps: T1 44W
+  storage left out (post says 64GB in the spec list and 128GB in the price line);
+  T2 process node left out of the launch values (post says 8 nm for the
+  Snapdragon 695; GSMArena's 6 nm kept); Fonearena "Wi-Fi 6 802.11ac" /
+  "Wi-Fi 6 (802.11be)" lines left out as contradictory; "in-display" fingerprint
+  readers take optical from GSMArena; GSMArena "Loudspeaker: Yes" recorded as no
+  stereo speakers; dimensions / weight left out where colours or builds differ
+  (X200, X200 Pro, T3 Pro, T3 Lite, X90, X80 Pro, X80, V27 Pro, V23e, V23, T3);
+  X80 Pro chip / GPU from the launch post only, no CPU (GSMArena lists Snapdragon
+  and Dimensity builds); X Fold3 Pro IPX8, T3 Lite eMMC 5.1 and V23e UFS 2.1 not
+  in the rank lists; X80 / X90 "2x portrait" lenses recorded as telephoto only
+  from GSMArena; V27 Pro NFC is GSMArena's (a page comment disputes it);
+  update-upgrade counts not recorded as years. 24 substantive disagreements
+  logged in CONFLICTS.md (Wi-Fi, Bluetooth, video, storage type, USB, IP,
+  brightness, sensor size); aperture and dimension rounding, GPU core-count
+  suffixes and OLED vs AMOLED were not.
 
 - Batch 9 (2026-11-14, first part): added vivo T5, T5 Lite (the India "T5 Lite
   44W 5G"), X300 Ultra, X300 FE, T5 Pro, V70 FE, T5x, V70, V70 Elite, X300, V60e,

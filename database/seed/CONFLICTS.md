@@ -169,3 +169,27 @@ The stored value is kept until someone checks which source is right.
 | vivo-x-fold5 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/458976/vivo-x-fold-5-price-india-specifications.html) | Wi-Fi 7 (https://m.gsmarena.com/vivo_x_fold5_5g-13858.php) |
 | vivo-x300-ultra | video_max | 4K120 (https://www.fonearena.com/blog/481855/vivo-x300-ultra-price-india-specifications.html) | 8K (https://m.gsmarena.com/vivo_x300_ultra-ampp-14388.php) |
 | vivo-x300 | bluetooth_version | Bluetooth 6.0 (https://www.fonearena.com/blog/470055/vivo-x300-pro-price-india-specifications-vivo-x300.html) | Bluetooth 5.4 (https://m.gsmarena.com/_x300_5g-14224.php) |
+| vivo-t2 | video_max | 4K30 (https://www.fonearena.com/blog/390617/vivo-t2x-5g-t2-5g-price-india-specifications.html) | 1080p30 (https://m.gsmarena.com/vivo_t2_(india)-12225.php) |
+| vivo-t2 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/390617/vivo-t2x-5g-t2-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_t2_(india)-12225.php) |
+| vivo-t2 | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/390617/vivo-t2x-5g-t2-5g-price-india-specifications.html) | Bluetooth 5.1 (https://m.gsmarena.com/vivo_t2_(india)-12225.php) |
+| vivo-t3 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/419802/vivo-t3-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_t3-12887.php) |
+| vivo-t3x | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/421881/vivo-t3x-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_t3x-12938.php) |
+| vivo-v25-pro | video_max | 4K60 (https://www.fonearena.com/blog/372123/vivo-v25-pro-price-india-specifications.html) | 4K30 (https://m.gsmarena.com/vivo_v25_pro-11771.php) |
+| vivo-v25-pro | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/372123/vivo-v25-pro-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/vivo_v25_pro-11771.php) |
+| vivo-v25 | resolution | 1080 x 2400 (https://www.fonearena.com/blog/374364/vivo-v25-5g-price-india-specifications.html) | 1080 x 2404 (https://m.gsmarena.com/vivo_v25-11772.php) |
+| vivo-v25 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/374364/vivo-v25-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_v25-11772.php) |
+| vivo-v27 | weight_g | 182 (https://www.fonearena.com/blog/386827/vivo-v27-pro-price-india-specifications-vivo-v27.html) | 180 (https://m.gsmarena.com/vivo_v27-12119.php) |
+| vivo-v29-pro | video_max | 4K60 (https://fonearena.com/blog/?p=406853) | 4K30 (https://m.gsmarena.com/vivo_v29_pro-ampp-12608.php) |
+| vivo-v29-pro | front_video_max | 4K60 (https://fonearena.com/blog/?p=406853) | 1080p30 (https://m.gsmarena.com/vivo_v29_pro-ampp-12608.php) |
+| vivo-v29 | storage_type | UFS 3.1 (https://fonearena.com/blog/?p=406853) | UFS 2.2 (https://m.gsmarena.com/_v29-12461.php) |
+| vivo-v29 | video_max | 4K60 (https://fonearena.com/blog/?p=406853) | 4K30 (https://m.gsmarena.com/_v29-12461.php) |
+| vivo-v29 | front_video_max | 4K60 (https://fonearena.com/blog/?p=406853) | 1080p30 (https://m.gsmarena.com/_v29-12461.php) |
+| vivo-v29 | bluetooth_version | Bluetooth 5.3 (https://fonearena.com/blog/?p=406853) | Bluetooth 5.2 (https://m.gsmarena.com/_v29-12461.php) |
+| vivo-v29e | main_aperture | f/1.79 (https://www.fonearena.com/blog/403401/vivo-v29e-price-india-specifications.html) | f/1.9 (https://m.gsmarena.com/vivo_v29e-12483.php) |
+| vivo-v29e | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/403401/vivo-v29e-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_v29e-12483.php) |
+| vivo-v30-pro | main_sensor_size_inch | 1/1.55" (https://www.fonearena.com/blog/418653/vivo-v30-pro-price-india-specifications-vivo-v30.html) | 1/1.49" (https://m.gsmarena.com/vivo_v30_pro-12829.php) |
+| vivo-v40 | ip_rating | IP68 (https://www.fonearena.com/blog/431345/vivo-v40-price-india-specifications-vivo-v40-pro.html) | IP69 (https://m.gsmarena.com/vivo_v40-13121.php) |
+| vivo-x-fold3-pro | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/425692/vivo-x-fold-3-pro-price-india-specifications.html) | Wi-Fi 7 (https://m.gsmarena.com/vivo_x_fold3_pro-12899.php) |
+| vivo-x80 | peak_brightness_nits | 1000 (https://www.fonearena.com/blog/364293/vivo-x80-pro-price-india-specifications-vivo-x80.html) | 1500 (https://m.gsmarena.com/vivo_x80-11492.php) |
+| vivo-x80 | usb | USB Type-C 3.2 (https://www.fonearena.com/blog/364293/vivo-x80-pro-price-india-specifications-vivo-x80.html) | USB Type-C 2.0 (https://m.gsmarena.com/vivo_x80-11492.php) |
+| vivo-x90 | usb | USB Type-C 3.2 (https://www.fonearena.com/blog/391800/vivo-x90-x90-pro-price-india-specifications.html) | USB Type-C 2.0 (https://m.gsmarena.com/vivo_x90-11990.php) |
