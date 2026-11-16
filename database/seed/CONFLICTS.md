@@ -269,3 +269,8 @@ The stored value is kept until someone checks which source is right.
 | tecno-spark-10-pro | resolution | 1080 x 2400 (https://www.fonearena.com/blog/389007/tecno-spark-10-pro-price-india-specifications.html) | 1080 x 2460 (https://m.gsmarena.com/tecno_spark_10_pro-ampp-12156.php) |
 | tecno-spark-8p | wired_charging_w | 18 (https://www.fonearena.com/blog/368505/tecno-spark-8p-price-india-specifications.html) | 10 (https://www.gsmarena.com/tecno_spark_8p-11250.php) |
 | tecno-spark-go-2023 | resolution | 720 x 1612 (https://www.fonearena.com/blog/383630/tecno-spark-go-2023-price-india-specifications.html) | 720 x 1600 (https://www.gsmarena.com/tecno_spark_go_2023-12086.php) |
+| samsung-galaxy-m06 | resolution | HD+ (https://www.digit.in/news/mobile-phones/samsung-galaxy-m06-5g-and-galaxy-m16-5g-launched-in-india-check-price-specs.html) | 720 x 1600 (https://www.gsmarena.com/samsung_galaxy_m06-13681.php) |
+| samsung-galaxy-a35 | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/419159/samsung-galaxy-a35-galaxy-a55-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/samsung_galaxy_a35-12705.php) |
+| samsung-galaxy-a55 | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/419159/samsung-galaxy-a35-galaxy-a55-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/samsung_galaxy_a55-ampp-12824.php) |
+| redmi-13-5g | weight_g | 199 (https://www.fonearena.com/blog/428327/redmi-13-5g-price-india-specifications.html) | 205 (https://m.gsmarena.com/xiaomi_redmi_13_5g-13157.php) |
+| redmi-14c-5g | resolution | 720 x 1600 (https://www.fonearena.com/blog/443270/redmi-14c-5g-price-india-specifications.html) | 720 x 1640 (https://m.gsmarena.com/xiaomi_redmi_14c_5g-13595.php) |

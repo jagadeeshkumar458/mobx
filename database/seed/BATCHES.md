@@ -126,7 +126,7 @@ Thin records still to backfill: none.
 | 13 | Nothing Phone and CMF Phone | 13 | ✅ Done 2026-11-16 (12 added; Phone (4) and CMF Phone 3 not launched in India) |
 | 14 | Infinix Zero, Note, GT, Hot series | 31 | ✅ Done 2026-11-16 (31 added; Hot 40 / 40 Pro / 12 / 20S and Hot 50 Pro not found in India, see gaps) |
 | 15 | Tecno Phantom, Camon, Pova, Spark series | 36 | Partial 2026-11-16 (36 added; Pova 4 / Neo / 6, Phantom X2, Spark 10 / 10C and a few others still to check) |
-| 16 | Samsung Galaxy A and M series, Redmi numbered, budget lines | ~60 | Pending |
+| 16 | Samsung Galaxy A / M / F series, Redmi numbered, budget lines | ~120 | Partial 2026-11-16 (37 added: Galaxy A 2024 – 26, M 2023 – 25, F 2023 – 24, Redmi 12 – 15; older Galaxy A / M and Redmi 10 / 11 / A-series still to add) |
 
 Batch 1 picks (newest top model launched in India as of 2026-11-02):
 Xiaomi 17 Ultra, vivo X300 Pro, OPPO Find X9 Pro, OnePlus 15 (OnePlus 16 not
@@ -135,6 +135,26 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 16 (2026-11-16, first part): added Samsung Galaxy A27, A37, A07, A16, A06
+  5G, A36, A26, A17, A55, A35, A57, A56, M36, M06, M16, M55s, M35, M55, M34, M05, M15,
+  M14, F05, F15, F54, F14 and Redmi 15C 5G, 15 5G, A5, 14C 5G, A4 5G, 13 5G, 13C 5G,
+  A3x, 12, 12 5G, 12C (launch posts, mostly Fonearena; Samsung India newsroom for
+  M14 / F14 / A27; GSMArena where it loaded). Still to add: Galaxy A73 / A53 / A33 /
+  A23 / A13 / A14 / A24 / A34 / A54 / A04 family / A25 / A15 / A05 / A05s, M53 / M33 /
+  M23 / M13 / M04 / M32 5G, F34 / F23 / F13 / F06 / F14 4G, and Redmi 11 Prime, 10
+  Power, 10 (2022), 10A, 10 Prime, 9A Sport, A1 / A2 / A2+, A3, 13R, then the
+  remaining "budget lines" (Galaxy S-series fan editions done earlier). Gaps: no
+  GSMArena data for Galaxy A27, Redmi A4 5G (page preliminary / mismatched), Redmi
+  12 and 12 5G (page blocked); Galaxy A37 / A16 GSMArena pages are preliminary so
+  only non-conflicting fields were taken; launch dates missing where posts show no
+  year (A36, A26, A17, A06 5G, M34, M16, F05, Redmi A3x, 13C 5G); no price for
+  M06 / M16 / M55s / F05 / A3x / 13C in some records (source states none);
+  Galaxy M06 resolution "HD+" from the launch report (GSMArena 720 x 1600);
+  Redmi 14C 5G weight / dimensions left out (two builds); the A06 record is the
+  5G (id samsung-galaxy-a06-5g); Galaxy A25 / A15 launched in India Dec 2023
+  (before the A-series scope window) and are not added. 5 substantive
+  disagreements logged in CONFLICTS.md (Wi-Fi, resolution, weight).
 
 - Batches 14 (finish) and 15 (second part), 2026-11-16: added Infinix Hot 60i 5G,
   GT 10 Pro, Hot 30 5G, Note 30 5G, Zero Ultra, Smart 8 / 8 Plus, Hot 40i, Hot
