@@ -193,3 +193,29 @@ The stored value is kept until someone checks which source is right.
 | vivo-x80 | peak_brightness_nits | 1000 (https://www.fonearena.com/blog/364293/vivo-x80-pro-price-india-specifications-vivo-x80.html) | 1500 (https://m.gsmarena.com/vivo_x80-11492.php) |
 | vivo-x80 | usb | USB Type-C 3.2 (https://www.fonearena.com/blog/364293/vivo-x80-pro-price-india-specifications-vivo-x80.html) | USB Type-C 2.0 (https://m.gsmarena.com/vivo_x80-11492.php) |
 | vivo-x90 | usb | USB Type-C 3.2 (https://www.fonearena.com/blog/391800/vivo-x90-x90-pro-price-india-specifications.html) | USB Type-C 2.0 (https://m.gsmarena.com/vivo_x90-11990.php) |
+| iqoo-15r | main_aperture | f/1.88 (https://www.fonearena.com/blog/476020/iqoo-15r-price-india-specifications.html) | f/1.8 (https://m.gsmarena.com/_iqoo_15r_5g-14483.php) |
+| iqoo-z11x | resolution | 1080 x 2408 (https://www.fonearena.com/blog/477354/iqoo-z11x-5g-price-india-specifications.html) | 1080 x 2344 (https://m.gsmarena.com/vivo_iqoo_z11x_5g-14531.php) |
+| iqoo-z11x | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/477354/iqoo-z11x-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_iqoo_z11x_5g-14531.php) |
+| vivo-v30e | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/422956/vivo-v30e-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/vivo_v30e-12971.php) |
+| iqoo-13 | main_sensor_size_inch | 1/1.49" (https://www.fonearena.com/blog/441327/iqoo-13-price-india-specifications.html) | 1/1.56" (https://m.gsmarena.com/vivo_iqoo_13-13462.php) |
+| iqoo-neo-10 | peak_brightness_nits | 5500 (https://www.fonearena.com/blog/454454/iqoo-neo-10-price-india-specifications.html) | 4400 (https://m.gsmarena.com/vivo_iqoo_neo_10_5g-13904.php) |
+| iqoo-neo-10r | front_video_max | 4K30 (https://www.fonearena.com/blog/448419/iqoo-neo-10r-price-india-specifications.html) | 4K60 (https://m.gsmarena.com/vivo_iqoo_neo_10r-13682.php) |
+| iqoo-z10 | gpu | Adreno 720 (https://www.fonearena.com/blog/451003/iqoo-z10-with-6-77-fhd-120hz-amoled-display-snapdragon-7s-gen-3-7300mah-battery-launched-in-india-starting-at-rs-21999.html) | Adreno 810 (https://m.gsmarena.com/vivo_iqoo_z10-13755.php) |
+| iqoo-z10 | front_video_max | 4K30 (https://www.fonearena.com/blog/451003/iqoo-z10-with-6-77-fhd-120hz-amoled-display-snapdragon-7s-gen-3-7300mah-battery-launched-in-india-starting-at-rs-21999.html) | 1080p30 (https://m.gsmarena.com/vivo_iqoo_z10-13755.php) |
+| iqoo-z10x | stereo_speakers | True (https://www.fonearena.com/blog/451005/iqoo-z10x-5g-price-india-specifications.html) | False (https://m.gsmarena.com/vivo_iqoo_z10x_5g-13773.php) |
+| iqoo-neo-9-pro | gpu | Adreno 730 (https://www.fonearena.com/blog/417230/iqoo-neo9-pro-price-india-specifications.html) | Adreno 740 (https://m.gsmarena.com/vivo_iqoo_neo9_pro-ampp-12819.php) |
+| iqoo-z9x | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/423943/iqoo-z9x-price-india-specifications.html/amp) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_z9x-12958.php) |
+| iqoo-neo-7 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/385594/iqoo-neo-7-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_neo_7-12084.php) |
+| iqoo-neo-7-pro | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/397873/iqoo-neo-7-pro-price-india-specifications.html) | Bluetooth 5.3 (https://www.gsmarena.com/vivo_iqoo_neo_7_pro-12364.php) |
+| iqoo-z7s | video_max | 4K30 (https://www.fonearena.com/blog/393928/iqoo-z7s-5g-price-india-specifications.html) | 1080p30 (https://www.gsmarena.com/vivo_iqoo_z7s-12287.php) |
+| iqoo-z7s | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/393928/iqoo-z7s-5g-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_z7s-12287.php) |
+| iqoo-z7s | bluetooth_version | Bluetooth 5.2 (https://www.fonearena.com/blog/393928/iqoo-z7s-5g-price-india-specifications.html) | Bluetooth 5.1 (https://www.gsmarena.com/vivo_iqoo_z7s-12287.php) |
+| iqoo-9 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/357223/iqoo-9-se-iqoo-9-iqoo-9-pro-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_9-11375.php) |
+| iqoo-9-se | peak_brightness_nits | 1300 (https://www.fonearena.com/blog/357223/iqoo-9-se-iqoo-9-iqoo-9-pro-price-india-specifications.html) | 1200 (https://www.gsmarena.com/vivo_iqoo_9_se-11374.php) |
+| iqoo-9-se | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/357223/iqoo-9-se-iqoo-9-iqoo-9-pro-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_9_se-11374.php) |
+| iqoo-9t | screen_protection | Schott Xensation Alpha (https://www.fonearena.com/blog/370911/iqoo-9t-price-india-specifications.html) | Corning Gorilla Glass 5 (https://www.gsmarena.com/vivo_iqoo_9t-11658.php) |
+| iqoo-9t | main_aperture | f/1.75 (https://www.fonearena.com/blog/370911/iqoo-9t-price-india-specifications.html) | f/1.9 (https://www.gsmarena.com/vivo_iqoo_9t-11658.php) |
+| iqoo-neo-6 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/365524/iqoo-neo-6-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/vivo_iqoo_neo_6-11578.php) |
+| iqoo-z6-44w | resolution | 1080 x 2404 (https://www.fonearena.com/blog/362463/iqoo-z6-44w-price-india-specifications.html) | 1080 x 2400 (https://www.gsmarena.com/vivo_iqoo_z6_44w-11502.php) |
+| iqoo-z6-lite | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/374205/iqoo-z6-lite-5g-price-india-specifications.html) | Bluetooth 5.1 (https://www.gsmarena.com/vivo_iqoo_z6_lite-11879.php) |
+| iqoo-z11xa | resolution | 1080 x 2408 (https://www.fonearena.com/blog/491734/iqoo-z11xa-price-india-specifications.html) | 1080 x 2344 (https://www.iqoo.com/in/products/param/z11xa) |

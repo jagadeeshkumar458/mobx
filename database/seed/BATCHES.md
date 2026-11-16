@@ -119,8 +119,8 @@ Thin records still to backfill: none.
 | 6 | Xiaomi numbered series + Redmi Note series | 30 | ✅ Done 2026-11-10 (18 added 2026-11-10, see gaps) |
 | 7 | POCO F, X, M series | 24 | ✅ Done 2026-11-11 (23 added, see gaps) |
 | 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
-| 9 | vivo X, V, T series | 58 | Partial 2026-11-15 (36 added 2026-11-15: Nov 2021 – Dec 2024; V30e still to add) |
-| 10 | iQOO numbered, Neo, Z series | ~25 | Pending |
+| 9 | vivo X, V, T series | 59 | ✅ Done 2026-11-16 (V30e added 2026-11-16; X500 series due late Nov 2026) |
+| 10 | iQOO numbered, Neo, Z series | 35 | ✅ Done 2026-11-16 (34 added; iQOO 16 due Dec 2026, see gaps) |
 | 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
 | 12 | Motorola Edge, G series | ~30 | Pending |
 | 13 | Nothing Phone and CMF Phone | ~10 | Pending |
@@ -135,6 +135,38 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 10 + vivo V30e (2026-11-16): added vivo V30e and iQOO Z11xa, Z11,
+  Z11 Lite (the India "Z11 Lite 44W 5G"), Z11x, 15R, Z10R, Z10 Lite, Neo 10, Z10,
+  Z10x, Neo 10R, 13, Z9s Pro, Z9s, Z9 Lite, Z9x, Z9, Neo 9 Pro, 12, Z7 Pro,
+  Neo 7 Pro, Z7s, Z7, Neo 7, 11, Z6 Lite, 9T, Neo 6, Z6 Pro, Z6 44W (4G), Z6 5G,
+  9 Pro, 9 and 9 SE as complete records (India price, base variant, colours and
+  launch date from Fonearena India launch posts; the rest from those plus
+  GSMArena GLOBAL pages, India page for Z10R). Neo 9 Pro / Z9 / Z9x / Z9s /
+  Z9s Pro launch dates and Z9s / Z9s Pro colours come from separately cited
+  dated reports (Beebom, TelecomTalk, Business Today, Business Insider, Gizbot);
+  iQOO 13, Z10 Lite, Neo 7, Z7 Pro, 9T, Neo 6 and Z6 Pro dates were taken from
+  dated reports but stored with the Fonearena URL (post shows no year). Not yet
+  launched in India: iQOO 16 (due Dec 2026); 15 Ultra, Neo 11 series and Z11
+  Turbo are China-only. Gaps: Z11xa and Z11 use iqoo.com/in instead of GSMArena
+  (no page / wouldn't load), so they lack CPU and video; Z9s Pro uses
+  iqoo.com/in (GSMArena failed), so it lacks CPU, PPI, sensor size, USB,
+  fingerprint type, video, Wi-Fi and battery (headline 5500 mAh vs fine print
+  6000 typical); 9-series post names no colours; dimensions / weight left out
+  where builds differ (15R, V30e, Neo 9 Pro, Z9s, Z9s Pro, 11, Neo 7 Pro, 9,
+  9 Pro; iQOO 12 / 13 kept from the launch post only); Z11x / Z11xa OS left out
+  (OriginOS 6 vs Funtouch OS 6 in the same post); 15R chipset from GSMArena
+  (post says both 8 Elite Gen 5 and 8 Gen 5); Neo 10 main sensor (LYT-600 vs
+  IMX882) and Neo 10 / Neo 10R / Neo 9 Pro storage type (varies by variant) left
+  out; Z6 5G UFS 2.1 and Z9 Lite eMMC 5.1 not in the rank list; "LCD"-only
+  display types left out; Neo 9 Pro and Z10 GPU from GSMArena (Fonearena's
+  Adreno 730 / 720 don't match the chips; logged); iQOO 12 IP64 from the launch
+  post (GSMArena says China model only); Z10x IP64 from the launch post
+  (GSMArena: splash resistant); Fonearena "Wi-Fi 6 802.11ac"-style lines left out;
+  OS-update counts not recorded as years. 26 substantive disagreements logged in
+  CONFLICTS.md (mostly Wi-Fi 6 vs 5, Bluetooth, video, GPU, brightness,
+  resolution); aperture / dimension rounding, weight within 2 g and USB detail
+  were not.
 
 - Batch 9 (2026-11-15, second part): added vivo X200 Pro / X200, V40e, T3 Ultra,
   T3 Pro, V40 Pro / V40, T3 Lite, X Fold3 Pro, T3x, T3, V30 Pro / V30, X100 Pro /
