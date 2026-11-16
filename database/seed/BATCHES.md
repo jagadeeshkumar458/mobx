@@ -122,7 +122,7 @@ Thin records still to backfill: none.
 | 9 | vivo X, V, T series | 59 | ✅ Done 2026-11-16 (V30e added 2026-11-16; X500 series due late Nov 2026) |
 | 10 | iQOO numbered, Neo, Z series | 35 | ✅ Done 2026-11-16 (34 added; iQOO 16 due Dec 2026, see gaps) |
 | 11 | OPPO Find, Reno, K, F series | 45 | ✅ Done 2026-11-16 (37 + 8 added, see gaps) |
-| 12 | Motorola Edge, G series | ~30 | Pending |
+| 12 | Motorola Edge, G series | ~70 | Partial 2026-11-16 (43 added: Edge 50 – 70, Razr 50 / 60, Moto G 2022 – 2026; Edge 40 / 30, G71 / G52 / G31 / E-series and G56 still to add) |
 | 13 | Nothing Phone and CMF Phone | ~10 | Pending |
 | 14 | Infinix Zero, Note, GT, Hot series | ~25 | Pending |
 | 15 | Tecno Phantom, Camon, Pova, Spark series | ~25 | Pending |
@@ -135,6 +135,28 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 12 (2026-11-16, first part): added Moto G Max, G77 Power, Edge 70 Pro /
+  70 Fusion / 70, G57 Power, G67 Power, G06 Power, G86 Power, G96, Edge 60 / Razr
+  60 / Razr 60 Ultra / Edge 60 Pro / 60 Stylus / 60 Fusion, G05, G35, Edge 50
+  Neo, Razr 50, G45, Edge 50, G85, Razr 50 Ultra, Edge 50 Ultra, G04s, Edge 50
+  Fusion, G64, Edge 50 Pro, G04, G24 Power, G34, G54, G84, G14, G13, G73 5G, E13,
+  G72, G62 5G, G32, G42 and G82 5G (India price, base variant, colours and launch
+  date from Fonearena India launch posts, Edge 70 from TelecomTalk; the rest from
+  those plus GSMArena). Still to add: Edge 40 / 40 Neo, Edge 30 Ultra / Fusion /
+  30 / 30 Neo, Edge 20, Moto G71 5G, G51 5G, G31, G52, E32 / E32s / E40, G56,
+  G37 Power, G Stylus (India launch unchecked); Moto G23 and G53 5G found no
+  India launch; Razr 70 not launched in India. Gaps: Moto G Max and G77 Power
+  have no GSMArena data (G Max page differs from India model, G77 page
+  preliminary); Edge 70 Fusion GSMArena page is a stale pre-launch listing so
+  only non-conflicting fields were taken; G54 launch date is not verified (2023-09-06
+  from a 91mobiles sale post) and its GSMArena page is a different model; G84
+  / G96 / G86 Power / G85 "pOLED" recorded as display type text; IP48 / IPX8
+  (Razr) not in the rank list; the "Wi-Fi 6 / 802.11be" style contradictions left
+  out; foldable weights from GSMArena are unfolded figures; G57 Power storage
+  left out (post says 256GB, prices 128GB). 14 substantive disagreements logged
+  in CONFLICTS.md (Wi-Fi, Bluetooth, charging, battery, brightness, resolution,
+  weight); rounding, aperture, GPU / CPU naming and glass naming were not.
 
 - Batch 11 finished 2026-11-16: added OPPO K13 Turbo Pro, Find N3 Flip, F21s Pro,
   F21s Pro 5G, K10 5G, F21 Pro, F21 Pro 5G and Reno 7 5G (India price, base

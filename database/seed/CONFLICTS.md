@@ -232,3 +232,17 @@ The stored value is kept until someone checks which source is right.
 | oppo-reno8-pro | resolution | 1080 x 2402 (https://www.fonearena.com/blog/369529/oppo-reno-8-pro-price-india-specifications.html) | 1080 x 2412 (https://www.gsmarena.com/oppo_reno8_pro-11683.php) |
 | oppo-reno8-t-5g | process_node_nm | 8 (https://www.fonearena.com/blog/384291/oppo-reno8t-5g-price-india-specifications.html) | 6 (https://www.gsmarena.com/oppo_reno8_t_5g-12069.php) |
 | oppo-reno8 | peak_brightness_nits | 600 (https://www.fonearena.com/blog/369528/oppo-reno-8-price-india-specifications.html) | 800 (https://www.gsmarena.com/oppo_reno8-11684.php) |
+| motorola-edge-50-fusion | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/423953/motorola-edge-50-fusion-price-india-specifications.html) | Wi-Fi 5 (https://www.gsmarena.com/motorola_edge_50_fusion-12871.php) |
+| motorola-edge-50-neo | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/435218/motorola-edge-50-neo-price-india-specifications.html) | Wi-Fi 6E (https://www.gsmarena.com/motorola_edge_50_neo-13224.php) |
+| motorola-edge-50 | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/430989/motorola-edge-50-price-india-specifications.html) | Wi-Fi 6E (https://www.gsmarena.com/motorola_edge_50-13231.php) |
+| motorola-edge-60-stylus | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/451235/motorola-edge-60-stylus-price-india-specifications.html) | Wi-Fi 6E (https://www.gsmarena.com/motorola_edge_60_stylus_5g-13785.php) |
+| motorola-edge-60 | wifi_version | Wi-Fi 6E (https://www.fonearena.com/blog/455748/motorola-edge-60-price-india-specifications.html) | Wi-Fi 6 (https://www.gsmarena.com/motorola_edge_60-13779.php) |
+| motorola-edge-70 | battery_mah | 5000 (https://telecomtalk.info/moto-edge-70-launched-in-india/1002641/) | 4800 (https://www.gsmarena.com/motorola_edge_70_5g-14216.php) |
+| motorola-moto-g72 | weight_g | 170 (https://www.fonearena.com/blog/?p=375740) | 166 (https://m.gsmarena.com/motorola_moto_g72-11910.php) |
+| motorola-moto-g86-power | wired_charging_w | 33 (https://www.fonearena.com/blog/460456/moto-g86-power-5g-price-india-specifications.html) | 30 (https://www.gsmarena.com/motorola_moto_g86_power_5g-13918.php) |
+| motorola-razr-50-ultra | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/427953/motorola-razr-50-ultra-price-india-specifications.html) | Bluetooth 5.4 (https://www.gsmarena.com/motorola_razr_50_ultra-13150.php) |
+| motorola-razr-50 | wired_charging_w | 33 (https://www.fonearena.com/blog/434468/motorola-razr-50-price-india-specifications.html) | 30 (https://www.gsmarena.com/motorola_razr_50-13151.php) |
+| motorola-razr-60-ultra | resolution | 1224 x 2992 (https://www.fonearena.com/blog/453382/motorola-razr-60-ultra-price-india-specifications.html) | 1224 x 2912 (https://www.gsmarena.com/motorola_razr_60_ultra-13805.php) |
+| motorola-razr-60-ultra | peak_brightness_nits | 4000 (https://www.fonearena.com/blog/453382/motorola-razr-60-ultra-price-india-specifications.html) | 4500 (https://www.gsmarena.com/motorola_razr_60_ultra-13805.php) |
+| motorola-razr-60-ultra | weight_g | 189 (https://www.fonearena.com/blog/453382/motorola-razr-60-ultra-price-india-specifications.html) | 199 (https://www.gsmarena.com/motorola_razr_60_ultra-13805.php) |
+| motorola-razr-60 | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/454800/motorola-razr-60-price-india-specifications.html) | Bluetooth 5.4 (https://www.gsmarena.com/motorola_razr_60-13749.php) |
