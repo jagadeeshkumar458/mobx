@@ -122,8 +122,8 @@ Thin records still to backfill: none.
 | 9 | vivo X, V, T series | 59 | ✅ Done 2026-11-16 (V30e added 2026-11-16; X500 series due late Nov 2026) |
 | 10 | iQOO numbered, Neo, Z series | 35 | ✅ Done 2026-11-16 (34 added; iQOO 16 due Dec 2026, see gaps) |
 | 11 | OPPO Find, Reno, K, F series | 45 | ✅ Done 2026-11-16 (37 + 8 added, see gaps) |
-| 12 | Motorola Edge, G series | ~70 | Partial 2026-11-16 (43 added: Edge 50 – 70, Razr 50 / 60, Moto G 2022 – 2026; Edge 40 / 30, G71 / G52 / G31 / E-series and G56 still to add) |
-| 13 | Nothing Phone and CMF Phone | ~10 | Pending |
+| 12 | Motorola Edge, G series | 59 | ✅ Done 2026-11-16 (43 + 16 added, see gaps) |
+| 13 | Nothing Phone and CMF Phone | 13 | ✅ Done 2026-11-16 (12 added; Phone (4) and CMF Phone 3 not launched in India) |
 | 14 | Infinix Zero, Note, GT, Hot series | ~25 | Pending |
 | 15 | Tecno Phantom, Camon, Pova, Spark series | ~25 | Pending |
 | 16 | Samsung Galaxy A and M series, Redmi numbered, budget lines | ~60 | Pending |
@@ -135,6 +135,24 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batches 12 (finish) and 13 (2026-11-16): added Motorola Edge 70 Max, G37
+  Power, Edge 40 Neo, Razr 40 / 40 Ultra, Edge 40, E32, Edge 30 Ultra / 30 Fusion /
+  30 / 30 Pro, E32s, G52, G71 5G, G51 5G and G31, and Nothing Phone (1), (2),
+  (2a), (2a) Plus, (3a), (3a) Pro, (3), (3a) Lite, (4a), (4b) plus CMF Phone 1 and
+  CMF Phone 2 Pro (brand "Nothing" for all; Fonearena India launch posts plus
+  GSMArena). Not added (no India launch found): Edge 40 Pro, Edge 30 Neo, Edge 20
+  series (Aug 2021), Moto G56 5G, G15 / G15 Power, G23, G53 5G, Razr 70, Nothing
+  Phone (4), CMF Phone 3 / 3 Pro. Gaps: Edge 30 Pro and Edge 70 Max have no
+  GSMArena data; G71 5G and G51 5G launch dates are article dates (no Fonearena
+  post loaded); G31 / G52 date from dated reports; E32 has no GSMArena data;
+  Edge 40 and Edge 30 Fusion weights left out (two builds); Edge 70 Max Wi-Fi
+  contradictory in the post; Nothing Phone (3) / (4a) / (4b) battery on GSMArena
+  is region-dependent (India figure from the launch post only); CMF Phone 1
+  dimensions / weight left out (two builds); OS-update counts not recorded as
+  years; launch prices are the introductory price where a post gives two
+  (Edge 30 Ultra, 30 Fusion, 40 Neo; Nothing 4b list price). 12 substantive
+  disagreements logged in CONFLICTS.md (Bluetooth, video, charging, Wi-Fi).
 
 - Batch 12 (2026-11-16, first part): added Moto G Max, G77 Power, Edge 70 Pro /
   70 Fusion / 70, G57 Power, G67 Power, G06 Power, G86 Power, G96, Edge 60 / Razr
