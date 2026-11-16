@@ -121,7 +121,7 @@ Thin records still to backfill: none.
 | 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
 | 9 | vivo X, V, T series | 59 | ✅ Done 2026-11-16 (V30e added 2026-11-16; X500 series due late Nov 2026) |
 | 10 | iQOO numbered, Neo, Z series | 35 | ✅ Done 2026-11-16 (34 added; iQOO 16 due Dec 2026, see gaps) |
-| 11 | OPPO Find, Reno, K, F series | ~60 | Partial 2026-11-16 (37 added: Reno, F, K, Find X8 – X9; Reno 14F / 13F / 12F, K12 and older, Find N / X7 / X5 and F21 still to add) |
+| 11 | OPPO Find, Reno, K, F series | 45 | ✅ Done 2026-11-16 (37 + 8 added, see gaps) |
 | 12 | Motorola Edge, G series | ~30 | Pending |
 | 13 | Nothing Phone and CMF Phone | ~10 | Pending |
 | 14 | Infinix Zero, Note, GT, Hot series | ~25 | Pending |
@@ -135,6 +135,22 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 11 finished 2026-11-16: added OPPO K13 Turbo Pro, Find N3 Flip, F21s Pro,
+  F21s Pro 5G, K10 5G, F21 Pro, F21 Pro 5G and Reno 7 5G (India price, base
+  variant and colours from Fonearena India launch posts; the rest from those plus
+  GSMArena). F21s Pro / F21s Pro 5G GSMArena values are from the F21 Pro pages
+  (GSMArena lists them as "also known as"). Gaps: Reno 7 5G launch date (2022-02-04)
+  and Find N3 Flip date (2023-10-12) are not shown with a year in the post
+  (Reno 7 5G marked not verified); Reno 7 5G storage type from the post
+  (UFS 3.1) only, GSMArena says UFS 2.2; F21 Pro 5G / F21s Pro 5G 60 Hz is the
+  post's figure; Find N3 Flip IPX4 and K13 Turbo Pro IPX6/8/9 not in the rank
+  list; K13 Turbo Pro thickness / weight left out (8.31 vs 7.3 mm). Searched but
+  no India launch found (so not added): Reno 7 Z, Reno 14F / 14 FS, 13F, 12F /
+  12 FS, Reno 16 Pro, K12, K12 Plus, K11 / K11x, K10x, Find N5, Find X7 Ultra,
+  Find X5 / X5 Pro, Find X8s. The 4G K10 (India, Mar 2022) was not added; revisit
+  with oppo.com/in if wanted. No substantive disagreements were logged (only
+  GPU / dimension naming and rounding differences).
 
 - Batch 11 (2026-11-16, first part): added OPPO Reno 16c / 16 / 15 / 15 Pro /
   15 Pro mini / 14 / 14 Pro / 13 / 13 Pro / 12 / 12 Pro / 11 / 11 Pro / 10 Pro+ /

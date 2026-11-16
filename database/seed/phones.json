@@ -130099,6 +130099,2610 @@
           "region": "GLOBAL"
         }
       }
+    },
+    {
+      "id": "oppo-k13-turbo-pro",
+      "brand": "OPPO",
+      "model": "K13 Turbo Pro",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 37999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2025-08-11",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Silver Knight",
+            "Midnight Maverick",
+            "Purple Phantom"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "162.78 x 77.22 x 8.31",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 8.31,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 207,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Qualcomm Snapdragon 8s Gen 4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 825",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1280 x 2800",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "AGC DT-Star D+",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/2.88\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 16,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 7000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 80,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 15 (ColorOS 15)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/461348/oppo-k13-turbo-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 453,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K60",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k13_turbo_pro_5g-14013.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-find-n3-flip",
+      "brand": "OPPO",
+      "model": "Find N3 Flip",
+      "variant": "12GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 94999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 12,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2023-10-12",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Cream Gold",
+            "Sleek Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "166.4 x 75.8 x 7.79",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.79,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 198,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 9200",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Immortalis-G715",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR5X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 4.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LTPO AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2520",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 403,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 120,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 1600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "SCHOTT UTG",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 50,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_sensor": {
+          "value": "Sony IMX890",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/1.56\"",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "telephoto_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "optical_zoom_x": {
+          "value": 2,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4300,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 44,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.3",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_updates_years": {
+          "value": 4,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "security_updates_years": {
+          "value": 5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/407936/oppo-find-n3-flip-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (1x3.05 GHz Cortex-X3 & 3x2.85 GHz Cortex-A715 & 4x1.80 GHz Cortex-A510)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ois": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "frame_material": {
+          "value": "Aluminium",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "headphone_jack": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_find_n3_flip-12531.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-f21s-pro",
+      "brand": "OPPO",
+      "model": "F21s Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-09-15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.43,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 22999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Dawnlight Gold",
+            "Starlight Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "159.9 x 73.2 x 7.5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 175,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Qualcomm Snapdragon 680",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 610",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 12 (ColorOS 12.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": false,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 409,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/2.0\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-f21s-pro-5g",
+      "brand": "OPPO",
+      "model": "F21s Pro 5G",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-09-15",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.43,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 25999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Dawnlight Gold",
+            "Starlight Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 173,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Qualcomm Snapdragon 695",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 619",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 60,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 16,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 11 (ColorOS 12)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/374407/oppo-f21s-pro-price-india-specifications-f21s-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 409,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Schott Xensation",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-k10-5g",
+      "brand": "OPPO",
+      "model": "K10 5G",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 17499,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-06-08",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Midnight Black",
+            "Ocean Blue"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "163.8 x 75.1 x 7.9",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.9,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 190,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 810",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G57",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "LCD",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.56,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "720 x 1612",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 48,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 5000,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 12 (ColorOS 12.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "side-mounted",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "stereo_speakers": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/366136/oppo-k10-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 269,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_k10_5g-11610.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-f21-pro",
+      "brand": "OPPO",
+      "model": "F21 Pro",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-04-12",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.43,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.0",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 22999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Sunset Orange",
+            "Cosmic Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "159.9 x 73.2 x 7.5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.5,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 175,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Qualcomm Snapdragon 680",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 610",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 12 (ColorOS 12.1)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": false,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 409,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/2.0\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": false,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro-11450.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-f21-pro-5g",
+      "brand": "OPPO",
+      "model": "F21 Pro 5G",
+      "variant": "8GB/128GB",
+      "region": "IN",
+      "specs": {
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 128,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "128GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-04-12",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 2.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.43,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 600,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 33,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_price_inr": {
+          "value": 26999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "colours": {
+          "value": [
+            "Cosmic Black",
+            "Rainbow Spectrum"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 173,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "Qualcomm Snapdragon 695",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Adreno 619",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 60,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 16,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 11 (ColorOS 12)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/361285/oppo-f21-pro-price-india-specifications-f21-pro-5g.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "ppi": {
+          "value": 409,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "screen_protection": {
+          "value": "Schott Xensation",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://m.gsmarena.com/oppo_f21_pro_5g-11471.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
+    },
+    {
+      "id": "oppo-reno-7-5g",
+      "brand": "OPPO",
+      "model": "Reno 7 5G",
+      "variant": "8GB/256GB",
+      "region": "IN",
+      "specs": {
+        "launch_price_inr": {
+          "value": 28999,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_gb": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_gb": {
+          "value": 256,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_options": {
+          "value": "256GB",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "launch_date": {
+          "value": "2022-02-04",
+          "sourceType": "not_verified",
+          "verification": "unverified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "note": "post has no year; date taken from fonearena 'launching in India on February 4' post (sales Feb 17), year not stated on page"
+          }
+        },
+        "colours": {
+          "value": [
+            "Startrails Blue",
+            "Starlight Black"
+          ],
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "dimensions_mm": {
+          "value": "160.6 x 73.2 x 7.8",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "thickness_mm": {
+          "value": 7.8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "weight_g": {
+          "value": 173,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "chipset": {
+          "value": "MediaTek Dimensity 900",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "process_node_nm": {
+          "value": 6,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "cpu": {
+          "value": "Octa-core (2 x 2.4GHz Cortex-A78 + 6 x 2GHz Cortex-A55)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "gpu": {
+          "value": "Mali-G68 MC4",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ram_type": {
+          "value": "LPDDR4X",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "storage_type": {
+          "value": "UFS 3.1",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "display_tech": {
+          "value": "AMOLED",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "screen_size_in": {
+          "value": 6.43,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "resolution": {
+          "value": "1080 x 2400",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "refresh_rate_hz": {
+          "value": 90,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "peak_brightness_nits": {
+          "value": 800,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN",
+          "conditions": {
+            "method": "manufacturer peak"
+          }
+        },
+        "screen_protection": {
+          "value": "Corning Gorilla Glass 5",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_camera_mp": {
+          "value": 64,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "main_aperture": {
+          "value": "f/1.7",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ultrawide_mp": {
+          "value": 8,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "front_camera_mp": {
+          "value": 32,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "battery_mah": {
+          "value": 4500,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wired_charging_w": {
+          "value": 65,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "os_at_launch": {
+          "value": "Android 11 (ColorOS 12)",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "five_g": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "wifi_version": {
+          "value": "Wi-Fi 6",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "bluetooth_version": {
+          "value": "Bluetooth 5.2",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "nfc": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "headphone_jack": {
+          "value": true,
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "back_material": {
+          "value": "Glass",
+          "sourceType": "manufacturer",
+          "verification": "verified",
+          "sourceUrl": "https://www.fonearena.com/blog/356062/oppo-reno-7-5g-reno-7-pro-5g-price-india-specifications.html",
+          "lastUpdated": "2026-11-16",
+          "region": "IN"
+        },
+        "ppi": {
+          "value": 409,
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "main_sensor_size_inch": {
+          "value": "1/2.0\"",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "video_max": {
+          "value": "4K30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "front_video_max": {
+          "value": "1080p30",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "usb": {
+          "value": "USB Type-C 2.0",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        },
+        "fingerprint_type": {
+          "value": "optical",
+          "sourceType": "spec_database",
+          "verification": "verified",
+          "sourceUrl": "https://www.gsmarena.com/oppo_reno7_5g-11350.php",
+          "lastUpdated": "2026-11-16",
+          "region": "GLOBAL"
+        }
+      }
     }
   ]
 }
