@@ -262,3 +262,10 @@ The stored value is kept until someone checks which source is right.
 | tecno-camon-30-premier-5g | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/424154/tecno-camon-30-premier-5g-price-india-specifications-camon-30-5g.html) | Wi-Fi 5 (https://www.gsmarena.com/tecno_camon_30_premier-12845.php) |
 | tecno-spark-30c-5g | resolution | 720 x 1612 (https://www.fonearena.com/blog/437495/tecno-spark-30c-5g-price-india-specifications.html) | 720 x 1600 (https://www.gsmarena.com/tecno_spark_30c_5g-13385.php) |
 | tecno-spark-go-3 | dimensions_mm | 165.6 x 77.97 x 8.19 (https://www.fonearena.com/blog/473621/tecno-spark-go-3-price-india-specifications.html) | 167.7 x 77.8 x 8.1 (https://www.gsmarena.com/tecno_spark_go_3-14420.php) |
+| infinix-hot-12-play | resolution | 1640 x 720 (https://www.fonearena.com/blog/364848/infinix-hot-12-play-price-india-specifications.html) | 720 x 1612 (https://m.gsmarena.com/infinix_hot_12_play-11547.php) |
+| infinix-hot-60i-5g | bluetooth_version | Bluetooth 5.3 (https://www.fonearena.com/blog/461812/infinix-hot-60i-5g-price-india-specifications.html) | Bluetooth 5.4 (https://m.gsmarena.com/infinix_hot_60i_5g-14072.php) |
+| infinix-zero-ultra | peak_brightness_nits | 1000 (https://www.fonearena.com/blog/381099/infinix-zero-ultra-price-india-specifications.html) | 900 (https://m.gsmarena.com/infinix_zero_ultra-11922.php) |
+| tecno-pop-8 | main_camera_mp | 12 (https://www.fonearena.com/blog/413243/tecno-pop-8-price-india-specifications.html) | 13 (https://www.gsmarena.com/tecno_pop_8-12644.php) |
+| tecno-spark-10-pro | resolution | 1080 x 2400 (https://www.fonearena.com/blog/389007/tecno-spark-10-pro-price-india-specifications.html) | 1080 x 2460 (https://m.gsmarena.com/tecno_spark_10_pro-ampp-12156.php) |
+| tecno-spark-8p | wired_charging_w | 18 (https://www.fonearena.com/blog/368505/tecno-spark-8p-price-india-specifications.html) | 10 (https://www.gsmarena.com/tecno_spark_8p-11250.php) |
+| tecno-spark-go-2023 | resolution | 720 x 1612 (https://www.fonearena.com/blog/383630/tecno-spark-go-2023-price-india-specifications.html) | 720 x 1600 (https://www.gsmarena.com/tecno_spark_go_2023-12086.php) |
