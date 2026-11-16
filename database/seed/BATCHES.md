@@ -124,8 +124,8 @@ Thin records still to backfill: none.
 | 11 | OPPO Find, Reno, K, F series | 45 | ✅ Done 2026-11-16 (37 + 8 added, see gaps) |
 | 12 | Motorola Edge, G series | 59 | ✅ Done 2026-11-16 (43 + 16 added, see gaps) |
 | 13 | Nothing Phone and CMF Phone | 13 | ✅ Done 2026-11-16 (12 added; Phone (4) and CMF Phone 3 not launched in India) |
-| 14 | Infinix Zero, Note, GT, Hot series | ~25 | Pending |
-| 15 | Tecno Phantom, Camon, Pova, Spark series | ~25 | Pending |
+| 14 | Infinix Zero, Note, GT, Hot series | ~70 | Partial 2026-11-16 (18 added: Zero, GT, Note 40 – 50, Note Edge, Hot 50 / 60, Smart 10 / 20; Hot / Smart / Note 30 / 12 / 11 and Zero Ultra still to add) |
+| 15 | Tecno Phantom, Camon, Pova, Spark series | ~60 | Partial 2026-11-16 (21 added: Phantom V Fold2 / Flip2, Pova 6 / 7, Camon 19 / 20 / 30, Spark 9 – 50s; Phantom X2 / V Fold, Pova 4 / 5, Camon 40, Spark 30 / 40 and more still to add) |
 | 16 | Samsung Galaxy A and M series, Redmi numbered, budget lines | ~60 | Pending |
 
 Batch 1 picks (newest top model launched in India as of 2026-11-02):
@@ -135,6 +135,29 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batches 14 and 15 (2026-11-16, first parts): added Infinix Smart 20, Note Edge,
+  GT 30, Smart 10, Hot 60 5G+, GT 30 Pro, Note 50s, Note 50x, Zero 40 5G, Hot 50
+  5G, Note 40X, Note 40 5G, GT 20 Pro, Note 40 Pro / Pro+, Zero 30 5G, Zero 5G
+  (2023), Zero 5G (2022), and Tecno Spark 50s 5G, Spark 50 5G, Pop X, Spark Go 3,
+  Pova 7 / 7 Pro, Phantom V Fold2 / V Flip2, Spark 30C 5G, Pova 6 Neo, Camon 30
+  Premier 5G / 30 5G, Pova 6 Pro, Spark 20C / 20, Camon 20 / 20 Pro 5G, Spark 10
+  5G, Spark 9, Camon 19 / 19 Neo (Fonearena India launch posts; GSMArena where
+  its page loaded). Still to add, Infinix: Hot 60i 5G, Smart 10 Plus, Smart 20
+  HD, Hot 50i / 50 Pro, Hot 40 / 30 / 20 / 12 / 11 series, Smart 9 / 8 / 7 / 6,
+  GT 10 Pro, Zero Ultra, Zero 20, Note 30 / 12 / 11 series (Note 50 base and
+  Zero 8i found no India launch). Tecno: Pova 5 / 5 Pro, Pova 4 / 4 Pro, Pova Neo
+  2 / 3, Phantom V Fold / V Flip / X2 / X2 Pro, Camon 20 Premier, Camon 18 / 40,
+  Spark 40 / 30 / 8 / Go 2024, Pop 8 / 9, Pova 7 Neo (India launch unverified for
+  several). No GSMArena data yet for Infinix Zero 30 5G, Zero 5G, Zero 5G 2023,
+  Note 40X, Hot 60 5G+, Hot 50 5G, Smart 10 / 20 and Tecno Camon 20 / 20 Pro /
+  19 / 19 Neo, Spark 9, Pova 6 Pro / 6 Neo, Phantom V Fold2, so those lack CPU
+  and some connectivity (re-run with the GSMArena pages). Launch dates not
+  verified: Infinix Note Edge, Hot 50 5G; Tecno Phantom V Fold2 / V Flip2
+  (2024-12-06). Gaps: "2K" video not recorded; Infinix Zero 30 5G storage left
+  out (post says 128 and 256 GB); Tecno Spark 10 5G RAM is 4 GB (post adds 4 GB
+  virtual). 6 substantive disagreements logged in CONFLICTS.md; rounding,
+  aperture, dimensions and naming differences were not.
 
 - Batches 12 (finish) and 13 (2026-11-16): added Motorola Edge 70 Max, G37
   Power, Edge 40 Neo, Razr 40 / 40 Ultra, Edge 40, E32, Edge 30 Ultra / 30 Fusion /

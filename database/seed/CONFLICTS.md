@@ -256,3 +256,9 @@ The stored value is kept until someone checks which source is right.
 | nothing-phone-4a | front_video_max | 4K30 (https://www.fonearena.com/blog/476899/nothing-phone-4a-price-india-specifications.html) | 1080p30 (https://www.gsmarena.com/nothing_phone_(4a)_5g-14503.php) |
 | nothing-phone-4b | front_video_max | 1080p60 (https://www.fonearena.com/blog/486903/nothing-phone-4b-price-india-specifications.html) | 1080p30 (https://m.gsmarena.com/nothing_phone_(4b)-ampp-14781.php) |
 | cmf-phone-1 | front_video_max | 1080p60 (https://www.fonearena.com/blog/428132/cmf-phone-1-price-india-specifications.html) | 1080p30 (https://www.gsmarena.com/nothing_cmf_phone_1-13122.php) |
+| infinix-note-40-5g | storage_type | UFS 3.1 (https://www.fonearena.com/blog/426921/infinix-note-40-5g-price-india-specifications.html) | UFS 2.2 (https://m.gsmarena.com/infinix_note_40_5g-13035.php) |
+| infinix-note-40-pro-plus | battery_mah | 4500 (https://www.fonearena.com/blog/421558/infinix-note-40-pro-5g-price-india-specifications.html) | 4600 (https://m.gsmarena.com/infinix_note_40_pro+-12874.php) |
+| infinix-zero-40-5g | resolution | 1080 x 2460 (https://www.fonearena.com/blog/435423/infinix-zero-40-5g-price-india-specifications.html) | 1080 x 2436 (https://m.gsmarena.com/infinix_zero_40-13290.php) |
+| tecno-camon-30-premier-5g | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/424154/tecno-camon-30-premier-5g-price-india-specifications-camon-30-5g.html) | Wi-Fi 5 (https://www.gsmarena.com/tecno_camon_30_premier-12845.php) |
+| tecno-spark-30c-5g | resolution | 720 x 1612 (https://www.fonearena.com/blog/437495/tecno-spark-30c-5g-price-india-specifications.html) | 720 x 1600 (https://www.gsmarena.com/tecno_spark_30c_5g-13385.php) |
+| tecno-spark-go-3 | dimensions_mm | 165.6 x 77.97 x 8.19 (https://www.fonearena.com/blog/473621/tecno-spark-go-3-price-india-specifications.html) | 167.7 x 77.8 x 8.1 (https://www.gsmarena.com/tecno_spark_go_3-14420.php) |
