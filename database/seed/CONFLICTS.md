@@ -274,3 +274,10 @@ The stored value is kept until someone checks which source is right.
 | samsung-galaxy-a55 | wifi_version | Wi-Fi 5 (https://www.fonearena.com/blog/419159/samsung-galaxy-a35-galaxy-a55-price-india-specifications.html) | Wi-Fi 6 (https://m.gsmarena.com/samsung_galaxy_a55-ampp-12824.php) |
 | redmi-13-5g | weight_g | 199 (https://www.fonearena.com/blog/428327/redmi-13-5g-price-india-specifications.html) | 205 (https://m.gsmarena.com/xiaomi_redmi_13_5g-13157.php) |
 | redmi-14c-5g | resolution | 720 x 1600 (https://www.fonearena.com/blog/443270/redmi-14c-5g-price-india-specifications.html) | 720 x 1640 (https://m.gsmarena.com/xiaomi_redmi_14c_5g-13595.php) |
+| samsung-galaxy-m53-5g | resolution | 1080 x 2400 (https://www.fonearena.com/blog/362063/samsung-galaxy-m53-5g-price-india-specifications.html) | 1080 x 2408 (https://m.gsmarena.com/samsung_galaxy_m53-11439.php) |
+| samsung-galaxy-m53-5g | wifi_version | Wi-Fi 6 (https://www.fonearena.com/blog/362063/samsung-galaxy-m53-5g-price-india-specifications.html) | Wi-Fi 5 (https://m.gsmarena.com/samsung_galaxy_m53-11439.php) |
+| redmi-10-power | wired_charging_w | 10 (https://telecomtalk.info/redmi-10-power-availability-in-india-officially/514102/) | 18 (https://www.gsmarena.com/xiaomi_redmi_10_power-11486.php) |
+| redmi-10 | resolution | 1600 x 720 (https://www.fonearena.com/blog/358966/redmi-10-price-india-specifications.html) | 720 x 1650 (https://m.gsmarena.com/xiaomi_redmi_10_(india)-11424.php) |
+| redmi-11-prime-4g | bluetooth_version | Bluetooth 5.3 (https://www.digit.in/news/mobile-phones/redmi-a1-redmi-11-prime-4g-and-5g-launched-in-india-here-are-their-price-specs-and-features-65103.html) | Bluetooth 5.1 (https://www.gsmarena.com/xiaomi_redmi_11_prime-11855.php) |
+| redmi-a3 | bluetooth_version | Bluetooth 5.3 (https://www.themobileindian.com/news/redmi-a3-announced-in-india-price-specs) | Bluetooth 5.4 (https://www.gsmarena.com/xiaomi_redmi_a3-12822.php) |
+| tecno-pop-7-pro | resolution | 720 x 1600 (https://www.fonearena.com/blog/385645/tecno-pop-7-pro-price-india-specifications.html) | 720 x 1612 (https://m.gsmarena.com/tecno_pop_7_pro-12108.php) |

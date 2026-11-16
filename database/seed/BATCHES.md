@@ -125,8 +125,8 @@ Thin records still to backfill: none.
 | 12 | Motorola Edge, G series | 59 | ✅ Done 2026-11-16 (43 + 16 added, see gaps) |
 | 13 | Nothing Phone and CMF Phone | 13 | ✅ Done 2026-11-16 (12 added; Phone (4) and CMF Phone 3 not launched in India) |
 | 14 | Infinix Zero, Note, GT, Hot series | 31 | ✅ Done 2026-11-16 (31 added; Hot 40 / 40 Pro / 12 / 20S and Hot 50 Pro not found in India, see gaps) |
-| 15 | Tecno Phantom, Camon, Pova, Spark series | 36 | Partial 2026-11-16 (36 added; Pova 4 / Neo / 6, Phantom X2, Spark 10 / 10C and a few others still to check) |
-| 16 | Samsung Galaxy A / M / F series, Redmi numbered, budget lines | ~120 | Partial 2026-11-16 (37 added: Galaxy A 2024 – 26, M 2023 – 25, F 2023 – 24, Redmi 12 – 15; older Galaxy A / M and Redmi 10 / 11 / A-series still to add) |
+| 15 | Tecno Phantom, Camon, Pova, Spark series | 42 | ✅ Done 2026-11-16 (42 added; many Spark / Camon / Pova models had no India launch, see gaps) |
+| 16 | Samsung Galaxy A / M / F series, Redmi numbered, budget lines | ~165 | Partial 2026-11-16 (73 added: Galaxy A 2022 – 26, M 2022 – 25, F 2022 – 25, Redmi 10 – 15; Galaxy A24, M54, F34 data and the "budget lines" still to check) |
 
 Batch 1 picks (newest top model launched in India as of 2026-11-02):
 Xiaomi 17 Ultra, vivo X300 Pro, OPPO Find X9 Pro, OnePlus 15 (OnePlus 16 not
@@ -135,6 +135,28 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 15 finished and batch 16 second part (2026-11-16): added Tecno Camon 20
+  Premier 5G, Pop 7 Pro, Phantom X2, Pova 4, Pop 5 LTE, Spark Go 2022; Samsung
+  Galaxy F06 5G, A05, A54 5G, A34 5G, A14 5G, A23 5G, A73 5G, A53 5G, A33 5G, A25 5G,
+  A15 5G, A05s, A13, A04s / A04e / A04, A03 Core, M04, M13 / M13 5G, M33 5G, M53 5G,
+  F04, F13, F23 5G, F34 5G; Redmi A3, A2, A1+, A1, 11 Prime 5G / 4G, 10 Prime
+  (2022), 10A, 10 Power, 10 (India). Launch sources outside Fonearena (Samsung
+  India newsroom, 91mobiles, Digit, sammobile, Smartprix, TechRadar, The Mobile
+  Indian) were used where Fonearena had no post. Tecno with no India launch found
+  (not added): Pova 4 Pro, Pova Neo 2 / 3, Pova 7 Neo, Spark 10 4G / 10C, Pop 7;
+  Tecno Pop 6 Pro and Samsung Galaxy M23 5G have GSMArena data but no launch
+  report, so were not added. Samsung with no India launch found: A24, M54 5G.
+  Gaps: no GSMArena data for Galaxy A53 5G, F34 5G and Galaxy-A27; launch dates
+  missing where posts show no year (A25, A15, A05s, A14, A23, A33, A13, F04,
+  F13, F34, M13); Redmi A2 GSMArena data is the A2+ page (fingerprint left out);
+  Redmi 10 Power launch date omitted (availability post); Redmi A1 / A1+ / A2 /
+  10 / 10A "capacitive" fingerprint wasn't recorded; Galaxy M13 dimensions and
+  weight left out of the launch side (sources differ); Samsung A15 / A25 launched
+  in India 2023-12-26 and are included; "Camon 20 Premier" back material is
+  recorded as eco leather from GSMArena's "leather". 7 substantive
+  disagreements logged in CONFLICTS.md (Wi-Fi, Bluetooth, charging); resolution
+  written width-first versus GSMArena's height-first were not.
 
 - Batch 16 (2026-11-16, first part): added Samsung Galaxy A27, A37, A07, A16, A06
   5G, A36, A26, A17, A55, A35, A57, A56, M36, M06, M16, M55s, M35, M55, M34, M05, M15,
