@@ -153,7 +153,7 @@ Note 60 Pro, Tecno Pova Curve 2 5G.
   Redmi 10 Power launch date omitted (availability post); Redmi A1 / A1+ / A2 /
   10 / 10A "capacitive" fingerprint wasn't recorded; Galaxy M13 dimensions and
   weight left out of the launch side (sources differ); Samsung A15 / A25 launched
-  in India 2023-12-26 and are included; "Camon 20 Premier" back material is
+  in India in Dec 2023 (before the Jan 2024 sale start in the sources) and are included; "Camon 20 Premier" back material is
   recorded as eco leather from GSMArena's "leather". 7 substantive
   disagreements logged in CONFLICTS.md (Wi-Fi, Bluetooth, charging); resolution
   written width-first versus GSMArena's height-first were not.
