@@ -121,7 +121,7 @@ Thin records still to backfill: none.
 | 8 | realme GT, numbered, Narzo series | 66 | ✅ Done 2026-11-13 (19 added 2026-11-13; GT Neo 2, Narzo 50i / 50A launched before Nov 2021) |
 | 9 | vivo X, V, T series | 59 | ✅ Done 2026-11-16 (V30e added 2026-11-16; X500 series due late Nov 2026) |
 | 10 | iQOO numbered, Neo, Z series | 35 | ✅ Done 2026-11-16 (34 added; iQOO 16 due Dec 2026, see gaps) |
-| 11 | OPPO Find, Reno, K, F series | ~25 | Pending |
+| 11 | OPPO Find, Reno, K, F series | ~60 | Partial 2026-11-16 (37 added: Reno, F, K, Find X8 – X9; Reno 14F / 13F / 12F, K12 and older, Find N / X7 / X5 and F21 still to add) |
 | 12 | Motorola Edge, G series | ~30 | Pending |
 | 13 | Nothing Phone and CMF Phone | ~10 | Pending |
 | 14 | Infinix Zero, Note, GT, Hot series | ~25 | Pending |
@@ -135,6 +135,31 @@ Pro+, realme GT 8 Pro, iQOO 15, Redmi Note 15 Pro+, POCO X8 Pro Max, Infinix
 Note 60 Pro, Tecno Pova Curve 2 5G.
 
 ## Known gaps to revisit
+
+- Batch 11 (2026-11-16, first part): added OPPO Reno 16c / 16 / 15 / 15 Pro /
+  15 Pro mini / 14 / 14 Pro / 13 / 13 Pro / 12 / 12 Pro / 11 / 11 Pro / 10 Pro+ /
+  10 Pro / 10 / 8T 5G / 8 Pro / 8 / 7 Pro, F29 / F29 Pro / F27 / F27 Pro+ / F25
+  Pro / F23, K14 / K14x / K13 Turbo / K13x / K13 / K12x and Find X9s / X9 Ultra /
+  X9 / X8 / X8 Pro as records (India price, base variant, colours and launch date
+  from Fonearena India launch posts; the rest from those plus GSMArena where its
+  page loaded). Still to add: Reno 16 Pro (if launched in India), 14F / 14 FS,
+  13F, 12F / 12 FS, Reno 7 5G, Reno 7 Z, F21 Pro / F21s Pro, K13 Turbo Pro, K12,
+  K11 / K11x, K10 5G, Find N5 / N3 Flip, Find X7 Ultra, Find X5 Pro / X5 (India
+  launch not yet checked for the Find models). Gaps: no GSMArena data (page
+  blocked or missing) for Find X9s, K12x, Reno 16, Reno 15 Pro, Reno 10 and
+  Reno 10 Pro, so they lack CPU / GPU and some connectivity; K14 GSMArena page
+  is rumoured so only a few fields were taken; Reno 8, 8 Pro and 7 Pro launch
+  dates not recorded (posts show no year, dates only in search titles); Find X9
+  Ultra date is the Find X9s post's; Reno 15 / 15 Pro / 15 Pro mini / 16 dates
+  are pre-order dates; V25-style "unverified" dates: none. Dimensions / weight
+  left out where builds differ (X9 Ultra, X8 Pro, Reno 16 / 16c / 15 Pro, F29,
+  F27 / F27 Pro+, T-style colour builds); IPX6/IPX8/IPX9 (K13 Turbo) not in the
+  rank list; Fonearena "Wi-Fi 6 802.11 ac" lines left out as contradictory;
+  K14 / K14x resolution and OS differ between sources and were left out of the
+  GSMArena side. 13 substantive disagreements logged in CONFLICTS.md (Wi-Fi,
+  Bluetooth, brightness, protection glass, resolution, process node);
+  rounding, naming (Energy / Max chip suffixes, GPU names) and
+  dimensions were not.
 
 - Batch 10 + vivo V30e (2026-11-16): added vivo V30e and iQOO Z11xa, Z11,
   Z11 Lite (the India "Z11 Lite 44W 5G"), Z11x, 15R, Z10R, Z10 Lite, Neo 10, Z10,
